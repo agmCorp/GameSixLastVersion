@@ -1,5 +1,6 @@
 # Flubbie
-Amazing Game made with Unity 2019.4.15f1
-<br/><a href="https://play.google.com/store/apps/details?id=uy.com.agm.gamesix">Get it on Google Play Store!</a>
-
-<img src="https://user-images.githubusercontent.com/9197974/108455042-45db1a00-724c-11eb-8e15-938a26b303fa.png"/>
+El proyecto publicado en las Play Stores (Amazon, Itch.io, PlayStore, etc.) es "agmCorp/GameSix".
+Este proyecto "GameSixLastVersion" lo subi el 21 de junio de 2021, luego de perder todo mi disco y recuperar la informacion.
+La diferencia de este proyecto "GameSixLastVersion" con "GameSix" es que tiene configurado la compilacion para multiples plataformas (incluso Mac), tiene correcciones y agregados en notes.txt y tiene solucionado lo descripto en la nota 47.
+El codigo fuente es el mismo.
+Si decido continuar el proyecto, retomarlo desde aca.
