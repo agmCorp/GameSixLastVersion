@@ -1,0 +1,82 @@
+{
+    "polarCoords": {
+        "rho": 4.0,
+        "phi": 45.0
+    },
+    "fleeConfig": {
+        "fleeSpeed": 3.0,
+        "shrinkTime": 3.0
+    },
+    "planetConfigList": [
+        {
+            "radius": 1.5,
+            "moonKeyList": [
+                "BIG_GAP",
+                "BIG_GAP",
+                "SMALL_BLUE",
+                "BIG_GAP",
+                "BIG_GAP",
+                "SMALL_YELLOW",
+                "BIG_GAP",
+                "BIG_GAP",
+                "SMALL_PINK",
+                "BIG_GAP",
+                "BIG_GAP",
+                "SMALL_GREEN"
+            ],
+            "swingConfig": {
+                "enabled": true,
+                "minRadius": 0.56,
+                "maxRadius": 1.5,
+                "swingingSpeed": 1.5,
+                "swingDuration": 0.0,
+                "pauseDuration": 0.0
+            },
+            "speedConfig": {
+                "initialSpeed": 0.1,
+                "clockwise": false,
+                "accelerationConfig": {
+                    "enabled": false,
+                    "maxSpeed": 0.0,
+                    "acceleration": 0.0,
+                    "bounce": false
+                }
+            }
+        },
+        {
+            "radius": 1.5,
+            "moonKeyList": [
+                "BIG_GAP",
+                "BIG_GAP",
+                "SMALL_BLUE",
+                "BIG_GAP",
+                "BIG_GAP",
+                "SMALL_YELLOW",
+                "BIG_GAP",
+                "BIG_GAP",
+                "SMALL_PINK",
+                "BIG_GAP",
+                "BIG_GAP",
+                "SMALL_GREEN"
+            ],
+            "swingConfig": {
+                "enabled": true,
+                "minRadius": 0.56,
+                "maxRadius": 2.5,
+                "swingingSpeed": 2.0,
+                "swingDuration": 0.0,
+                "pauseDuration": 0.0
+            },
+            "speedConfig": {
+                "initialSpeed": 1.0,
+                "clockwise": true,
+                "accelerationConfig": {
+                    "enabled": false,
+                    "maxSpeed": 0.0,
+                    "acceleration": 0.0,
+                    "bounce": false
+                }
+            }
+        }
+    ]
+}

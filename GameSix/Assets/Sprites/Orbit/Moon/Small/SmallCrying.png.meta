@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: d83dfc57de8bdcd40885d198c6669c20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5239432373342995086
+    second: SmallCrying_0
+  - first:
+      213: -1067296371974581440
+    second: SmallCrying_1
+  - first:
+      213: -6754663417766015219
+    second: SmallCrying_2
+  - first:
+      213: -8392671322029453448
+    second: SmallCrying_3
+  - first:
+      213: 169638791958446508
+    second: SmallCrying_4
+  - first:
+      213: -1377696349627162899
+    second: SmallCrying_5
+  - first:
+      213: -5469717784970162371
+    second: SmallCrying_6
+  - first:
+      213: -1849339485982402303
+    second: SmallCrying_7
+  - first:
+      213: -133273421468486612
+    second: SmallCrying_8
+  - first:
+      213: 3081756124074220328
+    second: SmallCrying_9
+  - first:
+      213: 2114909707833523076
+    second: SmallCrying_10
+  - first:
+      213: -187373520483303331
+    second: SmallCrying_11
+  - first:
+      213: 2370816974816121339
+    second: SmallCrying_12
+  - first:
+      213: 6089395085719811108
+    second: SmallCrying_13
+  - first:
+      213: 8059599535743992588
+    second: SmallCrying_14
+  - first:
+      213: -5453098294447641836
+    second: SmallCrying_15
+  - first:
+      213: -4794794057221874286
+    second: SmallCrying_16
+  - first:
+      213: -5117566331856054974
+    second: SmallCrying_17
+  - first:
+      213: 5519203805212719578
+    second: SmallCrying_0
+  - first:
+      213: -8748503500749182602
+    second: SmallCrying_1
+  - first:
+      213: 3280060078157431410
+    second: SmallCrying_2
+  - first:
+      213: 2663018001040608490
+    second: SmallCrying_3
+  - first:
+      213: 4832119757681323711
+    second: SmallCrying_4
+  - first:
+      213: -5714980948630134479
+    second: SmallCrying_5
+  - first:
+      213: -3471060627137104398
+    second: SmallCrying_6
+  - first:
+      213: -7171304641609267619
+    second: SmallCrying_7
+  - first:
+      213: -6182035318266231886
+    second: SmallCrying_8
+  - first:
+      213: -4722423655241052337
+    second: SmallCrying_9
+  - first:
+      213: 9089530987768350891
+    second: SmallCrying_10
+  - first:
+      213: 7670016630351857222
+    second: SmallCrying_11
+  - first:
+      213: 3930835162107413307
+    second: SmallCrying_12
+  - first:
+      213: -7431011745026341059
+    second: SmallCrying_13
+  - first:
+      213: 4272102942053471665
+    second: SmallCrying_14
+  - first:
+      213: 7509745928649282612
+    second: SmallCrying_15
+  - first:
+      213: 9121024417354635140
+    second: SmallCrying_16
+  - first:
+      213: 4483243765163510818
+    second: SmallCrying_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallCrying_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0f7e33c0f4f420800000000000000
+      internalID: 2663018001040608490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 214
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeedb461532f0340800000000000000
+      internalID: 4832119757681323711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f5a500c054dfc0800000000000000
+      internalID: -3471060627137104398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5605c47c686a7c90800000000000000
+      internalID: -7171304641609267619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f847eb4b4967eb0800000000000000
+      internalID: -4722423655241052337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 108
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba886d46640842e70800000000000000
+      internalID: 9089530987768350891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 57
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b330704e0c12d8630800000000000000
+      internalID: 3930835162107413307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 57
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3703f7603ebfd890800000000000000
+      internalID: -7431011745026341059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434939e322af73860800000000000000
+      internalID: 7509745928649282612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4875610e163649e70800000000000000
+      internalID: 9121024417354635140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 264
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d7532240cc947b0800000000000000
+      internalID: -5239432373342995086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043546eba933031f0800000000000000
+      internalID: -1067296371974581440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 264
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f0bb6c86d9242a0800000000000000
+      internalID: -6754663417766015219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 214
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deede18287071ece0800000000000000
+      internalID: -1377696349627162899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 160
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24be5f7784862ef0800000000000000
+      internalID: -133273421468486612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 108
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50474f96c0566df0800000000000000
+      internalID: -187373520483303331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038cef731379df60800000000000000
+      internalID: 8059599535743992588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallCrying_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24598330980caf8b0800000000000000
+      internalID: -5117566331856054974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

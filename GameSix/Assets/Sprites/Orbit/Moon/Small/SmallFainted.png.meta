@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 3a2a170b7301f03469c87ab3e6f44ec5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4196538944377816899
+    second: SmallFainted_0
+  - first:
+      213: -5630687668439974785
+    second: SmallFainted_1
+  - first:
+      213: 1193338549971738345
+    second: SmallFainted_2
+  - first:
+      213: -5670891099211533451
+    second: SmallFainted_3
+  - first:
+      213: -1774076153024781515
+    second: SmallFainted_4
+  - first:
+      213: -4723961455824530040
+    second: SmallFainted_5
+  - first:
+      213: -3887743988631526905
+    second: SmallFainted_6
+  - first:
+      213: 6775704432292454520
+    second: SmallFainted_7
+  - first:
+      213: 1420495686844103317
+    second: SmallFainted_8
+  - first:
+      213: 2629355187220805270
+    second: SmallFainted_9
+  - first:
+      213: 2015236181898301689
+    second: SmallFainted_10
+  - first:
+      213: 1895921764869509220
+    second: SmallFainted_11
+  - first:
+      213: 6194976099766253091
+    second: SmallFainted_12
+  - first:
+      213: 1794219286258296833
+    second: SmallFainted_13
+  - first:
+      213: 2070252739256026081
+    second: SmallFainted_14
+  - first:
+      213: 9119265688826822472
+    second: SmallFainted_15
+  - first:
+      213: -2670882017136140350
+    second: SmallFainted_16
+  - first:
+      213: -5353624269035708747
+    second: SmallFainted_17
+  - first:
+      213: -6734871795445429828
+    second: SmallFainted_18
+  - first:
+      213: 5591425653141814694
+    second: SmallFainted_19
+  - first:
+      213: 5985514472461663503
+    second: SmallFainted_20
+  - first:
+      213: 3071513993949129729
+    second: SmallFainted_21
+  - first:
+      213: -6232505525050055130
+    second: SmallFainted_22
+  - first:
+      213: -3594519010631086964
+    second: SmallFainted_23
+  - first:
+      213: 1092646655404221738
+    second: SmallFainted_24
+  - first:
+      213: -1302708952264992357
+    second: SmallFainted_25
+  - first:
+      213: 8730970980349042294
+    second: SmallFainted_26
+  - first:
+      213: 3955928237896976144
+    second: SmallFainted_27
+  - first:
+      213: 749564358599695886
+    second: SmallFainted_28
+  - first:
+      213: -5384874152185709365
+    second: SmallFainted_29
+  - first:
+      213: -391373804704217470
+    second: SmallFainted_30
+  - first:
+      213: -1762256834421763674
+    second: SmallFainted_31
+  - first:
+      213: 4409291100177368050
+    second: SmallFainted_32
+  - first:
+      213: 1926703596160144404
+    second: SmallFainted_33
+  - first:
+      213: 8792148288649225009
+    second: SmallFainted_34
+  - first:
+      213: -1331902493403788111
+    second: SmallFainted_35
+  - first:
+      213: -6145067395877855290
+    second: SmallFainted_36
+  - first:
+      213: 5131998180941898777
+    second: SmallFainted_37
+  - first:
+      213: 4429471032085091051
+    second: SmallFainted_38
+  - first:
+      213: -2443375620334052168
+    second: SmallFainted_39
+  - first:
+      213: -3550932105343493297
+    second: SmallFainted_40
+  - first:
+      213: 5031793467402291048
+    second: SmallFainted_41
+  - first:
+      213: 25744778481497582
+    second: SmallFainted_42
+  - first:
+      213: 7525238409308631669
+    second: SmallFainted_43
+  - first:
+      213: 8570572419387985068
+    second: SmallFainted_44
+  - first:
+      213: -8992985884919706115
+    second: SmallFainted_45
+  - first:
+      213: 157687822416967256
+    second: SmallFainted_46
+  - first:
+      213: -3158460272401055274
+    second: SmallFainted_47
+  - first:
+      213: 4324308140650004280
+    second: SmallFainted_48
+  - first:
+      213: -7090680841358353376
+    second: SmallFainted_49
+  - first:
+      213: -2976570996779762251
+    second: SmallFainted_50
+  - first:
+      213: -7743749570111044981
+    second: SmallFainted_51
+  - first:
+      213: 3347686106921130214
+    second: SmallFainted_52
+  - first:
+      213: -3169393898375306300
+    second: SmallFainted_53
+  - first:
+      213: -7171601586346434195
+    second: SmallFainted_54
+  - first:
+      213: 1372191642562989182
+    second: SmallFainted_55
+  - first:
+      213: -8584075754417144624
+    second: SmallFainted_56
+  - first:
+      213: -4122820885827078387
+    second: SmallFainted_57
+  - first:
+      213: 4400850630425317737
+    second: SmallFainted_58
+  - first:
+      213: -5537722271638251750
+    second: SmallFainted_59
+  - first:
+      213: -6151425301961636705
+    second: SmallFainted_0
+  - first:
+      213: 2509093730569351025
+    second: SmallFainted_1
+  - first:
+      213: 950364993568213324
+    second: SmallFainted_2
+  - first:
+      213: 3566466814359859486
+    second: SmallFainted_3
+  - first:
+      213: -3222046816994411917
+    second: SmallFainted_4
+  - first:
+      213: -8357334560878598465
+    second: SmallFainted_5
+  - first:
+      213: 1382828994284602906
+    second: SmallFainted_6
+  - first:
+      213: 1194760640960728088
+    second: SmallFainted_7
+  - first:
+      213: -3609144094134841252
+    second: SmallFainted_8
+  - first:
+      213: 3484882051890898129
+    second: SmallFainted_9
+  - first:
+      213: -1478660430111055067
+    second: SmallFainted_10
+  - first:
+      213: -1076298937454447776
+    second: SmallFainted_11
+  - first:
+      213: 1301060962705161673
+    second: SmallFainted_12
+  - first:
+      213: -3483937304806335532
+    second: SmallFainted_13
+  - first:
+      213: 8975159295772158848
+    second: SmallFainted_14
+  - first:
+      213: -6944866938640725074
+    second: SmallFainted_15
+  - first:
+      213: 7546537430446481333
+    second: SmallFainted_16
+  - first:
+      213: -2382429174746314754
+    second: SmallFainted_17
+  - first:
+      213: -3304447336664421148
+    second: SmallFainted_18
+  - first:
+      213: 3958528914116772862
+    second: SmallFainted_19
+  - first:
+      213: 1552479160547400614
+    second: SmallFainted_20
+  - first:
+      213: -6272602897197110929
+    second: SmallFainted_21
+  - first:
+      213: -3661312754857480797
+    second: SmallFainted_22
+  - first:
+      213: 6788594273144880421
+    second: SmallFainted_23
+  - first:
+      213: -6369239839234386505
+    second: SmallFainted_24
+  - first:
+      213: -6178519966779004993
+    second: SmallFainted_25
+  - first:
+      213: 2427193154974682624
+    second: SmallFainted_26
+  - first:
+      213: 2288091209752658136
+    second: SmallFainted_27
+  - first:
+      213: -7484045640352841945
+    second: SmallFainted_28
+  - first:
+      213: 6082719159852099445
+    second: SmallFainted_29
+  - first:
+      213: -6931832772265710343
+    second: SmallFainted_30
+  - first:
+      213: -1998188022572137060
+    second: SmallFainted_31
+  - first:
+      213: -7247054766492918894
+    second: SmallFainted_32
+  - first:
+      213: -5675352680464918305
+    second: SmallFainted_33
+  - first:
+      213: -1593402641588441185
+    second: SmallFainted_34
+  - first:
+      213: -7457829326550723239
+    second: SmallFainted_35
+  - first:
+      213: -2234588112356071227
+    second: SmallFainted_36
+  - first:
+      213: 8508473316119756769
+    second: SmallFainted_37
+  - first:
+      213: 2417672272157273988
+    second: SmallFainted_38
+  - first:
+      213: -6925464428530962487
+    second: SmallFainted_39
+  - first:
+      213: -878295399572584729
+    second: SmallFainted_40
+  - first:
+      213: -4511115305802290968
+    second: SmallFainted_41
+  - first:
+      213: -2743999344331716991
+    second: SmallFainted_42
+  - first:
+      213: -8937353347005318354
+    second: SmallFainted_43
+  - first:
+      213: 7348016583740664085
+    second: SmallFainted_44
+  - first:
+      213: 5574601797966161744
+    second: SmallFainted_45
+  - first:
+      213: 2915347330702429732
+    second: SmallFainted_46
+  - first:
+      213: -9032696071664746389
+    second: SmallFainted_47
+  - first:
+      213: 8202515413433771496
+    second: SmallFainted_48
+  - first:
+      213: 5011807575251061175
+    second: SmallFainted_49
+  - first:
+      213: -380331649969778957
+    second: SmallFainted_50
+  - first:
+      213: -3675527705524426388
+    second: SmallFainted_51
+  - first:
+      213: -1578350744034488280
+    second: SmallFainted_52
+  - first:
+      213: 587336173220962395
+    second: SmallFainted_53
+  - first:
+      213: -7505281082676384150
+    second: SmallFainted_54
+  - first:
+      213: 5428823005454453413
+    second: SmallFainted_55
+  - first:
+      213: 7726746242574742016
+    second: SmallFainted_56
+  - first:
+      213: 7885747406058687218
+    second: SmallFainted_57
+  - first:
+      213: 8885463655345017940
+    second: SmallFainted_58
+  - first:
+      213: 3251580765201923152
+    second: SmallFainted_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallFainted_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 218
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523edcf4c2eba7be0800000000000000
+      internalID: -1478660430111055067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b5e0a1d73011f0800000000000000
+      internalID: -1076298937454447776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 218
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3b216d0c4e0210800000000000000
+      internalID: 1301060962705161673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 218
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db594fda7196afc0800000000000000
+      internalID: -3483937304806335532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 218
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b6b0bb3db2e8c70800000000000000
+      internalID: 8975159295772158848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 218
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab07f59050ee9f90800000000000000
+      internalID: -6944866938640725074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 218
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf93f94fcfaab860800000000000000
+      internalID: 7546537430446481333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 218
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef708b8c949efeed0800000000000000
+      internalID: -2382429174746314754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abdf9532938b8510800000000000000
+      internalID: 1552479160547400614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 164
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69ea7f06ec33f8a0800000000000000
+      internalID: -6272602897197110929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 164
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adec1ba277603dc0800000000000000
+      internalID: -3661312754857480797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 164
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d3d0f168ee53e50800000000000000
+      internalID: 6788594273144880421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 164
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51b25ac1aeb97a0800000000000000
+      internalID: -6369239839234386505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 164
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7aa7e43dc714aa0800000000000000
+      internalID: -6178519966779004993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 164
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e868b805f1fa120800000000000000
+      internalID: 2427193154974682624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 164
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0400b15dee0cf10800000000000000
+      internalID: 2288091209752658136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 113
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fce0bee1de2dcf90800000000000000
+      internalID: -6931832772265710343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 113
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c52094920544e0800000000000000
+      internalID: -1998188022572137060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 113
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b536f161a4d6b90800000000000000
+      internalID: -7247054766492918894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 113
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d3d17ec81d31b0800000000000000
+      internalID: -5675352680464918305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa3fb5db813e9e0800000000000000
+      internalID: -1593402641588441185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 113
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551473adb7708890800000000000000
+      internalID: -7457829326550723239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 113
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8a4bf73f52df0e0800000000000000
+      internalID: -2234588112356071227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_37
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 113
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef3534b66b241670800000000000000
+      internalID: 8508473316119756769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 62
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6cd9cccfaafc3f0800000000000000
+      internalID: -878295399572584729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 62
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8a3d0c78c4561c0800000000000000
+      internalID: -4511115305802290968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 62
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1860439722b5be9d0800000000000000
+      internalID: -2743999344331716991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 62
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b7997ab7428f380800000000000000
+      internalID: -8937353347005318354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_44
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 62
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519aa85c62669f560800000000000000
+      internalID: 7348016583740664085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 62
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057e60cbcc6fc5d40800000000000000
+      internalID: 5574601797966161744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 62
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec66b73f4657820800000000000000
+      internalID: 2915347330702429732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 62
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604b54b7ca65a280800000000000000
+      internalID: -9032696071664746389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe86b2216ac8baf0800000000000000
+      internalID: -380331649969778957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c692c1e8607edfcc0800000000000000
+      internalID: -3675527705524426388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d9da5c52981ae0800000000000000
+      internalID: -1578350744034488280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50a2904323a62800800000000000000
+      internalID: 587336173220962395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 10
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e6d97be92e7d790800000000000000
+      internalID: -7505281082676384150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_55
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 9
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac494a2cd075b40800000000000000
+      internalID: 5428823005454453413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 10
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002704205caea3b60800000000000000
+      internalID: 7726746242574742016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_57
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 10
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa069e3c7dcf6d60800000000000000
+      internalID: 7885747406058687218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 270
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db874467016e2c5c0800000000000000
+      internalID: -4196538944377816899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7671f567cbd1b0800000000000000
+      internalID: -5630687668439974785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 270
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee58dfa6179f8010800000000000000
+      internalID: 1193338549971738345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 270
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57372974792fc41b0800000000000000
+      internalID: -5670891099211533451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 270
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533677663273167e0800000000000000
+      internalID: -1774076153024781515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 270
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88511f4a51e117eb0800000000000000
+      internalID: -4723961455824530040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 270
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70225f3c075fb0ac0800000000000000
+      internalID: -3887743988631526905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 270
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870e4dd2843280e50800000000000000
+      internalID: 6775704432292454520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 270
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a31531d4d96b310800000000000000
+      internalID: 1420495686844103317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 270
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69670a2ac985d7420800000000000000
+      internalID: 2629355187220805270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 218
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98da0f8cde882a0800000000000000
+      internalID: -6734871795445429828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 218
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad3683c10cb89d40800000000000000
+      internalID: 5591425653141814694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_28
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 164
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed0a210dcf66a00800000000000000
+      internalID: 749564358599695886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 164
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb9c62d751545b0800000000000000
+      internalID: -5384874152185709365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_38
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 113
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be290527f64a87d30800000000000000
+      internalID: 4429471032085091051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_39
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 113
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9321a1d2671ed0800000000000000
+      internalID: -2443375620334052168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 62
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ff5ceb757030c30800000000000000
+      internalID: 4324308140650004280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 62
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cda23c757d89d90800000000000000
+      internalID: -7090680841358353376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_58
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 10
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9611e08e456f21d30800000000000000
+      internalID: 4400850630425317737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFainted_59
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 10
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a179b3e1fee0623b0800000000000000
+      internalID: -5537722271638251750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

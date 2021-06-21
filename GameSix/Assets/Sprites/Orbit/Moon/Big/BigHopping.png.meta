@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 24aefab6a6ad5384a9f6c79f796977c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1248761766883957768
+    second: BigHopping_0
+  - first:
+      213: 2227648438555305103
+    second: BigHopping_1
+  - first:
+      213: -1029033824245360334
+    second: BigHopping_2
+  - first:
+      213: -6805639574302932523
+    second: BigHopping_3
+  - first:
+      213: -7876998728566437529
+    second: BigHopping_4
+  - first:
+      213: 5320320728177760422
+    second: BigHopping_5
+  - first:
+      213: 6964936951407576966
+    second: BigHopping_6
+  - first:
+      213: 7828705290687573756
+    second: BigHopping_7
+  - first:
+      213: 393003723813930096
+    second: BigHopping_8
+  - first:
+      213: -2770762416966465319
+    second: BigHopping_9
+  - first:
+      213: 7348817424592430556
+    second: BigHopping_10
+  - first:
+      213: 2448568228494114352
+    second: BigHopping_11
+  - first:
+      213: -4809527675980765692
+    second: BigHopping_12
+  - first:
+      213: 8251316971221240612
+    second: BigHopping_13
+  - first:
+      213: 2509453231213068564
+    second: BigHopping_14
+  - first:
+      213: 5865595471481919354
+    second: BigHopping_15
+  - first:
+      213: -7573257757396771201
+    second: BigHopping_16
+  - first:
+      213: -3585059096764322615
+    second: BigHopping_17
+  - first:
+      213: 7870195304830341058
+    second: BigHopping_18
+  - first:
+      213: 3025687313766066566
+    second: BigHopping_19
+  - first:
+      213: 7166161787334620808
+    second: BigHopping_20
+  - first:
+      213: -3900634358198703537
+    second: BigHopping_21
+  - first:
+      213: 5016762782802930271
+    second: BigHopping_22
+  - first:
+      213: -7824171878520760117
+    second: BigHopping_23
+  - first:
+      213: -7300545264057772768
+    second: BigHopping_24
+  - first:
+      213: 1111847384428948733
+    second: BigHopping_25
+  - first:
+      213: -3398744270438849588
+    second: BigHopping_26
+  - first:
+      213: 3739000556032015570
+    second: BigHopping_27
+  - first:
+      213: 6030356011228036680
+    second: BigHopping_28
+  - first:
+      213: 249605735724161952
+    second: BigHopping_29
+  - first:
+      213: -1692998506342196964
+    second: BigHopping_30
+  - first:
+      213: 2118628022631965258
+    second: BigHopping_31
+  - first:
+      213: -8307520260676296642
+    second: BigHopping_32
+  - first:
+      213: -3877799450908619177
+    second: BigHopping_33
+  - first:
+      213: 5036030305242921109
+    second: BigHopping_34
+  - first:
+      213: -9135240964932174496
+    second: BigHopping_35
+  - first:
+      213: 1593600574327500400
+    second: BigHopping_36
+  - first:
+      213: 7044098829534843016
+    second: BigHopping_37
+  - first:
+      213: 4188213965741474703
+    second: BigHopping_38
+  - first:
+      213: -8808243481046814290
+    second: BigHopping_39
+  - first:
+      213: 7351952117105744268
+    second: BigHopping_40
+  - first:
+      213: -6407529992724333357
+    second: BigHopping_41
+  - first:
+      213: -7239468668959185184
+    second: BigHopping_42
+  - first:
+      213: 8618641242971158929
+    second: BigHopping_43
+  - first:
+      213: -5222480080740794332
+    second: BigHopping_44
+  - first:
+      213: -3478013227312165422
+    second: BigHopping_45
+  - first:
+      213: 940486631890624830
+    second: BigHopping_46
+  - first:
+      213: -7489544769838149840
+    second: BigHopping_47
+  - first:
+      213: -3625452765156121647
+    second: BigHopping_48
+  - first:
+      213: -5566433042845604142
+    second: BigHopping_49
+  - first:
+      213: 4001960530952723616
+    second: BigHopping_50
+  - first:
+      213: 5536279297211038664
+    second: BigHopping_51
+  - first:
+      213: 7681449920038564494
+    second: BigHopping_52
+  - first:
+      213: -4232292946192099958
+    second: BigHopping_53
+  - first:
+      213: -8385101231100537938
+    second: BigHopping_54
+  - first:
+      213: 7849438171256643139
+    second: BigHopping_55
+  - first:
+      213: 4577202488691728083
+    second: BigHopping_56
+  - first:
+      213: -1369495641341073346
+    second: BigHopping_57
+  - first:
+      213: -303651873554970745
+    second: BigHopping_58
+  - first:
+      213: 4142139330043735928
+    second: BigHopping_59
+  - first:
+      213: -9020000271866527247
+    second: BigHopping_0
+  - first:
+      213: 4768751948688328171
+    second: BigHopping_1
+  - first:
+      213: 6480089223511932798
+    second: BigHopping_2
+  - first:
+      213: -6965207004454623628
+    second: BigHopping_3
+  - first:
+      213: -2854795389160587682
+    second: BigHopping_4
+  - first:
+      213: 7146265415643418112
+    second: BigHopping_5
+  - first:
+      213: -8123464977488981004
+    second: BigHopping_6
+  - first:
+      213: 5323787063279163652
+    second: BigHopping_7
+  - first:
+      213: 7428980633364534012
+    second: BigHopping_8
+  - first:
+      213: -862218951362050265
+    second: BigHopping_9
+  - first:
+      213: 836470091014234356
+    second: BigHopping_10
+  - first:
+      213: 7240274187142899809
+    second: BigHopping_11
+  - first:
+      213: -810818361056843507
+    second: BigHopping_12
+  - first:
+      213: 8214564579183400158
+    second: BigHopping_13
+  - first:
+      213: -4165982377956406492
+    second: BigHopping_14
+  - first:
+      213: 3786583467833770827
+    second: BigHopping_15
+  - first:
+      213: -148340729407211817
+    second: BigHopping_16
+  - first:
+      213: 9119896693420996224
+    second: BigHopping_17
+  - first:
+      213: 1980752363645623267
+    second: BigHopping_18
+  - first:
+      213: 6999022918609244591
+    second: BigHopping_19
+  - first:
+      213: 2009816778925001647
+    second: BigHopping_20
+  - first:
+      213: 6138572447277680009
+    second: BigHopping_21
+  - first:
+      213: 4832430207407298442
+    second: BigHopping_22
+  - first:
+      213: -3479652177807705140
+    second: BigHopping_23
+  - first:
+      213: -242586981004310854
+    second: BigHopping_24
+  - first:
+      213: 4987168318983975420
+    second: BigHopping_25
+  - first:
+      213: 2182521464157025315
+    second: BigHopping_26
+  - first:
+      213: -1344834512881544659
+    second: BigHopping_27
+  - first:
+      213: -1907533043048194574
+    second: BigHopping_28
+  - first:
+      213: -7673306733062520159
+    second: BigHopping_29
+  - first:
+      213: -2941137836434251142
+    second: BigHopping_30
+  - first:
+      213: 3757382144380002391
+    second: BigHopping_31
+  - first:
+      213: 2936917018905142316
+    second: BigHopping_32
+  - first:
+      213: 9023016945459036610
+    second: BigHopping_33
+  - first:
+      213: 5260475422873728704
+    second: BigHopping_34
+  - first:
+      213: -65910429717551496
+    second: BigHopping_35
+  - first:
+      213: 5468800025587570946
+    second: BigHopping_36
+  - first:
+      213: -3005987251352451454
+    second: BigHopping_37
+  - first:
+      213: -287181572496379638
+    second: BigHopping_38
+  - first:
+      213: -815759892572348756
+    second: BigHopping_39
+  - first:
+      213: -1026499358547934131
+    second: BigHopping_40
+  - first:
+      213: -1403323671912556042
+    second: BigHopping_41
+  - first:
+      213: -6709593666947087276
+    second: BigHopping_42
+  - first:
+      213: 6300483702348901482
+    second: BigHopping_43
+  - first:
+      213: -323705611541128372
+    second: BigHopping_44
+  - first:
+      213: -1451976054425844154
+    second: BigHopping_45
+  - first:
+      213: -3782436319600760855
+    second: BigHopping_46
+  - first:
+      213: -8781444970709696248
+    second: BigHopping_47
+  - first:
+      213: 5468848555276347459
+    second: BigHopping_48
+  - first:
+      213: -6937999368188321859
+    second: BigHopping_49
+  - first:
+      213: 4325405922784290061
+    second: BigHopping_50
+  - first:
+      213: -1489584110981898514
+    second: BigHopping_51
+  - first:
+      213: 3020037360509613527
+    second: BigHopping_52
+  - first:
+      213: 7933895163289499897
+    second: BigHopping_53
+  - first:
+      213: -7155233359140520028
+    second: BigHopping_54
+  - first:
+      213: 3798562500579590682
+    second: BigHopping_55
+  - first:
+      213: -5532726630133550398
+    second: BigHopping_56
+  - first:
+      213: 2542372727563968852
+    second: BigHopping_57
+  - first:
+      213: -8654681999066447654
+    second: BigHopping_58
+  - first:
+      213: -187545692626172382
+    second: BigHopping_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigHopping_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 601
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f10871fa8582d280800000000000000
+      internalID: -9020000271866527247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 601
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50583a1a20e2240800000000000000
+      internalID: 4768751948688328171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 601
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ff348d0d6ede950800000000000000
+      internalID: 6480089223511932798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 601
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4766b68f12d965f90800000000000000
+      internalID: -6965207004454623628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 602
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef8aa08bab168d0800000000000000
+      internalID: -2854795389160587682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_5
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 602
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ec5127882ac2360800000000000000
+      internalID: 7146265415643418112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_6
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 601
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3517794a7a34f80800000000000000
+      internalID: -8123464977488981004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 601
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409139e9024e1e940800000000000000
+      internalID: 5323787063279163652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_8
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 601
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf213fe868a091760800000000000000
+      internalID: 7428980633364534012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_9
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 601
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72784759e68c804f0800000000000000
+      internalID: -862218951362050265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 489
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f06420bd1dbb9b00800000000000000
+      internalID: 836470091014234356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 489
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1682519330f9a7460800000000000000
+      internalID: 7240274187142899809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 489
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09a7db1ff46fb4f0800000000000000
+      internalID: -810818361056843507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 489
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49bbe46fefff170800000000000000
+      internalID: 8214564579183400158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 489
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b0f5d79157f26c0800000000000000
+      internalID: -4165982377956406492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_15
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 489
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4349901a95ac8430800000000000000
+      internalID: 3786583467833770827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 489
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6f5fd74ecf0fdf0800000000000000
+      internalID: -148340729407211817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 489
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863e9f29b1609e70800000000000000
+      internalID: 9119896693420996224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_18
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 489
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebdc1fb7cb0d7b10800000000000000
+      internalID: 1980752363645623267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_19
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 489
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa195861346812160800000000000000
+      internalID: 6999022918609244591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 366
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc17346bd44eb10800000000000000
+      internalID: 2009816778925001647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 366
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9858cf30e17903550800000000000000
+      internalID: 6138572447277680009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 366
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87116a9bad301340800000000000000
+      internalID: 4832430207407298442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_23
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 366
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb7bdfb7cac5bfc0800000000000000
+      internalID: -3479652177807705140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_24
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 366
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68a121d6822acf0800000000000000
+      internalID: -242586981004310854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 366
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf13f18b92bf53540800000000000000
+      internalID: 4987168318983975420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_26
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 366
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324beb945bfd94e10800000000000000
+      internalID: 2182521464157025315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_27
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 366
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d229202c220365de0800000000000000
+      internalID: -1344834512881544659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_28
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 365
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fddacbcdc41785e0800000000000000
+      internalID: -1907533043048194574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_29
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 366
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a202336e20f28590800000000000000
+      internalID: -7673306733062520159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 243
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7220e778bafe27d0800000000000000
+      internalID: -2941137836434251142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 243
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7506a212727e42430800000000000000
+      internalID: 3757382144380002391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 243
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24e3aed77602c820800000000000000
+      internalID: 2936917018905142316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_33
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 243
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c18a6c1b12383d70800000000000000
+      internalID: 9023016945459036610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_34
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 244
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6bf02a686f00940800000000000000
+      internalID: 5260475422873728704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 244
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87621b930d6d51ff0800000000000000
+      internalID: -65910429717551496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_36
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 243
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2095bc8f5a415eb40800000000000000
+      internalID: 5468800025587570946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_37
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 243
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c8c375869846d0800000000000000
+      internalID: -3005987251352451454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_38
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 243
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b051a1e9b30cf0800000000000000
+      internalID: -287181572496379638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_39
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 243
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed63523b6dda4f0800000000000000
+      internalID: -815759892572348756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 131
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448593a54421c1f0800000000000000
+      internalID: -1026499358547934131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f951c63e84668ce0800000000000000
+      internalID: -1403323671912556042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 131
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454886edb1cb2e2a0800000000000000
+      internalID: -6709593666947087276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 131
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce4afbb80df6750800000000000000
+      internalID: 6300483702348901482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_44
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 131
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b5a4c1677f18bf0800000000000000
+      internalID: -323705611541128372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_45
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 131
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646039da87b89dbe0800000000000000
+      internalID: -1451976054425844154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_46
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 131
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e729a02536128bc0800000000000000
+      internalID: -3782436319600760855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_47
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 131
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8014532435a022680800000000000000
+      internalID: -8781444970709696248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_48
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 131
+        width: 102
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a7ab29c045eb40800000000000000
+      internalID: 5468848555276347459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_49
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 130
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf104f655647bf90800000000000000
+      internalID: -6937999368188321859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ade015cde60c30800000000000000
+      internalID: 4325405922784290061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 14
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9bd9a42fe35be0800000000000000
+      internalID: -1489584110981898514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 14
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d575918af359e920800000000000000
+      internalID: 3020037360509613527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_53
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 14
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f87f0d8d9bda1e60800000000000000
+      internalID: 7933895163289499897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_54
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 14
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af776f7b2183bc90800000000000000
+      internalID: -7155233359140520028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_55
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 14
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a128a28f77437b430800000000000000
+      internalID: 3798562500579590682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 14
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2bb8b817ec733b0800000000000000
+      internalID: -5532726630133550398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_57
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 14
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45167119682584320800000000000000
+      internalID: 2542372727563968852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_58
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 14
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad04da9839464e780800000000000000
+      internalID: -8654681999066447654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHopping_59
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 14
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ccdbaf24b56df0800000000000000
+      internalID: -187545692626172382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

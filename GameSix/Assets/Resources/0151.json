@@ -1,0 +1,128 @@
+{
+	"polarCoords": {
+		"rho": 7,
+		"phi": 30.0
+	},
+	"fleeConfig": {
+		"fleeSpeed": 3.0,
+		"shrinkTime": 3.0
+	},
+	"planetConfigList": [
+		{
+			"radius": 0.8,
+			"moonKeyList": [
+				"SMALL_ORANGE",
+				"SMALL_ORANGE"
+			],
+			"swingConfig": {
+				"enabled": false,
+				"minRadius": 0.0,
+				"maxRadius": 0.0,
+				"swingingSpeed": 0,
+				"swingDuration": 0.0,
+				"pauseDuration": 0.0
+			},
+			"speedConfig": {
+				"initialSpeed": 2.0,
+				"clockwise": true,
+				"accelerationConfig": {
+					"enabled": false,
+					"maxSpeed": 0.0,
+					"acceleration": 0.0,
+					"bounce": false
+				}
+			}
+		},
+		{
+			"radius": 0.8,
+			"moonKeyList": [
+				"BIG_GAP",
+				"BIG_GAP",
+				"SMALL_PINK",
+				"SMALL_PINK"
+			],
+			"swingConfig": {
+				"enabled": true,
+				"minRadius": 0.8,
+				"maxRadius": 2.6,
+				"swingingSpeed": 2.0,
+				"swingDuration": 0.0,
+				"pauseDuration": 0.0
+			},
+			"speedConfig": {
+				"initialSpeed": 2.5,
+				"clockwise": true,
+				"accelerationConfig": {
+					"enabled": false,
+					"maxSpeed": 0.0,
+					"acceleration": 0.0,
+					"bounce": false
+				}
+			}
+		},
+		{
+			"radius": 0.8,
+			"moonKeyList": [
+				"BIG_GAP",
+				"SMALL_PINK",
+				"SMALL_PINK"
+			],
+			"swingConfig": {
+				"enabled": true,
+				"minRadius": 0.8,
+				"maxRadius": 2.6,
+				"swingingSpeed": 2.0,
+				"swingDuration": 0.0,
+				"pauseDuration": 0.0
+			},
+			"speedConfig": {
+				"initialSpeed": 2.5,
+				"clockwise": false,
+				"accelerationConfig": {
+					"enabled": false,
+					"maxSpeed": 0.0,
+					"acceleration": 0.0,
+					"bounce": false
+				}
+			}
+		},
+		{
+			"radius": 1.6,
+			"moonKeyList": [
+				"SMALL_BLUE",
+				"SMALL_BLUE",
+				"SMALL_BLUE",
+				"BIG_GAP",
+				"BIG_GAP",
+				"BIG_GAP",
+				"SMALL_BLUE",
+				"SMALL_BLUE",
+				"SMALL_BLUE",
+				"BIG_GAP",
+				"BIG_GAP",
+				"BIG_GAP",
+				"SMALL_BLUE",
+				"SMALL_BLUE",
+				"SMALL_BLUE"
+			],
+			"swingConfig": {
+				"enabled": true,
+				"minRadius": 0.6,
+				"maxRadius": 2.0,
+				"swingingSpeed": 1.5,
+				"swingDuration": 5.0,
+				"pauseDuration": 5.0
+			},
+			"speedConfig": {
+				"initialSpeed": 2.2,
+				"clockwise": false,
+				"accelerationConfig": {
+					"enabled": false,
+					"maxSpeed": 0.0,
+					"acceleration": 0.0,
+					"bounce": false
+				}
+			}
+		}
+	]
+}

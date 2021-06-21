@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: ff82bfc8e66650544862eb6c6a0e2038
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4989087043741983185
+    second: MediumCrying_0
+  - first:
+      213: 831448709235895883
+    second: MediumCrying_1
+  - first:
+      213: 4597718993367782862
+    second: MediumCrying_2
+  - first:
+      213: 1722751882673270738
+    second: MediumCrying_3
+  - first:
+      213: 2630954915420598183
+    second: MediumCrying_4
+  - first:
+      213: -3348639308284668263
+    second: MediumCrying_5
+  - first:
+      213: -638717910733023273
+    second: MediumCrying_6
+  - first:
+      213: -7407459431430506877
+    second: MediumCrying_7
+  - first:
+      213: -4271893208415969954
+    second: MediumCrying_8
+  - first:
+      213: 8169599114142175683
+    second: MediumCrying_9
+  - first:
+      213: -5807539169648870105
+    second: MediumCrying_10
+  - first:
+      213: 7158505170876169282
+    second: MediumCrying_11
+  - first:
+      213: -959591325594697715
+    second: MediumCrying_12
+  - first:
+      213: 2533468325304161029
+    second: MediumCrying_13
+  - first:
+      213: -5035016126970820232
+    second: MediumCrying_14
+  - first:
+      213: -431929779662896741
+    second: MediumCrying_15
+  - first:
+      213: 5638213288639852476
+    second: MediumCrying_16
+  - first:
+      213: 7695635660978104601
+    second: MediumCrying_17
+  - first:
+      213: 8165666403854509782
+    second: MediumCrying_0
+  - first:
+      213: -4881600839801613549
+    second: MediumCrying_1
+  - first:
+      213: -7228734414319105850
+    second: MediumCrying_2
+  - first:
+      213: -6656843094871269144
+    second: MediumCrying_3
+  - first:
+      213: 4750997920973821394
+    second: MediumCrying_4
+  - first:
+      213: -7317976795276085837
+    second: MediumCrying_5
+  - first:
+      213: 5148033200263215773
+    second: MediumCrying_6
+  - first:
+      213: -3771167992266343228
+    second: MediumCrying_7
+  - first:
+      213: -3644790581268780360
+    second: MediumCrying_8
+  - first:
+      213: -8842064527081798497
+    second: MediumCrying_9
+  - first:
+      213: -1074831344514270804
+    second: MediumCrying_10
+  - first:
+      213: 4485009790350592974
+    second: MediumCrying_11
+  - first:
+      213: -5008890303967183114
+    second: MediumCrying_12
+  - first:
+      213: -7279111495195440584
+    second: MediumCrying_13
+  - first:
+      213: -9132257238400093726
+    second: MediumCrying_14
+  - first:
+      213: 6375859847731892572
+    second: MediumCrying_15
+  - first:
+      213: -1869683882479963961
+    second: MediumCrying_16
+  - first:
+      213: 2351023730693091195
+    second: MediumCrying_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MediumCrying_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 389
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6e61ca456425170800000000000000
+      internalID: 8165666403854509782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 389
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313506866e1114cb0800000000000000
+      internalID: -4881600839801613549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 389
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84ed289506eab90800000000000000
+      internalID: -7228734414319105850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 314
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0afa489742e93a0800000000000000
+      internalID: -6656843094871269144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 314
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d59340ff6feee140800000000000000
+      internalID: 4750997920973821394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 314
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5740380e2517a90800000000000000
+      internalID: -7317976795276085837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 235
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a3b919bec717740800000000000000
+      internalID: 5148033200263215773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 235
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc34a801be1aabc0800000000000000
+      internalID: -3771167992266343228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 235
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae8caf64a1b6dc0800000000000000
+      internalID: -3644790581268780360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94053ee82daa4580800000000000000
+      internalID: -8842064527081798497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca975cc369e6511f0800000000000000
+      internalID: -1074831344514270804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 159
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb0ff744a4fd3e30800000000000000
+      internalID: 4485009790350592974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 84
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe33298ec8dc7ab0800000000000000
+      internalID: -5008890303967183114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac96859a66bfa90800000000000000
+      internalID: -7279111495195440584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 84
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e13cab2d64b34180800000000000000
+      internalID: -9132257238400093726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c515cb130ca9b7850800000000000000
+      internalID: 6375859847731892572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c032863a6c8d06e0800000000000000
+      internalID: -1869683882479963961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumCrying_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 6
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa97670a380a020800000000000000
+      internalID: 2351023730693091195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

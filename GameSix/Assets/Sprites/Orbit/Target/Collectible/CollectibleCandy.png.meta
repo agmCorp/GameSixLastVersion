@@ -1,0 +1,1220 @@
+fileFormatVersion: 2
+guid: e8a4d9c95b4606b429ede0ca37e11da4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5473567531550849849
+    second: CollectibleCandy_0
+  - first:
+      213: -760978077223319234
+    second: CollectibleCandy_1
+  - first:
+      213: 3692469429655147648
+    second: CollectibleCandy_2
+  - first:
+      213: 5468137696356126762
+    second: CollectibleCandy_3
+  - first:
+      213: 6301013643922431384
+    second: CollectibleCandy_4
+  - first:
+      213: -5351927421152717706
+    second: CollectibleCandy_5
+  - first:
+      213: -6144497064600850368
+    second: CollectibleCandy_6
+  - first:
+      213: 8214944423374946783
+    second: CollectibleCandy_7
+  - first:
+      213: -1994433796019438883
+    second: CollectibleCandy_8
+  - first:
+      213: -36985681685430423
+    second: CollectibleCandy_9
+  - first:
+      213: -4202484576447885286
+    second: CollectibleCandy_10
+  - first:
+      213: 7055631432982858553
+    second: CollectibleCandy_11
+  - first:
+      213: 8407964114743548390
+    second: CollectibleCandy_12
+  - first:
+      213: 5633508014019983019
+    second: CollectibleCandy_13
+  - first:
+      213: -8116993290954092640
+    second: CollectibleCandy_14
+  - first:
+      213: -7407105834984677201
+    second: CollectibleCandy_15
+  - first:
+      213: -5982043266339968961
+    second: CollectibleCandy_16
+  - first:
+      213: 7482888753297780184
+    second: CollectibleCandy_17
+  - first:
+      213: -6483945804412136417
+    second: CollectibleCandy_18
+  - first:
+      213: 241130702973887326
+    second: CollectibleCandy_19
+  - first:
+      213: 2994782290694169254
+    second: CollectibleCandy_20
+  - first:
+      213: 1803741511325036319
+    second: CollectibleCandy_21
+  - first:
+      213: 4603014020037854204
+    second: CollectibleCandy_22
+  - first:
+      213: -1921234710266995377
+    second: CollectibleCandy_23
+  - first:
+      213: -1773550559074207927
+    second: CollectibleCandy_24
+  - first:
+      213: 7552383329725404389
+    second: CollectibleCandy_25
+  - first:
+      213: -7846782739054482969
+    second: CollectibleCandy_26
+  - first:
+      213: -5859365975782034013
+    second: CollectibleCandy_27
+  - first:
+      213: -5222364610909707179
+    second: CollectibleCandy_28
+  - first:
+      213: -8178591686701534444
+    second: CollectibleCandy_29
+  - first:
+      213: -8224396428652222860
+    second: CollectibleCandy_30
+  - first:
+      213: -7184073217664830966
+    second: CollectibleCandy_31
+  - first:
+      213: 5527703109897656614
+    second: CollectibleCandy_32
+  - first:
+      213: 5201565650903939451
+    second: CollectibleCandy_33
+  - first:
+      213: 9163153442508566242
+    second: CollectibleCandy_34
+  - first:
+      213: 3130737501839515888
+    second: CollectibleCandy_35
+  - first:
+      213: 3575071300764682965
+    second: CollectibleCandy_36
+  - first:
+      213: -5515481650573352592
+    second: CollectibleCandy_37
+  - first:
+      213: 8623244381232801488
+    second: CollectibleCandy_38
+  - first:
+      213: 6045049965773807507
+    second: CollectibleCandy_39
+  - first:
+      213: 3595920698247345468
+    second: CollectibleCandy_0
+  - first:
+      213: 2763028304143112599
+    second: CollectibleCandy_1
+  - first:
+      213: 6964929819320019738
+    second: CollectibleCandy_2
+  - first:
+      213: -6005363877132721151
+    second: CollectibleCandy_3
+  - first:
+      213: 5652000735419115142
+    second: CollectibleCandy_4
+  - first:
+      213: 4201264095201666501
+    second: CollectibleCandy_5
+  - first:
+      213: 2043327194630702698
+    second: CollectibleCandy_6
+  - first:
+      213: -664849907185422189
+    second: CollectibleCandy_7
+  - first:
+      213: 8783208534345927239
+    second: CollectibleCandy_8
+  - first:
+      213: 7331680325706952819
+    second: CollectibleCandy_9
+  - first:
+      213: -87561458538688969
+    second: CollectibleCandy_10
+  - first:
+      213: -7885121860811180357
+    second: CollectibleCandy_11
+  - first:
+      213: -6657701796200368351
+    second: CollectibleCandy_12
+  - first:
+      213: 1868331140271154027
+    second: CollectibleCandy_13
+  - first:
+      213: 4515045516810466385
+    second: CollectibleCandy_14
+  - first:
+      213: 17156118180088894
+    second: CollectibleCandy_15
+  - first:
+      213: 3806497789525939429
+    second: CollectibleCandy_16
+  - first:
+      213: -3351432517021150816
+    second: CollectibleCandy_17
+  - first:
+      213: -3832874656838573290
+    second: CollectibleCandy_18
+  - first:
+      213: 6269283032128324886
+    second: CollectibleCandy_19
+  - first:
+      213: 9049851127369728788
+    second: CollectibleCandy_20
+  - first:
+      213: -4610605683006844832
+    second: CollectibleCandy_21
+  - first:
+      213: -3527073955881777946
+    second: CollectibleCandy_22
+  - first:
+      213: -411693967877555882
+    second: CollectibleCandy_23
+  - first:
+      213: -8195436974308464823
+    second: CollectibleCandy_24
+  - first:
+      213: -5931962229658775748
+    second: CollectibleCandy_25
+  - first:
+      213: 3302166544926186651
+    second: CollectibleCandy_26
+  - first:
+      213: 7659271848814333654
+    second: CollectibleCandy_27
+  - first:
+      213: -6645516386079806830
+    second: CollectibleCandy_28
+  - first:
+      213: -2958042527539898428
+    second: CollectibleCandy_29
+  - first:
+      213: 4447102159677362557
+    second: CollectibleCandy_30
+  - first:
+      213: 7521709854565862165
+    second: CollectibleCandy_31
+  - first:
+      213: -7546046693436637913
+    second: CollectibleCandy_32
+  - first:
+      213: 9149500033437846007
+    second: CollectibleCandy_33
+  - first:
+      213: -5205430726352087749
+    second: CollectibleCandy_34
+  - first:
+      213: 8774601789646272272
+    second: CollectibleCandy_35
+  - first:
+      213: -3773530654176145998
+    second: CollectibleCandy_36
+  - first:
+      213: 5136276607893511633
+    second: CollectibleCandy_37
+  - first:
+      213: -3270448618369031217
+    second: CollectibleCandy_38
+  - first:
+      213: -744664036332120425
+    second: CollectibleCandy_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CollectibleCandy_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35f183b2d647e130800000000000000
+      internalID: 3595920698247345468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 263
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799dccc7a9f385620800000000000000
+      internalID: 2763028304143112599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 263
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6816d4c668a060800000000000000
+      internalID: 6964929819320019738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 263
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104aa8c1f59a8aca0800000000000000
+      internalID: -6005363877132721151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 263
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68627e829b0ff6e40800000000000000
+      internalID: 5652000735419115142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 263
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c529127f63ed4a30800000000000000
+      internalID: 4201264095201666501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 263
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66cbdbe14b5b5c10800000000000000
+      internalID: 2043327194630702698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_7
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 263
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390f24d288af5c6f0800000000000000
+      internalID: -664849907185422189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_8
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 263
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a4ed560a934e970800000000000000
+      internalID: 8783208534345927239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 263
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370bb7c496c5fb560800000000000000
+      internalID: 7331680325706952819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e49cf315be8cef0800000000000000
+      internalID: -87561458538688969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 182
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6beabd17b629290800000000000000
+      internalID: -7885121860811180357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 181
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273ff88d771b93a0800000000000000
+      internalID: -6657701796200368351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 180
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a9a2f545ade910800000000000000
+      internalID: 1868331140271154027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 179
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154353ec9f9a8ae30800000000000000
+      internalID: 4515045516810466385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 178
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c49d90663fc3000800000000000000
+      internalID: 17156118180088894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_16
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 179
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4d007629563d430800000000000000
+      internalID: 3806497789525939429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 180
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d246e1e15d71d0800000000000000
+      internalID: -3351432517021150816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_18
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 181
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6132a8a9ec4eecac0800000000000000
+      internalID: -3832874656838573290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_19
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 182
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615846e93b7f00750800000000000000
+      internalID: 6269283032128324886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138a05f6a7879d70800000000000000
+      internalID: 9049851127369728788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060daf03f86d300c0800000000000000
+      internalID: -4610605683006844832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 102
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e48223ace05d0fc0800000000000000
+      internalID: -3527073955881777946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 102
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659bc78748e594af0800000000000000
+      internalID: -411693967877555882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 102
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947ed3f3e75f34e80800000000000000
+      internalID: -8195436974308464823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 102
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8720f7cf6dada0800000000000000
+      internalID: -5931962229658775748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 102
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c118b1af6a3dd20800000000000000
+      internalID: 3302166544926186651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_27
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 102
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de4aba7a233b4a60800000000000000
+      internalID: 7659271848814333654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 102
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aecaa6e0266c3a0800000000000000
+      internalID: -6645516386079806830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_29
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 102
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c75c7b5efbe2f6d0800000000000000
+      internalID: -2958042527539898428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71117b3ad747bd30800000000000000
+      internalID: 4447102159677362557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b04f0d24b726860800000000000000
+      internalID: 7521709854565862165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 12
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db233538e074790800000000000000
+      internalID: -7546046693436637913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 12
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9cc75edcd89fe70800000000000000
+      internalID: 9149500033437846007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 12
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3551ec755892c7b0800000000000000
+      internalID: -5205430726352087749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_35
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 12
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0177f5d76d5a5c970800000000000000
+      internalID: 8774601789646272272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 12
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd88c0fcd9b1abc0800000000000000
+      internalID: -3773530654176145998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 12
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd14a99c58b74740800000000000000
+      internalID: 5136276607893511633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_38
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 12
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc362f52f480d92d0800000000000000
+      internalID: -3270448618369031217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectibleCandy_39
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 12
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965a6d110c6aa5f0800000000000000
+      internalID: -744664036332120425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

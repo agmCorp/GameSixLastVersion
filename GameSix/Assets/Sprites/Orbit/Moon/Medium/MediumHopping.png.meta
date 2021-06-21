@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: fc5fdcd13b8315b448ad7efa1c543b28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4429616150951381982
+    second: MediumHopping_0
+  - first:
+      213: -7463939320053505051
+    second: MediumHopping_1
+  - first:
+      213: 804543825461789989
+    second: MediumHopping_2
+  - first:
+      213: -8926010963348326457
+    second: MediumHopping_3
+  - first:
+      213: -1377049643103819416
+    second: MediumHopping_4
+  - first:
+      213: 8236555231416883189
+    second: MediumHopping_5
+  - first:
+      213: -7395502400754819514
+    second: MediumHopping_6
+  - first:
+      213: -3026943523605412536
+    second: MediumHopping_7
+  - first:
+      213: -5692558775741705559
+    second: MediumHopping_8
+  - first:
+      213: -6888734839156416822
+    second: MediumHopping_9
+  - first:
+      213: 4816555340107719103
+    second: MediumHopping_10
+  - first:
+      213: 6580902834953004949
+    second: MediumHopping_11
+  - first:
+      213: 8221706260372784759
+    second: MediumHopping_12
+  - first:
+      213: 1374630982536099764
+    second: MediumHopping_13
+  - first:
+      213: 5673437146826007958
+    second: MediumHopping_14
+  - first:
+      213: 7867542749889317602
+    second: MediumHopping_15
+  - first:
+      213: -2833468173257941589
+    second: MediumHopping_16
+  - first:
+      213: -4443187076689575342
+    second: MediumHopping_17
+  - first:
+      213: -4174018756512764619
+    second: MediumHopping_18
+  - first:
+      213: -8889952457645556618
+    second: MediumHopping_19
+  - first:
+      213: -1426265317783979052
+    second: MediumHopping_20
+  - first:
+      213: -2402661551066499701
+    second: MediumHopping_21
+  - first:
+      213: -9027856912840142143
+    second: MediumHopping_22
+  - first:
+      213: 5173904089736097531
+    second: MediumHopping_23
+  - first:
+      213: -8752134890579170722
+    second: MediumHopping_24
+  - first:
+      213: -2981406325483983732
+    second: MediumHopping_25
+  - first:
+      213: 2132152409093963080
+    second: MediumHopping_26
+  - first:
+      213: 9194095723296439055
+    second: MediumHopping_27
+  - first:
+      213: 1338792687066015315
+    second: MediumHopping_28
+  - first:
+      213: 8990625159767659833
+    second: MediumHopping_29
+  - first:
+      213: 5203345364914357701
+    second: MediumHopping_30
+  - first:
+      213: -3284623096758318910
+    second: MediumHopping_31
+  - first:
+      213: -7015832250515585635
+    second: MediumHopping_32
+  - first:
+      213: 8652035635497642918
+    second: MediumHopping_33
+  - first:
+      213: -4154920015022984274
+    second: MediumHopping_34
+  - first:
+      213: -482603642704938977
+    second: MediumHopping_35
+  - first:
+      213: 3840951402985392783
+    second: MediumHopping_36
+  - first:
+      213: 6467368269007312051
+    second: MediumHopping_37
+  - first:
+      213: 4493142429506964020
+    second: MediumHopping_38
+  - first:
+      213: -3597484130167046739
+    second: MediumHopping_39
+  - first:
+      213: 2144505667227853772
+    second: MediumHopping_40
+  - first:
+      213: -3414417639837114240
+    second: MediumHopping_41
+  - first:
+      213: -2490264054303760638
+    second: MediumHopping_42
+  - first:
+      213: 4310181492952864270
+    second: MediumHopping_43
+  - first:
+      213: 4747314451004668648
+    second: MediumHopping_44
+  - first:
+      213: -4639236585185485283
+    second: MediumHopping_45
+  - first:
+      213: 1554904579468598052
+    second: MediumHopping_46
+  - first:
+      213: 7653261029923891359
+    second: MediumHopping_47
+  - first:
+      213: 6711814791448765274
+    second: MediumHopping_48
+  - first:
+      213: -5999807375002079439
+    second: MediumHopping_49
+  - first:
+      213: -4537691977980418429
+    second: MediumHopping_50
+  - first:
+      213: -5557771738656783679
+    second: MediumHopping_51
+  - first:
+      213: -2284446235784619164
+    second: MediumHopping_52
+  - first:
+      213: -6429356781422897894
+    second: MediumHopping_53
+  - first:
+      213: -8048862513517837353
+    second: MediumHopping_54
+  - first:
+      213: 3041476705029267813
+    second: MediumHopping_55
+  - first:
+      213: -3945333644831967768
+    second: MediumHopping_56
+  - first:
+      213: -7167495175913173403
+    second: MediumHopping_57
+  - first:
+      213: 4678767161627301008
+    second: MediumHopping_58
+  - first:
+      213: 8185345109613702918
+    second: MediumHopping_59
+  - first:
+      213: -8723359873357343300
+    second: MediumHopping_0
+  - first:
+      213: -893041970167371597
+    second: MediumHopping_1
+  - first:
+      213: 5667804295850446944
+    second: MediumHopping_2
+  - first:
+      213: -7740381869392445707
+    second: MediumHopping_3
+  - first:
+      213: 8647062108688641924
+    second: MediumHopping_4
+  - first:
+      213: 5487948298374860884
+    second: MediumHopping_5
+  - first:
+      213: 7735475273668592818
+    second: MediumHopping_6
+  - first:
+      213: -8000261945065119359
+    second: MediumHopping_7
+  - first:
+      213: -7688572922640828026
+    second: MediumHopping_8
+  - first:
+      213: -4072895094026778801
+    second: MediumHopping_9
+  - first:
+      213: 5638743001971902570
+    second: MediumHopping_10
+  - first:
+      213: -4177897858292821748
+    second: MediumHopping_11
+  - first:
+      213: -1155545398758805235
+    second: MediumHopping_12
+  - first:
+      213: -7691177407312353826
+    second: MediumHopping_13
+  - first:
+      213: -1402945570689223188
+    second: MediumHopping_14
+  - first:
+      213: 8265875051032321345
+    second: MediumHopping_15
+  - first:
+      213: 8443396201604846461
+    second: MediumHopping_16
+  - first:
+      213: -2949451057586732880
+    second: MediumHopping_17
+  - first:
+      213: 6004511406718264270
+    second: MediumHopping_18
+  - first:
+      213: 73538417993797281
+    second: MediumHopping_19
+  - first:
+      213: 424536746713593704
+    second: MediumHopping_20
+  - first:
+      213: -948515157377139231
+    second: MediumHopping_21
+  - first:
+      213: -2848263918166943886
+    second: MediumHopping_22
+  - first:
+      213: 9048842263190449113
+    second: MediumHopping_23
+  - first:
+      213: -7940924318357929076
+    second: MediumHopping_24
+  - first:
+      213: -2031294591410150670
+    second: MediumHopping_25
+  - first:
+      213: -5007222551764202287
+    second: MediumHopping_26
+  - first:
+      213: -478580785110931991
+    second: MediumHopping_27
+  - first:
+      213: 8886029426132500067
+    second: MediumHopping_28
+  - first:
+      213: -6946698040854168377
+    second: MediumHopping_29
+  - first:
+      213: -8276110052806826315
+    second: MediumHopping_30
+  - first:
+      213: -1086910605573025613
+    second: MediumHopping_31
+  - first:
+      213: 5901267794452483289
+    second: MediumHopping_32
+  - first:
+      213: -8306670319285113870
+    second: MediumHopping_33
+  - first:
+      213: -8176704767812279290
+    second: MediumHopping_34
+  - first:
+      213: 6709697807251921472
+    second: MediumHopping_35
+  - first:
+      213: -8636042856704022141
+    second: MediumHopping_36
+  - first:
+      213: -6633233037207051573
+    second: MediumHopping_37
+  - first:
+      213: 1770089869165589001
+    second: MediumHopping_38
+  - first:
+      213: -5696606732169254146
+    second: MediumHopping_39
+  - first:
+      213: -6925294508660676127
+    second: MediumHopping_40
+  - first:
+      213: -9078537051399922221
+    second: MediumHopping_41
+  - first:
+      213: -9136299024617498860
+    second: MediumHopping_42
+  - first:
+      213: 1205473385733774473
+    second: MediumHopping_43
+  - first:
+      213: -5242962501880178684
+    second: MediumHopping_44
+  - first:
+      213: 7235947724809675605
+    second: MediumHopping_45
+  - first:
+      213: -2193864257893620016
+    second: MediumHopping_46
+  - first:
+      213: 1832816422708040733
+    second: MediumHopping_47
+  - first:
+      213: -6630760450817760279
+    second: MediumHopping_48
+  - first:
+      213: 7269338159004139552
+    second: MediumHopping_49
+  - first:
+      213: 6887286981130656288
+    second: MediumHopping_50
+  - first:
+      213: -765337641399300459
+    second: MediumHopping_51
+  - first:
+      213: -2533073048782393571
+    second: MediumHopping_52
+  - first:
+      213: 1079446576628422503
+    second: MediumHopping_53
+  - first:
+      213: 18106236555652826
+    second: MediumHopping_54
+  - first:
+      213: -4409387925028754559
+    second: MediumHopping_55
+  - first:
+      213: -6711649792127727298
+    second: MediumHopping_56
+  - first:
+      213: -8233349180246761362
+    second: MediumHopping_57
+  - first:
+      213: 674882230600154148
+    second: MediumHopping_58
+  - first:
+      213: 4535606413812757862
+    second: MediumHopping_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MediumHopping_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 430
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb593acd96660f680800000000000000
+      internalID: -8723359873357343300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 430
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8a8a64f074b93f0800000000000000
+      internalID: -893041970167371597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 430
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060599e4af518ae40800000000000000
+      internalID: 5667804295850446944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 430
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe3df833b3a49490800000000000000
+      internalID: -7740381869392445707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 430
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f602b7c29800870800000000000000
+      internalID: 8647062108688641924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 429
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d756a6eb192c40800000000000000
+      internalID: 5487948298374860884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 430
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b485dfe6cde95b60800000000000000
+      internalID: 7735475273668592818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 430
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181615ee52c59f090800000000000000
+      internalID: -8000261945065119359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_8
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 429
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6897e44a9a3bc4590800000000000000
+      internalID: -7688572922640828026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 430
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f474a19bd7b2a77c0800000000000000
+      internalID: -4072895094026778801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 349
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68414c82e6d04e40800000000000000
+      internalID: 5638743001971902570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 349
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01579888002506c0800000000000000
+      internalID: -4177897858292821748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 349
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01f429059da6ffe0800000000000000
+      internalID: -1155545398758805235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 349
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed523acc5e2734590800000000000000
+      internalID: -7691177407312353826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 349
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57cd3cf6cb78ce0800000000000000
+      internalID: -1402945570689223188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 349
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9b8e709946b270800000000000000
+      internalID: 8265875051032321345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_16
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 349
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d731a8e3c18fc2570800000000000000
+      internalID: 8443396201604846461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 349
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b08426d3e17117d0800000000000000
+      internalID: -2949451057586732880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 349
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec32937af4f445350800000000000000
+      internalID: 6004511406718264270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 349
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae4dd13dc2450100800000000000000
+      internalID: 73538417993797281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 261
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867b6fdfbe144e500800000000000000
+      internalID: 424536746713593704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 261
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed36746d7236d2f0800000000000000
+      internalID: -948515157377139231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 261
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277d813ae0fe878d0800000000000000
+      internalID: -2848263918166943886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 261
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db22067812f39d70800000000000000
+      internalID: 9048842263190449113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 261
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c300c76b2cc190800000000000000
+      internalID: -7940924318357929076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 261
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f263d4d4546fc3e0800000000000000
+      internalID: -2031294591410150670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 261
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc05ca5e95c28ab0800000000000000
+      internalID: -5007222551764202287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_27
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 261
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5a223cf4dbb59f0800000000000000
+      internalID: -478580785110931991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 261
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ebb40dea4815b70800000000000000
+      internalID: 8886029426132500067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_29
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 261
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3cf0efee589f90800000000000000
+      internalID: -6946698040854168377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 174
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e86471c9552d80800000000000000
+      internalID: -8276110052806826315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0173c10948ae0f0800000000000000
+      internalID: -1086910605573025613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 174
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0bc4fac385e150800000000000000
+      internalID: 5901267794452483289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 174
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbeab0fa57c8bc80800000000000000
+      internalID: -8306670319285113870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 174
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6046e41f552868e80800000000000000
+      internalID: -8176704767812279290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_35
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 174
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad77f2b92ad1d50800000000000000
+      internalID: 6709697807251921472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_36
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 174
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3896b1d07cc962880800000000000000
+      internalID: -8636042856704022141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_37
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 174
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc263e072b502f3a0800000000000000
+      internalID: -6633233037207051573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_38
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 174
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902f1209b5f909810800000000000000
+      internalID: 1770089869165589001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_39
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 174
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efae3f7eb5691f0b0800000000000000
+      internalID: -5696606732169254146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 93
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9215e065964ef90800000000000000
+      internalID: -6925294508660676127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd513e6ae820280800000000000000
+      internalID: -9078537051399922221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 93
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4171deb7178553180800000000000000
+      internalID: -9136299024617498860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 93
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c59de48a3bab010800000000000000
+      internalID: 1205473385733774473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 93
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4081db802614d37b0800000000000000
+      internalID: -5242962501880178684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_45
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 93
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553a3963e104b6460800000000000000
+      internalID: 7235947724809675605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_46
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 93
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d623deb414dd81e0800000000000000
+      internalID: -2193864257893620016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_47
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 93
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d30663d87f6910800000000000000
+      internalID: 1832816422708040733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_48
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 93
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36c42508ecaf3a0800000000000000
+      internalID: -6630760450817760279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_49
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 93
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02042af7a80e1e460800000000000000
+      internalID: 7269338159004139552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1778d40f849f50800000000000000
+      internalID: 6887286981130656288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 10
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ec8275879f065f0800000000000000
+      internalID: -765337641399300459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_52
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 10
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fa531ab77b8dcd0800000000000000
+      internalID: -2533073048782393571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 10
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767d2f931f6fafe00800000000000000
+      internalID: 1079446576628422503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_54
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 10
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade6e16b683504000800000000000000
+      internalID: 18106236555652826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_55
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 10
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ba3cb4b05bec2c0800000000000000
+      internalID: -4409387925028754559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_56
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 10
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39076be21e6bd2a0800000000000000
+      internalID: -6711649792127727298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_57
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 10
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6063afea844dbd80800000000000000
+      internalID: -8233349180246761362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_58
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 10
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c352420d9ad5900800000000000000
+      internalID: 674882230600154148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumHopping_59
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 10
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fa40b006b1fe30800000000000000
+      internalID: 4535606413812757862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

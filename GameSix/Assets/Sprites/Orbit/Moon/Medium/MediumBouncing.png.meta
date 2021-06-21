@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 900339d685fe2af44973cb7904a95998
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5495915564726798874
+    second: MediumBouncing_0
+  - first:
+      213: 6080139483419122116
+    second: MediumBouncing_1
+  - first:
+      213: -4700200124307699064
+    second: MediumBouncing_2
+  - first:
+      213: -6200618872285209193
+    second: MediumBouncing_3
+  - first:
+      213: 5944357436383299731
+    second: MediumBouncing_4
+  - first:
+      213: -3098705331898909509
+    second: MediumBouncing_5
+  - first:
+      213: -1248569441716793722
+    second: MediumBouncing_6
+  - first:
+      213: 522032696128749140
+    second: MediumBouncing_7
+  - first:
+      213: 5806005122932138060
+    second: MediumBouncing_8
+  - first:
+      213: -2547066124614832456
+    second: MediumBouncing_9
+  - first:
+      213: 2362084117060617042
+    second: MediumBouncing_10
+  - first:
+      213: 6590577632608170161
+    second: MediumBouncing_11
+  - first:
+      213: 995466964643778709
+    second: MediumBouncing_12
+  - first:
+      213: -1000485483843821041
+    second: MediumBouncing_13
+  - first:
+      213: 7940700218061648860
+    second: MediumBouncing_14
+  - first:
+      213: -4405647173750228170
+    second: MediumBouncing_15
+  - first:
+      213: 6529790291852926208
+    second: MediumBouncing_16
+  - first:
+      213: 1112053228537436968
+    second: MediumBouncing_17
+  - first:
+      213: 7656754771307396031
+    second: MediumBouncing_18
+  - first:
+      213: 7638236190907366791
+    second: MediumBouncing_19
+  - first:
+      213: -2553805052081450960
+    second: MediumBouncing_20
+  - first:
+      213: -4853576497964368337
+    second: MediumBouncing_21
+  - first:
+      213: 9099880893765663997
+    second: MediumBouncing_22
+  - first:
+      213: -1429856350859119734
+    second: MediumBouncing_23
+  - first:
+      213: 849147857336985649
+    second: MediumBouncing_24
+  - first:
+      213: 6084158684762177641
+    second: MediumBouncing_25
+  - first:
+      213: -2286206303742066116
+    second: MediumBouncing_26
+  - first:
+      213: 2026147350328458229
+    second: MediumBouncing_27
+  - first:
+      213: -6418426301148663115
+    second: MediumBouncing_28
+  - first:
+      213: 8045142399284522906
+    second: MediumBouncing_29
+  - first:
+      213: -2726615396995856189
+    second: MediumBouncing_30
+  - first:
+      213: -713164140425496674
+    second: MediumBouncing_31
+  - first:
+      213: 8227385196465404467
+    second: MediumBouncing_32
+  - first:
+      213: 1160902945067459918
+    second: MediumBouncing_33
+  - first:
+      213: 3865735923801464777
+    second: MediumBouncing_34
+  - first:
+      213: -1274868660895988556
+    second: MediumBouncing_35
+  - first:
+      213: 6533695222257494509
+    second: MediumBouncing_36
+  - first:
+      213: -5306813669129414128
+    second: MediumBouncing_37
+  - first:
+      213: -8526546374773683410
+    second: MediumBouncing_38
+  - first:
+      213: 7822323980886413877
+    second: MediumBouncing_39
+  - first:
+      213: 1810856309062777121
+    second: MediumBouncing_40
+  - first:
+      213: 7174046232229614228
+    second: MediumBouncing_41
+  - first:
+      213: -9173278857657335198
+    second: MediumBouncing_42
+  - first:
+      213: 4801783217439448606
+    second: MediumBouncing_43
+  - first:
+      213: -2955719631698514242
+    second: MediumBouncing_44
+  - first:
+      213: -273159724817549358
+    second: MediumBouncing_45
+  - first:
+      213: 5468626074204501371
+    second: MediumBouncing_46
+  - first:
+      213: 3761593249857176925
+    second: MediumBouncing_47
+  - first:
+      213: 8339348578157218308
+    second: MediumBouncing_48
+  - first:
+      213: 6769858101647618278
+    second: MediumBouncing_49
+  - first:
+      213: 5924716094719673703
+    second: MediumBouncing_50
+  - first:
+      213: -6587584039288640275
+    second: MediumBouncing_51
+  - first:
+      213: -453106443115794378
+    second: MediumBouncing_52
+  - first:
+      213: 6476860071305955026
+    second: MediumBouncing_53
+  - first:
+      213: -9034900589433180460
+    second: MediumBouncing_54
+  - first:
+      213: 6142454610328483319
+    second: MediumBouncing_55
+  - first:
+      213: -5075451580497696912
+    second: MediumBouncing_56
+  - first:
+      213: 2595201322471957104
+    second: MediumBouncing_57
+  - first:
+      213: 859665307002790262
+    second: MediumBouncing_58
+  - first:
+      213: 3277125236142960534
+    second: MediumBouncing_59
+  - first:
+      213: -709456649698972269
+    second: MediumBouncing_0
+  - first:
+      213: 2304020444763822647
+    second: MediumBouncing_1
+  - first:
+      213: 8081050812644578697
+    second: MediumBouncing_2
+  - first:
+      213: 8016720257682904012
+    second: MediumBouncing_3
+  - first:
+      213: -1804317794425289964
+    second: MediumBouncing_4
+  - first:
+      213: -7447480875116136442
+    second: MediumBouncing_5
+  - first:
+      213: -6053386566632009873
+    second: MediumBouncing_6
+  - first:
+      213: -5671333434580783510
+    second: MediumBouncing_7
+  - first:
+      213: 7835466930851137923
+    second: MediumBouncing_8
+  - first:
+      213: -6777096890607106540
+    second: MediumBouncing_9
+  - first:
+      213: 2181184920691931260
+    second: MediumBouncing_10
+  - first:
+      213: 3674996048213562330
+    second: MediumBouncing_11
+  - first:
+      213: 2677965156050791980
+    second: MediumBouncing_12
+  - first:
+      213: -6934301297411614194
+    second: MediumBouncing_13
+  - first:
+      213: -324489223038444024
+    second: MediumBouncing_14
+  - first:
+      213: -7085731304505478302
+    second: MediumBouncing_15
+  - first:
+      213: 5245668568240691661
+    second: MediumBouncing_16
+  - first:
+      213: -1947804899683109703
+    second: MediumBouncing_17
+  - first:
+      213: -2431348383640387453
+    second: MediumBouncing_18
+  - first:
+      213: 8190866163164793519
+    second: MediumBouncing_19
+  - first:
+      213: -3962476147991533257
+    second: MediumBouncing_20
+  - first:
+      213: -7017523182944188255
+    second: MediumBouncing_21
+  - first:
+      213: 8591570391461428849
+    second: MediumBouncing_22
+  - first:
+      213: -1153334725327173625
+    second: MediumBouncing_23
+  - first:
+      213: -3447891704840977621
+    second: MediumBouncing_24
+  - first:
+      213: 2718176538364747254
+    second: MediumBouncing_25
+  - first:
+      213: -219911128661444121
+    second: MediumBouncing_26
+  - first:
+      213: 3004665866755782042
+    second: MediumBouncing_27
+  - first:
+      213: 5087856528213687724
+    second: MediumBouncing_28
+  - first:
+      213: -7240537412841745724
+    second: MediumBouncing_29
+  - first:
+      213: -199651142845171671
+    second: MediumBouncing_30
+  - first:
+      213: 5148669181493833902
+    second: MediumBouncing_31
+  - first:
+      213: -8726992413035846801
+    second: MediumBouncing_32
+  - first:
+      213: -6744786214838641119
+    second: MediumBouncing_33
+  - first:
+      213: -291381237131056178
+    second: MediumBouncing_34
+  - first:
+      213: 2699220569257039588
+    second: MediumBouncing_35
+  - first:
+      213: -1987666809205882500
+    second: MediumBouncing_36
+  - first:
+      213: 6148587779767735598
+    second: MediumBouncing_37
+  - first:
+      213: -4618761512206993755
+    second: MediumBouncing_38
+  - first:
+      213: -5025254579186093672
+    second: MediumBouncing_39
+  - first:
+      213: -1524768725772822502
+    second: MediumBouncing_40
+  - first:
+      213: 3459455875875047792
+    second: MediumBouncing_41
+  - first:
+      213: -8801164471889626165
+    second: MediumBouncing_42
+  - first:
+      213: -5483332445933569335
+    second: MediumBouncing_43
+  - first:
+      213: 1704292209927803718
+    second: MediumBouncing_44
+  - first:
+      213: 5345663878222526831
+    second: MediumBouncing_45
+  - first:
+      213: -6222866604564436777
+    second: MediumBouncing_46
+  - first:
+      213: -6776537825686665927
+    second: MediumBouncing_47
+  - first:
+      213: -33423177209006957
+    second: MediumBouncing_48
+  - first:
+      213: 8127440479541563270
+    second: MediumBouncing_49
+  - first:
+      213: -6016842273229339370
+    second: MediumBouncing_50
+  - first:
+      213: 1244256280480562141
+    second: MediumBouncing_51
+  - first:
+      213: 1914441402021095403
+    second: MediumBouncing_52
+  - first:
+      213: -4715237224637158513
+    second: MediumBouncing_53
+  - first:
+      213: 6945948971684367338
+    second: MediumBouncing_54
+  - first:
+      213: 9135077656888380389
+    second: MediumBouncing_55
+  - first:
+      213: -6967488076281624560
+    second: MediumBouncing_56
+  - first:
+      213: 4387676245721701115
+    second: MediumBouncing_57
+  - first:
+      213: -8219109257157815181
+    second: MediumBouncing_58
+  - first:
+      213: -1464139697268990397
+    second: MediumBouncing_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MediumBouncing_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 400
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d672b9fe08726f0800000000000000
+      internalID: -709456649698972269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 400
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a9265236689ff10800000000000000
+      internalID: 2304020444763822647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 400
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985df8b16e8a52070800000000000000
+      internalID: 8081050812644578697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 400
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc31ed6999c114f60800000000000000
+      internalID: 8016720257682904012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 400
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134d519686c5f6e0800000000000000
+      internalID: -1804317794425289964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 399
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608ff2f3a9b35a890800000000000000
+      internalID: -7447480875116136442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 399
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f07c76dfc0efba0800000000000000
+      internalID: -6053386566632009873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 400
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e240d0a406b41b0800000000000000
+      internalID: -5671333434580783510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 400
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c3b6d8ab2dbc60800000000000000
+      internalID: 7835466930851137923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_9
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 400
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41685fad84ae2f1a0800000000000000
+      internalID: -6777096890607106540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 324
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f7430120254e10800000000000000
+      internalID: 2181184920691931260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 324
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3dbb45f65300330800000000000000
+      internalID: 3674996048213562330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 324
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ee747fe1b0a2520800000000000000
+      internalID: 2677965156050791980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 324
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1042a5b964cf90800000000000000
+      internalID: -6934301297411614194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 324
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed95755ce2f7bf0800000000000000
+      internalID: -324489223038444024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 324
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f51d9bec6aad90800000000000000
+      internalID: -7085731304505478302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 324
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91b6325cb5cc840800000000000000
+      internalID: 5245668568240691661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_17
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 324
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47f9e73c108f4e0800000000000000
+      internalID: -1947804899683109703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_18
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 324
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38005e3e68d124ed0800000000000000
+      internalID: -2431348383640387453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_19
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 324
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa443ad06dcba170800000000000000
+      internalID: 8190866163164793519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 245
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a10000f47209c0800000000000000
+      internalID: -3962476147991533257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 245
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a80b8578dfbc9e90800000000000000
+      internalID: -7017523182944188255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 245
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e72dd30c36b3770800000000000000
+      internalID: 8591570391461428849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 245
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70840cd8d288effe0800000000000000
+      internalID: -1153334725327173625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_24
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 245
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2300fc13c0a620d0800000000000000
+      internalID: -3447891704840977621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_25
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 245
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd180ef827e8b520800000000000000
+      internalID: 2718176538364747254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 245
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9bafd5ef7b2fcf0800000000000000
+      internalID: -219911128661444121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_27
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 245
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9538b8bfa7b2b920800000000000000
+      internalID: 3004665866755782042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_28
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 245
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad34584e82bb9640800000000000000
+      internalID: 5087856528213687724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_29
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 245
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c254a4c591748b90800000000000000
+      internalID: -7240537412841745724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 169
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92876b7e752ba3df0800000000000000
+      internalID: -199651142845171671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 169
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0f0fc775fb37740800000000000000
+      internalID: 5148669181493833902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 169
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63287f43ae73e680800000000000000
+      internalID: -8726992413035846801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 169
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e579a4ca4b562a0800000000000000
+      internalID: -6744786214838641119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_34
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 169
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe6920f4ec4fbf0800000000000000
+      internalID: -291381237131056178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_35
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 169
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65ef08ece857520800000000000000
+      internalID: 2699220569257039588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 169
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71037171936a64e0800000000000000
+      internalID: -1987666809205882500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 169
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e251d53520c245550800000000000000
+      internalID: 6148587779767735598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_38
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 169
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f7aa30ecd6efb0800000000000000
+      internalID: -4618761512206993755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_39
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 169
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89135bdc595b24ab0800000000000000
+      internalID: -5025254579186093672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 94
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a189fa72ceee6dae0800000000000000
+      internalID: -1524768725772822502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 94
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798ba54ac4720030800000000000000
+      internalID: 3459455875875047792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 94
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbfa3b1b8bfbd580800000000000000
+      internalID: -8801164471889626165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 94
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca71ce313a47e3b0800000000000000
+      internalID: -5483332445933569335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 94
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64356363cbcd6a710800000000000000
+      internalID: 1704292209927803718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 94
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69371689fc9f2a40800000000000000
+      internalID: 5345663878222526831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 94
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8ab461bcfe3a9a0800000000000000
+      internalID: -6222866604564436777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 94
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c2fc40c6e4f1a0800000000000000
+      internalID: -6776537825686665927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_48
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 94
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39431332cc1498ff0800000000000000
+      internalID: -33423177209006957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_49
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 94
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f843c1e087ac070800000000000000
+      internalID: 8127440479541563270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6158c92c4d1ef7ca0800000000000000
+      internalID: -6016842273229339370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 17
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb797ae7c744110800000000000000
+      internalID: 1244256280480562141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 17
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7a4cedf46719a10800000000000000
+      internalID: 1914441402021095403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_53
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 17
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8badc10abc109eb0800000000000000
+      internalID: -4715237224637158513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 17
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb8c3dd9c7f46060800000000000000
+      internalID: 6945948971684367338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_55
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb807eaab056ce70800000000000000
+      internalID: 9135077656888380389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_56
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 17
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c67c82828e4f90800000000000000
+      internalID: -6967488076281624560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_57
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 17
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa59af6c4824ec30800000000000000
+      internalID: 4387676245721701115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_58
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 17
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374dbf46dabdfed80800000000000000
+      internalID: -8219109257157815181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumBouncing_59
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 17
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edbb2e3b45eabe0800000000000000
+      internalID: -1464139697268990397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

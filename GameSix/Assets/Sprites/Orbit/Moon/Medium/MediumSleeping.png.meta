@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 5be20a0c2b3ed7645b550c9a39de4f3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6036172273917219501
+    second: MediumSleeping_0
+  - first:
+      213: -5731918514236169132
+    second: MediumSleeping_1
+  - first:
+      213: -3108723951936547329
+    second: MediumSleeping_2
+  - first:
+      213: 2546865879270016610
+    second: MediumSleeping_3
+  - first:
+      213: -4406779906880985844
+    second: MediumSleeping_4
+  - first:
+      213: -8379176249827142239
+    second: MediumSleeping_5
+  - first:
+      213: -4030017768629351614
+    second: MediumSleeping_6
+  - first:
+      213: 4873625480838239372
+    second: MediumSleeping_7
+  - first:
+      213: 8613670674670037357
+    second: MediumSleeping_8
+  - first:
+      213: -6098585487735539913
+    second: MediumSleeping_9
+  - first:
+      213: 4827940024289590793
+    second: MediumSleeping_10
+  - first:
+      213: -7091153634667026370
+    second: MediumSleeping_11
+  - first:
+      213: -891995570571298532
+    second: MediumSleeping_12
+  - first:
+      213: -7039271603514968520
+    second: MediumSleeping_13
+  - first:
+      213: -2233700887017059525
+    second: MediumSleeping_14
+  - first:
+      213: -1967420650519583580
+    second: MediumSleeping_15
+  - first:
+      213: 5305261247523935399
+    second: MediumSleeping_16
+  - first:
+      213: 6787493647828095471
+    second: MediumSleeping_17
+  - first:
+      213: 7694526756487474049
+    second: MediumSleeping_18
+  - first:
+      213: 5422059015963086241
+    second: MediumSleeping_19
+  - first:
+      213: 7359650569791442401
+    second: MediumSleeping_20
+  - first:
+      213: 6341440393702524747
+    second: MediumSleeping_21
+  - first:
+      213: 2565213391168719524
+    second: MediumSleeping_22
+  - first:
+      213: 2061468185806995847
+    second: MediumSleeping_23
+  - first:
+      213: -953581054150590006
+    second: MediumSleeping_24
+  - first:
+      213: -4873880108319397654
+    second: MediumSleeping_25
+  - first:
+      213: -8726203383651195125
+    second: MediumSleeping_26
+  - first:
+      213: -6529527296912167075
+    second: MediumSleeping_27
+  - first:
+      213: -2908222372116489657
+    second: MediumSleeping_28
+  - first:
+      213: 1170990607166524838
+    second: MediumSleeping_29
+  - first:
+      213: -804960342294373524
+    second: MediumSleeping_30
+  - first:
+      213: 1623608331884468551
+    second: MediumSleeping_31
+  - first:
+      213: -3399982998736535661
+    second: MediumSleeping_32
+  - first:
+      213: -3528648183836358609
+    second: MediumSleeping_33
+  - first:
+      213: -6862135269957021628
+    second: MediumSleeping_34
+  - first:
+      213: -3275384640985872928
+    second: MediumSleeping_35
+  - first:
+      213: -4886592184148818172
+    second: MediumSleeping_36
+  - first:
+      213: 7044294600486576937
+    second: MediumSleeping_37
+  - first:
+      213: -3141800699464640144
+    second: MediumSleeping_38
+  - first:
+      213: 2787670299827391863
+    second: MediumSleeping_39
+  - first:
+      213: 5920907542306418727
+    second: MediumSleeping_40
+  - first:
+      213: -1912840636116170082
+    second: MediumSleeping_41
+  - first:
+      213: -6841910068179609167
+    second: MediumSleeping_42
+  - first:
+      213: -3188583118138811722
+    second: MediumSleeping_43
+  - first:
+      213: 3162379955555232820
+    second: MediumSleeping_44
+  - first:
+      213: -3446224779285820863
+    second: MediumSleeping_45
+  - first:
+      213: 763690460331970168
+    second: MediumSleeping_46
+  - first:
+      213: -8685313184511666744
+    second: MediumSleeping_47
+  - first:
+      213: -7630238364789996009
+    second: MediumSleeping_48
+  - first:
+      213: 8989065994291908928
+    second: MediumSleeping_49
+  - first:
+      213: 7077482638257325800
+    second: MediumSleeping_50
+  - first:
+      213: 3265288466390441367
+    second: MediumSleeping_51
+  - first:
+      213: -4482316194039989878
+    second: MediumSleeping_52
+  - first:
+      213: -3484229614221659219
+    second: MediumSleeping_53
+  - first:
+      213: 2319773347596365348
+    second: MediumSleeping_54
+  - first:
+      213: 5550020067706415396
+    second: MediumSleeping_55
+  - first:
+      213: -8049347727281830730
+    second: MediumSleeping_56
+  - first:
+      213: -8499640721496966312
+    second: MediumSleeping_57
+  - first:
+      213: 7737604227936823794
+    second: MediumSleeping_58
+  - first:
+      213: -8539860308167535403
+    second: MediumSleeping_59
+  - first:
+      213: 8194679019746158896
+    second: MediumSleeping_0
+  - first:
+      213: -2477145063930092956
+    second: MediumSleeping_1
+  - first:
+      213: 6263359266517840533
+    second: MediumSleeping_2
+  - first:
+      213: -4703136499346967385
+    second: MediumSleeping_3
+  - first:
+      213: 6525162867343667358
+    second: MediumSleeping_4
+  - first:
+      213: -6788295837444879946
+    second: MediumSleeping_5
+  - first:
+      213: 1738282785764290363
+    second: MediumSleeping_6
+  - first:
+      213: -4524010042905819875
+    second: MediumSleeping_7
+  - first:
+      213: -5052508802898159905
+    second: MediumSleeping_8
+  - first:
+      213: 3089040398614585315
+    second: MediumSleeping_9
+  - first:
+      213: 3770111093723230531
+    second: MediumSleeping_10
+  - first:
+      213: 7045621652224093407
+    second: MediumSleeping_11
+  - first:
+      213: 5931483590069546357
+    second: MediumSleeping_12
+  - first:
+      213: 3482637706500932400
+    second: MediumSleeping_13
+  - first:
+      213: -9017827812647052198
+    second: MediumSleeping_14
+  - first:
+      213: -9053756272650410404
+    second: MediumSleeping_15
+  - first:
+      213: -2718339227356217129
+    second: MediumSleeping_16
+  - first:
+      213: 3038499588190833817
+    second: MediumSleeping_17
+  - first:
+      213: 1739980232124051284
+    second: MediumSleeping_18
+  - first:
+      213: 5371684841199825613
+    second: MediumSleeping_19
+  - first:
+      213: -4497659575400888331
+    second: MediumSleeping_20
+  - first:
+      213: 3381562087310045292
+    second: MediumSleeping_21
+  - first:
+      213: 6713977014732122812
+    second: MediumSleeping_22
+  - first:
+      213: -2760844484078847600
+    second: MediumSleeping_23
+  - first:
+      213: 6206799711594296151
+    second: MediumSleeping_24
+  - first:
+      213: 4228000309768654868
+    second: MediumSleeping_25
+  - first:
+      213: -8995170207556630246
+    second: MediumSleeping_26
+  - first:
+      213: -3110349480897140430
+    second: MediumSleeping_27
+  - first:
+      213: 3631404044337631754
+    second: MediumSleeping_28
+  - first:
+      213: 1138242924910478169
+    second: MediumSleeping_29
+  - first:
+      213: 2468364597204295327
+    second: MediumSleeping_30
+  - first:
+      213: -2983313886709424345
+    second: MediumSleeping_31
+  - first:
+      213: 8184586805897371892
+    second: MediumSleeping_32
+  - first:
+      213: -2207782952583892106
+    second: MediumSleeping_33
+  - first:
+      213: 1044183119929159603
+    second: MediumSleeping_34
+  - first:
+      213: 8498330133022023362
+    second: MediumSleeping_35
+  - first:
+      213: -2106626610589388
+    second: MediumSleeping_36
+  - first:
+      213: 9111785309481044955
+    second: MediumSleeping_37
+  - first:
+      213: -5358221166018394381
+    second: MediumSleeping_38
+  - first:
+      213: -3334366640579300940
+    second: MediumSleeping_39
+  - first:
+      213: -6235898581408679851
+    second: MediumSleeping_40
+  - first:
+      213: 903829960125743692
+    second: MediumSleeping_41
+  - first:
+      213: -8179752142534796190
+    second: MediumSleeping_42
+  - first:
+      213: -8511531982480106611
+    second: MediumSleeping_43
+  - first:
+      213: 5640493006804024560
+    second: MediumSleeping_44
+  - first:
+      213: -1945106967581031441
+    second: MediumSleeping_45
+  - first:
+      213: 6283237557753353575
+    second: MediumSleeping_46
+  - first:
+      213: -5877855179416450276
+    second: MediumSleeping_47
+  - first:
+      213: 7062535034387100900
+    second: MediumSleeping_48
+  - first:
+      213: -217105102040729730
+    second: MediumSleeping_49
+  - first:
+      213: -1794408452577607313
+    second: MediumSleeping_50
+  - first:
+      213: -1715116440534466838
+    second: MediumSleeping_51
+  - first:
+      213: 8865896151021133258
+    second: MediumSleeping_52
+  - first:
+      213: -2231459972357906092
+    second: MediumSleeping_53
+  - first:
+      213: -9105335410697871566
+    second: MediumSleeping_54
+  - first:
+      213: -4889969501481805301
+    second: MediumSleeping_55
+  - first:
+      213: -6004775715808205645
+    second: MediumSleeping_56
+  - first:
+      213: -3540292989394185524
+    second: MediumSleeping_57
+  - first:
+      213: 273691184129092515
+    second: MediumSleeping_58
+  - first:
+      213: 1945885366210880766
+    second: MediumSleeping_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MediumSleeping_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 432
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039e054b62959b170800000000000000
+      internalID: 8194679019746158896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 431
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462a55750b96f9dd0800000000000000
+      internalID: -2477145063930092956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 431
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5927275711cebe650800000000000000
+      internalID: 6263359266517840533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 430
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4ff3aa54a1bbeb0800000000000000
+      internalID: -4703136499346967385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 432
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b6995e090e8a50800000000000000
+      internalID: 6525162867343667358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 432
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c5dad6e02bc1a0800000000000000
+      internalID: -6788295837444879946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 430
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f28acdbfe9f1810800000000000000
+      internalID: 1738282785764290363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 431
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d158c40d5dc7731c0800000000000000
+      internalID: -4524010042905819875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_8
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 431
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd698ba5302e1e9b0800000000000000
+      internalID: -5052508802898159905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efd04840e97eda20800000000000000
+      internalID: 3089040398614585315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 349
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341f1299010225430800000000000000
+      internalID: 3770111093723230531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 348
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc2e9a309317c160800000000000000
+      internalID: 7045621652224093407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 348
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d672916ecd05250800000000000000
+      internalID: 5931483590069546357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 347
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338e51da80d45030800000000000000
+      internalID: 3482637706500932400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 349
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cd885026d3ad280800000000000000
+      internalID: -9017827812647052198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 349
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5625bd83a89a5280800000000000000
+      internalID: -9053756272650410404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 347
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d04c6600e4864ad0800000000000000
+      internalID: -2718339227356217129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 348
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c094cd64bea2a20800000000000000
+      internalID: 3038499588190833817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 348
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fa4f36dc6a52810800000000000000
+      internalID: 1739980232124051284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 349
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f01517ee0c8a40800000000000000
+      internalID: 5371684841199825613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 262
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7889f127a1591c0800000000000000
+      internalID: -4497659575400888331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 262
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c603b085dc8bdee20800000000000000
+      internalID: 3381562087310045292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 261
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaee31d586dc2d50800000000000000
+      internalID: 6713977014732122812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 260
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099326eb1928fa9d0800000000000000
+      internalID: -2760844484078847600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_24
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 262
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533391e37bf22650800000000000000
+      internalID: 6206799711594296151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 262
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410900e71efdcaa30800000000000000
+      internalID: 4228000309768654868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 260
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19096cca5cba2380800000000000000
+      internalID: -8995170207556630246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_27
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 261
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2392ecf50a1d5d4d0800000000000000
+      internalID: -3110349480897140430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 262
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0259a20db6556230800000000000000
+      internalID: 3631404044337631754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 262
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530467d8e9dbcf00800000000000000
+      internalID: 1138242924910478169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 179
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1380f584614220800000000000000
+      internalID: 2468364597204295327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 178
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fd13983d32996d0800000000000000
+      internalID: -2983313886709424345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 177
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0acde065e759170800000000000000
+      internalID: 8184586805897371892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 177
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673f21a1a116c51e0800000000000000
+      internalID: -2207782952583892106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 179
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf26d7e30fad7e00800000000000000
+      internalID: 1044183119929159603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_35
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 179
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce96cada3220f570800000000000000
+      internalID: 8498330133022023362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 177
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319335c80488fff0800000000000000
+      internalID: -2106626610589388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_37
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 177
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb8d317670937e70800000000000000
+      internalID: 9111785309481044955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_38
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 178
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f68e731d36c3a5b0800000000000000
+      internalID: -5358221166018394381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_39
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 179
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1bb55e433f9b1d0800000000000000
+      internalID: -3334366640579300940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558f5c78743a579a0800000000000000
+      internalID: -6235898581408679851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4286ae5f8c0b8c00800000000000000
+      internalID: 903829960125743692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 96
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c1979b3ceab7e80800000000000000
+      internalID: -8179752142534796190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 95
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b95e902c6f0e980800000000000000
+      internalID: -8511531982480106611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_44
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 97
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcf0ac418e074e40800000000000000
+      internalID: 5640493006804024560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 97
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe30233c4879105e0800000000000000
+      internalID: -1945106967581031441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_46
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 95
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765184dc44b823750800000000000000
+      internalID: 6283237557753353575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_47
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 96
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b41b54bd9ad6ea0800000000000000
+      internalID: -5877855179416450276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_48
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 96
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4f462e13a230260800000000000000
+      internalID: 7062535034387100900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_49
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 97
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77ffe95f00bcfcf0800000000000000
+      internalID: -217105102040729730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f614722050bf817e0800000000000000
+      internalID: -1794408452577607313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 12
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb2853faea238e0800000000000000
+      internalID: -1715116440534466838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 11
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd1e19639df90b70800000000000000
+      internalID: 8865896151021133258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 11
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451aa195af24801e0800000000000000
+      internalID: -2231459972357906092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 13
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f5194afa953a180800000000000000
+      internalID: -9105335410697871566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_55
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 13
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0adea585a6532cb0800000000000000
+      internalID: -4889969501481805301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_56
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 11
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b42c571d40caaca0800000000000000
+      internalID: -6004775715808205645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 11
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29a5e884a5edec0800000000000000
+      internalID: -3540292989394185524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_58
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 12
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abab209ea85cc300800000000000000
+      internalID: 273691184129092515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSleeping_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 13
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef461aa4e6c210b10800000000000000
+      internalID: 1945885366210880766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

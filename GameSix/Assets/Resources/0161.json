@@ -1,0 +1,76 @@
+{
+    "polarCoords": {
+        "rho": 4.0,
+        "phi": 120.0
+    },
+    "fleeConfig": {
+        "fleeSpeed": 3.0,
+        "shrinkTime": 3.0
+    },
+    "planetConfigList": [
+        {
+            "radius": 1.0,
+            "moonKeyList": [
+                "BIG_GAP",
+                "SMALL_GREEN",
+                "SMALL_GREEN",
+                "BIG_GAP",
+                "SMALL_GAP",
+                "SMALL_GREEN"
+            ],
+            "swingConfig": {
+                "enabled": false,
+                "minRadius": 0.0,
+                "maxRadius": 0.0,
+                "swingingSpeed": 0.0,
+                "swingDuration": 0.0,
+                "pauseDuration": 0.0
+            },
+            "speedConfig": {
+                "initialSpeed": 1.0,
+                "clockwise": false,
+                "accelerationConfig": {
+                    "enabled": true,
+                    "maxSpeed": 1.5,
+                    "acceleration": 0.1,
+                    "bounce": true
+                }
+            }
+        },
+        {
+            "radius": 1.6,
+            "moonKeyList": [
+                "BIG_GAP",
+                "BIG_GAP",
+                "BIG_GREEN",
+                "BIG_GAP",
+                "BIG_GAP",
+                "BIG_GREEN",
+                "BIG_GAP",
+                "BIG_GAP",
+                "BIG_GREEN",
+                "BIG_GAP",
+                "BIG_GAP",
+                "BIG_GREEN"
+            ],
+            "swingConfig": {
+                "enabled": true,
+                "minRadius": 0.6,
+                "maxRadius": 2.5,
+                "swingingSpeed": 2.0,
+                "swingDuration": 0.0,
+                "pauseDuration": 0.0
+            },
+            "speedConfig": {
+                "initialSpeed": 1.0,
+                "clockwise": true,
+                "accelerationConfig": {
+                    "enabled": false,
+                    "maxSpeed": 0.0,
+                    "acceleration": 0.0,
+                    "bounce": false
+                }
+            }
+        }
+    ]
+}

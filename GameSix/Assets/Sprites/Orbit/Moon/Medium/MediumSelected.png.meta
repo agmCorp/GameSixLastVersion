@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: db615a2f90607b7489218904a28b2d33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7367373878545024072
+    second: MediumSelected_0
+  - first:
+      213: -7431468334751098239
+    second: MediumSelected_1
+  - first:
+      213: -1382981509469157772
+    second: MediumSelected_2
+  - first:
+      213: -1865189563546157719
+    second: MediumSelected_3
+  - first:
+      213: 5774580723608656184
+    second: MediumSelected_4
+  - first:
+      213: -8868743885439124346
+    second: MediumSelected_5
+  - first:
+      213: -3329335343706160511
+    second: MediumSelected_6
+  - first:
+      213: 9108887202262909473
+    second: MediumSelected_7
+  - first:
+      213: 4924940585965331080
+    second: MediumSelected_8
+  - first:
+      213: -8083447386399918242
+    second: MediumSelected_9
+  - first:
+      213: 426906330895917583
+    second: MediumSelected_10
+  - first:
+      213: -8787069313044568062
+    second: MediumSelected_11
+  - first:
+      213: 6385166602222543125
+    second: MediumSelected_12
+  - first:
+      213: -6391128528805858883
+    second: MediumSelected_13
+  - first:
+      213: 5031045472878056418
+    second: MediumSelected_14
+  - first:
+      213: -5872306103675023704
+    second: MediumSelected_15
+  - first:
+      213: -1905499172032286087
+    second: MediumSelected_16
+  - first:
+      213: -2498538610916476412
+    second: MediumSelected_17
+  - first:
+      213: 8396807271105665941
+    second: MediumSelected_18
+  - first:
+      213: 2683891158172648476
+    second: MediumSelected_19
+  - first:
+      213: 4484649267196821666
+    second: MediumSelected_20
+  - first:
+      213: 2305735853143668951
+    second: MediumSelected_21
+  - first:
+      213: 2850458640118304087
+    second: MediumSelected_22
+  - first:
+      213: 7178659964696948604
+    second: MediumSelected_23
+  - first:
+      213: 1477104134055218896
+    second: MediumSelected_24
+  - first:
+      213: 4056619978250496606
+    second: MediumSelected_25
+  - first:
+      213: -5691535015311706487
+    second: MediumSelected_26
+  - first:
+      213: -719887608197708188
+    second: MediumSelected_27
+  - first:
+      213: 6914723975594015651
+    second: MediumSelected_28
+  - first:
+      213: 5282748725443282497
+    second: MediumSelected_29
+  - first:
+      213: -3058681957559559484
+    second: MediumSelected_30
+  - first:
+      213: -8845299993399260648
+    second: MediumSelected_31
+  - first:
+      213: 1647682275123905657
+    second: MediumSelected_32
+  - first:
+      213: 2357968459928435396
+    second: MediumSelected_33
+  - first:
+      213: -3900107443428658486
+    second: MediumSelected_34
+  - first:
+      213: 6079698257591217818
+    second: MediumSelected_35
+  - first:
+      213: -1034821956011959964
+    second: MediumSelected_36
+  - first:
+      213: 8999809086303631291
+    second: MediumSelected_37
+  - first:
+      213: 1680005904926639788
+    second: MediumSelected_38
+  - first:
+      213: 8078226280240386613
+    second: MediumSelected_39
+  - first:
+      213: -25986456601864963
+    second: MediumSelected_40
+  - first:
+      213: 5993611949865322370
+    second: MediumSelected_41
+  - first:
+      213: 7010457374644058435
+    second: MediumSelected_42
+  - first:
+      213: -3248949663910610197
+    second: MediumSelected_43
+  - first:
+      213: 1313634579302535115
+    second: MediumSelected_44
+  - first:
+      213: 8834128996982975662
+    second: MediumSelected_45
+  - first:
+      213: -5729114796779743581
+    second: MediumSelected_46
+  - first:
+      213: -7846523665653777256
+    second: MediumSelected_47
+  - first:
+      213: 8671556129153230736
+    second: MediumSelected_48
+  - first:
+      213: 1792043877332426593
+    second: MediumSelected_49
+  - first:
+      213: 1814996917160871878
+    second: MediumSelected_50
+  - first:
+      213: -5041037590766349485
+    second: MediumSelected_51
+  - first:
+      213: 8584673538470315953
+    second: MediumSelected_52
+  - first:
+      213: -2976443488197306534
+    second: MediumSelected_53
+  - first:
+      213: 1466506133675081706
+    second: MediumSelected_54
+  - first:
+      213: 3232872883695938326
+    second: MediumSelected_55
+  - first:
+      213: -8678476935359685909
+    second: MediumSelected_56
+  - first:
+      213: -3797669879248979181
+    second: MediumSelected_57
+  - first:
+      213: 2383105329607312108
+    second: MediumSelected_58
+  - first:
+      213: 2077077850298308910
+    second: MediumSelected_59
+  - first:
+      213: 3037671609665727127
+    second: MediumSelected_0
+  - first:
+      213: 9066620759218550804
+    second: MediumSelected_1
+  - first:
+      213: -1508155423189054889
+    second: MediumSelected_2
+  - first:
+      213: 273197256256701002
+    second: MediumSelected_3
+  - first:
+      213: 7742729849486092374
+    second: MediumSelected_4
+  - first:
+      213: -1687459669011805829
+    second: MediumSelected_5
+  - first:
+      213: -7306998211023422563
+    second: MediumSelected_6
+  - first:
+      213: 3634518633714036699
+    second: MediumSelected_7
+  - first:
+      213: -9206712083571930375
+    second: MediumSelected_8
+  - first:
+      213: -3733389385042170605
+    second: MediumSelected_9
+  - first:
+      213: -7369167292058885154
+    second: MediumSelected_10
+  - first:
+      213: 1599727803108547549
+    second: MediumSelected_11
+  - first:
+      213: -2895439887968191545
+    second: MediumSelected_12
+  - first:
+      213: 8602049383946944407
+    second: MediumSelected_13
+  - first:
+      213: 4659939366635555966
+    second: MediumSelected_14
+  - first:
+      213: 7124771741488812968
+    second: MediumSelected_15
+  - first:
+      213: -697589733993521679
+    second: MediumSelected_16
+  - first:
+      213: -2606727983864727581
+    second: MediumSelected_17
+  - first:
+      213: -7145474406773537345
+    second: MediumSelected_18
+  - first:
+      213: 2686263010121239543
+    second: MediumSelected_19
+  - first:
+      213: -8912611759345300274
+    second: MediumSelected_20
+  - first:
+      213: 4632655571191264548
+    second: MediumSelected_21
+  - first:
+      213: -5476757354970732406
+    second: MediumSelected_22
+  - first:
+      213: -3138053990440292865
+    second: MediumSelected_23
+  - first:
+      213: 7144152748826338302
+    second: MediumSelected_24
+  - first:
+      213: -4612214767849469954
+    second: MediumSelected_25
+  - first:
+      213: 4723290758670774188
+    second: MediumSelected_26
+  - first:
+      213: 7356231130258045281
+    second: MediumSelected_27
+  - first:
+      213: 3536509210977780555
+    second: MediumSelected_28
+  - first:
+      213: -4997663396743852803
+    second: MediumSelected_29
+  - first:
+      213: 9031178955691869933
+    second: MediumSelected_30
+  - first:
+      213: -1570251031218442307
+    second: MediumSelected_31
+  - first:
+      213: 6569374464103966865
+    second: MediumSelected_32
+  - first:
+      213: 721858974600279062
+    second: MediumSelected_33
+  - first:
+      213: -3467709626127914646
+    second: MediumSelected_34
+  - first:
+      213: -6367396052503991869
+    second: MediumSelected_35
+  - first:
+      213: -6818855370225675639
+    second: MediumSelected_36
+  - first:
+      213: -8925656950723021135
+    second: MediumSelected_37
+  - first:
+      213: -965958317480091680
+    second: MediumSelected_38
+  - first:
+      213: 4045668178186333444
+    second: MediumSelected_39
+  - first:
+      213: 3603478442459485395
+    second: MediumSelected_40
+  - first:
+      213: 6829750566116154223
+    second: MediumSelected_41
+  - first:
+      213: 8468525840472700409
+    second: MediumSelected_42
+  - first:
+      213: -8418821827925156413
+    second: MediumSelected_43
+  - first:
+      213: 5350689009526067790
+    second: MediumSelected_44
+  - first:
+      213: 782851459352358289
+    second: MediumSelected_45
+  - first:
+      213: 2276771638489580619
+    second: MediumSelected_46
+  - first:
+      213: -8033217505930315833
+    second: MediumSelected_47
+  - first:
+      213: -909901213060953369
+    second: MediumSelected_48
+  - first:
+      213: 1448129391820194996
+    second: MediumSelected_49
+  - first:
+      213: 6033840359381949765
+    second: MediumSelected_50
+  - first:
+      213: 4069357679122222858
+    second: MediumSelected_51
+  - first:
+      213: -6455297510352587030
+    second: MediumSelected_52
+  - first:
+      213: 5742931875408961889
+    second: MediumSelected_53
+  - first:
+      213: -5581192835571559070
+    second: MediumSelected_54
+  - first:
+      213: 4128452270865625727
+    second: MediumSelected_55
+  - first:
+      213: -3459031365957558894
+    second: MediumSelected_56
+  - first:
+      213: -2270447314917684698
+    second: MediumSelected_57
+  - first:
+      213: -4400517843030544969
+    second: MediumSelected_58
+  - first:
+      213: -8119376513171746789
+    second: MediumSelected_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MediumSelected_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 496
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a2a661c3af72a20800000000000000
+      internalID: 3037671609665727127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 495
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41877622b8b13dd70800000000000000
+      internalID: 9066620759218550804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 493
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75accb612a4f11be0800000000000000
+      internalID: -1508155423189054889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 491
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42cac405779ac300800000000000000
+      internalID: 273197256256701002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 489
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ae6e76c3b37b60800000000000000
+      internalID: 7742729849486092374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 488
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79c0cf1f50f498e0800000000000000
+      internalID: -1687459669011805829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 489
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bb88957d3589a90800000000000000
+      internalID: -7306998211023422563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 491
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf201cd077607230800000000000000
+      internalID: 3634518633714036699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_8
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 493
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa0665a3203b3080800000000000000
+      internalID: -9206712083571930375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 495
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de8587226503cc0800000000000000
+      internalID: -3733389385042170605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 396
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3276234657bb990800000000000000
+      internalID: -7369167292058885154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 394
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd99116ff533610800000000000000
+      internalID: 1599727803108547549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 393
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbb82933c451d7d0800000000000000
+      internalID: -2895439887968191545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 391
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f768ec65e906770800000000000000
+      internalID: 8602049383946944407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 390
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ccb2f1a2e6ba040800000000000000
+      internalID: 4659939366635555966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 388
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39e25762640e260800000000000000
+      internalID: 7124771741488812968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 390
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd5b5a35d9a156f0800000000000000
+      internalID: -697589733993521679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 391
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e73cafa5ba03dbd0800000000000000
+      internalID: -2606727983864727581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 393
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb54e98a2ec26dc90800000000000000
+      internalID: -7145474406773537345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_19
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 394
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb4c8ba9f5874520800000000000000
+      internalID: 2686263010121239543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 304
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc014f63da005480800000000000000
+      internalID: -8912611759345300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 303
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f69772bf7a4040800000000000000
+      internalID: 4632655571191264548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 302
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8826f7e336aef3b0800000000000000
+      internalID: -5476757354970732406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 299
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd2fc595846374d0800000000000000
+      internalID: -3138053990440292865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 298
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3aceed211252360800000000000000
+      internalID: 7144152748826338302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 296
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7858eea1f1effb0800000000000000
+      internalID: -4612214767849469954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_26
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 298
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafe4718bef7c8140800000000000000
+      internalID: 4723290758670774188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 299
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16973bcec35961660800000000000000
+      internalID: 7356231130258045281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_28
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 302
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b434a31e364341130800000000000000
+      internalID: 3536509210977780555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_29
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 303
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc4c129e9bb4aab0800000000000000
+      internalID: -4997663396743852803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 209
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de64ff43961355d70800000000000000
+      internalID: 9031178955691869933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 208
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa804b109553ae0800000000000000
+      internalID: -1570251031218442307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 207
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1986071e44b1b2b50800000000000000
+      internalID: 6569374464103966865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_33
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 204
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6143afea9ee840a00800000000000000
+      internalID: 721858974600279062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_34
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 203
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69617eb77830efc0800000000000000
+      internalID: -3467709626127914646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 201
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c96642b60772a7a0800000000000000
+      internalID: -6367396052503991869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_36
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 203
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821fea2b2f8e51a0800000000000000
+      internalID: -6818855370225675639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_37
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 204
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b678212b42b12480800000000000000
+      internalID: -8925656950723021135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_38
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 207
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd3c2370a3892f0800000000000000
+      internalID: -965958317480091680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_39
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 208
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de5efe5c9152830800000000000000
+      internalID: 4045668178186333444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 116
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d453962d80220230800000000000000
+      internalID: 3603478442459485395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 115
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b50ed44f528ce50800000000000000
+      internalID: 6829750566116154223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 114
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5779c326f368570800000000000000
+      internalID: 8468525840472700409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 111
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd573ff6265a2b80800000000000000
+      internalID: -8418821827925156413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 110
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4253641e47714a40800000000000000
+      internalID: 5350689009526067790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 109
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19de79a214f3dda00800000000000000
+      internalID: 782851459352358289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_46
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 110
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440bda0eb7b89f10800000000000000
+      internalID: 2276771638489580619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_47
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 111
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7f29b7d37448090800000000000000
+      internalID: -8033217505930315833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_48
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 114
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0ec6eaa16f53f0800000000000000
+      internalID: -909901213060953369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_49
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 115
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ce34620ac81410800000000000000
+      internalID: 1448129391820194996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 20
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d506496d18cb350800000000000000
+      internalID: 6033840359381949765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 19
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f8610bf33497830800000000000000
+      internalID: 4069357679122222858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae678ffad1d2a66a0800000000000000
+      internalID: -6455297510352587030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 15
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e4030d1ef2bf40800000000000000
+      internalID: 5742931875408961889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_54
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 14
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2655dccbfae9b82b0800000000000000
+      internalID: -5581192835571559070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_55
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b91587753b4930800000000000000
+      internalID: 4128452270865625727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_56
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 14
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d5a25ac4d0fffc0800000000000000
+      internalID: -3459031365957558894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_57
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 15
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a87194230cd70e0800000000000000
+      internalID: -2270447314917684698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_58
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 18
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd656236583ee2c0800000000000000
+      internalID: -4400517843030544969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumSelected_59
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 19
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b109fbe541e225f80800000000000000
+      internalID: -8119376513171746789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

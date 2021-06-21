@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 741b589fcb3e92a45879e4a89ddb0dcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5204685436730736840
+    second: PackageBouncing_0
+  - first:
+      213: -2583651108370856165
+    second: PackageBouncing_1
+  - first:
+      213: -6108660698716383233
+    second: PackageBouncing_2
+  - first:
+      213: 1699132497441318838
+    second: PackageBouncing_3
+  - first:
+      213: 6268133791754379504
+    second: PackageBouncing_4
+  - first:
+      213: -7488013727183376770
+    second: PackageBouncing_5
+  - first:
+      213: 8615559380958907793
+    second: PackageBouncing_6
+  - first:
+      213: 6678541832604335083
+    second: PackageBouncing_7
+  - first:
+      213: 7444333608529192058
+    second: PackageBouncing_8
+  - first:
+      213: 4316857989309374117
+    second: PackageBouncing_9
+  - first:
+      213: -2107252257253688530
+    second: PackageBouncing_10
+  - first:
+      213: 3730266333738606957
+    second: PackageBouncing_11
+  - first:
+      213: -5193895139949359990
+    second: PackageBouncing_12
+  - first:
+      213: 6970756338773124184
+    second: PackageBouncing_13
+  - first:
+      213: 1854370544527947699
+    second: PackageBouncing_14
+  - first:
+      213: -4367721032175677416
+    second: PackageBouncing_15
+  - first:
+      213: 2508685342093423426
+    second: PackageBouncing_16
+  - first:
+      213: -485686597182546401
+    second: PackageBouncing_17
+  - first:
+      213: 7023158286167865983
+    second: PackageBouncing_18
+  - first:
+      213: 1436594432303542474
+    second: PackageBouncing_19
+  - first:
+      213: 3182630088702119214
+    second: PackageBouncing_20
+  - first:
+      213: -6132945444073813657
+    second: PackageBouncing_21
+  - first:
+      213: 3637682942012441850
+    second: PackageBouncing_22
+  - first:
+      213: 2690771483817889903
+    second: PackageBouncing_23
+  - first:
+      213: -8435753750126480312
+    second: PackageBouncing_24
+  - first:
+      213: -5531611368052829907
+    second: PackageBouncing_25
+  - first:
+      213: -512248682175904473
+    second: PackageBouncing_26
+  - first:
+      213: 5707920165145613792
+    second: PackageBouncing_27
+  - first:
+      213: -6131929476150183124
+    second: PackageBouncing_28
+  - first:
+      213: 5855748572582885223
+    second: PackageBouncing_29
+  - first:
+      213: -7837900248956552664
+    second: PackageBouncing_30
+  - first:
+      213: -501596612835198591
+    second: PackageBouncing_31
+  - first:
+      213: -173068892985755084
+    second: PackageBouncing_32
+  - first:
+      213: -3572160801304636440
+    second: PackageBouncing_33
+  - first:
+      213: -6484814360145557482
+    second: PackageBouncing_34
+  - first:
+      213: -5580065259562350479
+    second: PackageBouncing_35
+  - first:
+      213: -6308387565475972615
+    second: PackageBouncing_36
+  - first:
+      213: 5284836837136214891
+    second: PackageBouncing_37
+  - first:
+      213: -7379455453677095320
+    second: PackageBouncing_38
+  - first:
+      213: 7299696621092787191
+    second: PackageBouncing_39
+  - first:
+      213: -4442400990573555480
+    second: PackageBouncing_40
+  - first:
+      213: -1315372942820186420
+    second: PackageBouncing_41
+  - first:
+      213: -6289250521797503735
+    second: PackageBouncing_42
+  - first:
+      213: -6953478235884610836
+    second: PackageBouncing_43
+  - first:
+      213: -1966620161407531154
+    second: PackageBouncing_44
+  - first:
+      213: 4777257035683642794
+    second: PackageBouncing_45
+  - first:
+      213: -1219208772987016126
+    second: PackageBouncing_46
+  - first:
+      213: -6178978097923268839
+    second: PackageBouncing_47
+  - first:
+      213: -7492627835316555685
+    second: PackageBouncing_48
+  - first:
+      213: 4576489152954637708
+    second: PackageBouncing_49
+  - first:
+      213: 8915508765331120962
+    second: PackageBouncing_50
+  - first:
+      213: -8016726485491472573
+    second: PackageBouncing_51
+  - first:
+      213: 7321971145039184326
+    second: PackageBouncing_52
+  - first:
+      213: 5519807081208949377
+    second: PackageBouncing_53
+  - first:
+      213: 6644562109983249081
+    second: PackageBouncing_54
+  - first:
+      213: -5319062394759005887
+    second: PackageBouncing_55
+  - first:
+      213: -1059772608484018338
+    second: PackageBouncing_56
+  - first:
+      213: 231548576112852359
+    second: PackageBouncing_57
+  - first:
+      213: 1506737593649751659
+    second: PackageBouncing_58
+  - first:
+      213: -5121800602230116768
+    second: PackageBouncing_59
+  - first:
+      213: -4997007722812988632
+    second: PackageBouncing_0
+  - first:
+      213: -959842566539530155
+    second: PackageBouncing_1
+  - first:
+      213: 2796278783917420078
+    second: PackageBouncing_2
+  - first:
+      213: 8885499496126577460
+    second: PackageBouncing_3
+  - first:
+      213: 6773430047623972513
+    second: PackageBouncing_4
+  - first:
+      213: -1121048702467776981
+    second: PackageBouncing_5
+  - first:
+      213: -5051619312910450324
+    second: PackageBouncing_6
+  - first:
+      213: 8422793034892589285
+    second: PackageBouncing_7
+  - first:
+      213: -7831574855288205492
+    second: PackageBouncing_8
+  - first:
+      213: -6457726314483641181
+    second: PackageBouncing_9
+  - first:
+      213: 5058575161147578
+    second: PackageBouncing_10
+  - first:
+      213: 1213769374400462036
+    second: PackageBouncing_11
+  - first:
+      213: -8299947144860836936
+    second: PackageBouncing_12
+  - first:
+      213: 1803630621133365146
+    second: PackageBouncing_13
+  - first:
+      213: -1409792604091241610
+    second: PackageBouncing_14
+  - first:
+      213: -4064118894478116185
+    second: PackageBouncing_15
+  - first:
+      213: -8508131921952814094
+    second: PackageBouncing_16
+  - first:
+      213: 2598203841654459708
+    second: PackageBouncing_17
+  - first:
+      213: 3844923293317363790
+    second: PackageBouncing_18
+  - first:
+      213: -7910224216441163812
+    second: PackageBouncing_19
+  - first:
+      213: -7422485142764345767
+    second: PackageBouncing_20
+  - first:
+      213: -4937088517170005564
+    second: PackageBouncing_21
+  - first:
+      213: 9158381387818133575
+    second: PackageBouncing_22
+  - first:
+      213: 7843880765970098563
+    second: PackageBouncing_23
+  - first:
+      213: 5697431278898318969
+    second: PackageBouncing_24
+  - first:
+      213: 8809810123873353222
+    second: PackageBouncing_25
+  - first:
+      213: 130629494056559428
+    second: PackageBouncing_26
+  - first:
+      213: -454354283510173142
+    second: PackageBouncing_27
+  - first:
+      213: 8556557891203487058
+    second: PackageBouncing_28
+  - first:
+      213: -8667946042801449598
+    second: PackageBouncing_29
+  - first:
+      213: 2594959685468557566
+    second: PackageBouncing_30
+  - first:
+      213: -8138819936639494968
+    second: PackageBouncing_31
+  - first:
+      213: -8234727530830131649
+    second: PackageBouncing_32
+  - first:
+      213: 4035960418618503345
+    second: PackageBouncing_33
+  - first:
+      213: -4619537091006974533
+    second: PackageBouncing_34
+  - first:
+      213: -4437968264277509067
+    second: PackageBouncing_35
+  - first:
+      213: -4411675584562235530
+    second: PackageBouncing_36
+  - first:
+      213: 1057639161682596061
+    second: PackageBouncing_37
+  - first:
+      213: -6882710801698656046
+    second: PackageBouncing_38
+  - first:
+      213: 7527414239456016597
+    second: PackageBouncing_39
+  - first:
+      213: -2268276655692948067
+    second: PackageBouncing_40
+  - first:
+      213: -7573916051125262562
+    second: PackageBouncing_41
+  - first:
+      213: -5692126030981394907
+    second: PackageBouncing_42
+  - first:
+      213: -372972520153594296
+    second: PackageBouncing_43
+  - first:
+      213: 4204853036992908895
+    second: PackageBouncing_44
+  - first:
+      213: 7256792403121658686
+    second: PackageBouncing_45
+  - first:
+      213: -6891360118967724386
+    second: PackageBouncing_46
+  - first:
+      213: -1044068522826668649
+    second: PackageBouncing_47
+  - first:
+      213: 2747134563870894852
+    second: PackageBouncing_48
+  - first:
+      213: 4262191021458212914
+    second: PackageBouncing_49
+  - first:
+      213: 7647015921150859778
+    second: PackageBouncing_50
+  - first:
+      213: -5738352271949771362
+    second: PackageBouncing_51
+  - first:
+      213: 3836352878005896434
+    second: PackageBouncing_52
+  - first:
+      213: -1079442732492988882
+    second: PackageBouncing_53
+  - first:
+      213: 8557409636462099555
+    second: PackageBouncing_54
+  - first:
+      213: -7560064045632426165
+    second: PackageBouncing_55
+  - first:
+      213: 7634764159763468292
+    second: PackageBouncing_56
+  - first:
+      213: 4925995706964629094
+    second: PackageBouncing_57
+  - first:
+      213: -2992493511258692271
+    second: PackageBouncing_58
+  - first:
+      213: -3410170347224350269
+    second: PackageBouncing_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PackageBouncing_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 480
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82329dd83ff07aab0800000000000000
+      internalID: -4997007722812988632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 480
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550bc1d6544fda2f0800000000000000
+      internalID: -959842566539530155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 480
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eeb581db06ec620800000000000000
+      internalID: 2796278783917420078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 480
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b798ed6b2af4b70800000000000000
+      internalID: 8885499496126577460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 480
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6859bbdbe000e50800000000000000
+      internalID: 6773430047623972513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 480
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ede79052c3170f0800000000000000
+      internalID: -1121048702467776981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 480
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614871effa05e9b0800000000000000
+      internalID: -5051619312910450324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 480
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8386da3a5c3e470800000000000000
+      internalID: 8422793034892589285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_8
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 480
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4aae9928a05390800000000000000
+      internalID: -7831574855288205492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 480
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a49288a12c8166a0800000000000000
+      internalID: -6457726314483641181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 387
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0cc8f4fb8f11000800000000000000
+      internalID: 5058575161147578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 387
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc3360b0dc28d010800000000000000
+      internalID: 1213769374400462036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 387
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5d08fb0aa0dc80800000000000000
+      internalID: -8299947144860836936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 387
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fdbae6e78c70910800000000000000
+      internalID: 1803630621133365146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 387
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b2b2298196f6ce0800000000000000
+      internalID: -1409792604091241610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 387
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aabda9e5695997c0800000000000000
+      internalID: -4064118894478116185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 387
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb47d1581b0de980800000000000000
+      internalID: -8508131921952814094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 387
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d8edbc0acae0420800000000000000
+      internalID: 2598203841654459708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_18
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 387
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e487ece2d59eb5530800000000000000
+      internalID: 3844923293317363790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_19
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 387
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfe45d3cfc393290800000000000000
+      internalID: -7910224216441163812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956aae2b6190ef890800000000000000
+      internalID: -7422485142764345767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 293
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9fb65c620fb7bb0800000000000000
+      internalID: -4937088517170005564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 293
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e27a595b191f70800000000000000
+      internalID: 9158381387818133575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 293
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389aa2c7fff0bdc60800000000000000
+      internalID: 7843880765970098563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 293
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0fe6df87511f40800000000000000
+      internalID: 5697431278898318969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 293
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e7c1c91abb24a70800000000000000
+      internalID: 8809810123873353222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 293
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4432e6e25d610d100800000000000000
+      internalID: 130629494056559428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 293
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22f239bf2fc1b9f0800000000000000
+      internalID: -454354283510173142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 293
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255df3541100fb670800000000000000
+      internalID: 8556557891203487058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_29
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 293
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851192bff445b780800000000000000
+      internalID: -8667946042801449598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 199
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef010d2d516230420800000000000000
+      internalID: 2594959685468557566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 199
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c45cb1936a1d0f80800000000000000
+      internalID: -8138819936639494968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8dbea0fe58bd80800000000000000
+      internalID: -8234727530830131649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 199
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0fa470e9c920830800000000000000
+      internalID: 4035960418618503345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 199
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b9c7bd7b14efb0800000000000000
+      internalID: -4619537091006974533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 199
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3843806b2962c0800000000000000
+      internalID: -4437968264277509067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_36
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 199
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67777ed0e6496c2c0800000000000000
+      internalID: -4411675584562235530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 199
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd012a4c63d7dae00800000000000000
+      internalID: 1057639161682596061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_38
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 199
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0f105fdf2bb70a0800000000000000
+      internalID: -6882710801698656046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_39
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 199
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d83efb6e5fb67860800000000000000
+      internalID: 7527414239456016597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d5c1546667580e0800000000000000
+      internalID: -2268276655692948067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 105
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17ac06da7b04e690800000000000000
+      internalID: -7573916051125262562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 105
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e899278818101b0800000000000000
+      internalID: -5692126030981394907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 105
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464341187fe2daf0800000000000000
+      internalID: -372972520153594296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 105
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e4fa21f83aa5a30800000000000000
+      internalID: 4204853036992908895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 105
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bd1d41e3e45b460800000000000000
+      internalID: 7256792403121658686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 105
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9692a9db78fc50a0800000000000000
+      internalID: -6891360118967724386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_47
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 105
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795efbfc539b281f0800000000000000
+      internalID: -1044068522826668649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_48
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 105
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be8b5b458cf1620800000000000000
+      internalID: 2747134563870894852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_49
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 105
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23840e6e628562b30800000000000000
+      internalID: 4262191021458212914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a14f3f678af1a60800000000000000
+      internalID: 7647015921150859778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 11
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc06203074d50b0800000000000000
+      internalID: -5738352271949771362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4c69edd967d3530800000000000000
+      internalID: 3836352878005896434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 11
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed06ecd8c0501f0800000000000000
+      internalID: -1079442732492988882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 11
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cf3daa9b602c670800000000000000
+      internalID: 8557409636462099555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_55
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 11
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f60e03ec1451790800000000000000
+      internalID: -7560064045632426165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 11
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400d5967d8124f960800000000000000
+      internalID: 7634764159763468292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_57
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 11
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d9b61ff6ac5440800000000000000
+      internalID: 4925995706964629094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_58
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 11
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a3c4a1078876d0800000000000000
+      internalID: -2992493511258692271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackageBouncing_59
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 11
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c14f161324aca0d0800000000000000
+      internalID: -3410170347224350269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

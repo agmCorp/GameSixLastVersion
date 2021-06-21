@@ -1,0 +1,50 @@
+// El mapa puede no tener Challenges, incluso ni Levels.
+{
+    "levelConfigList": [
+        {
+            // Su funcion es identificar dentro del json que nivel estoy definiendo. Tambien se usa para 
+            // identificarlo en el editor de Unity o en Debug.log().
+            // Su valor se puede repetir o dejar en cero, es meramente informativo y no forma parte de logica alguna.
+            "levelDebugId": 1,
+
+            // Distancia en metros desde el anterior target. 
+            // Para el Level 1 (posicion 0 en el array), el anterior target es el centro de la pantalla (0, 0).
+            // Si la distancia se sale de la pantalla, se escala inteligentemente.
+            // Nunca va a pasar que un target de un Level no se vea en la pantalla al llegar a el.
+            "polarCoords": {
+                "rho": 2.0,
+                "phi": 135.0
+            },
+            // Lista de Challenges que conforman el Level.
+            // Son nombres de archivo .json.
+            "challengeFilenameList": [
+                "Challenge_0",
+                "Challenge_1",
+                "Challenge_2"
+            ]
+        },
+        {
+            "levelNumber": 2,
+            "polarCoords": {
+                "rho": 2.0,
+                "phi": 135.0
+            },
+            "challengeFilenameList": [
+                "Challenge_3",
+                "Challenge_4",
+                "Challenge_5"
+            ]
+        },
+        {
+            "levelNumber": 3,
+            "polarCoords": {
+                "rho": 2.0,
+                "phi": 135.0
+            },
+            "challengeFilenameList": [
+                "Challenge_6",
+                "Challenge_7"
+            ]
+        }
+    ]
+}

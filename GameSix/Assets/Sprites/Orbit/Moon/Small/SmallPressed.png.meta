@@ -1,0 +1,1787 @@
+fileFormatVersion: 2
+guid: 82e10c00d35710642bb56570af30918b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9135610254635131953
+    second: SmallPressed_0
+  - first:
+      213: -6803233001063325174
+    second: SmallPressed_1
+  - first:
+      213: 4146255155374505324
+    second: SmallPressed_2
+  - first:
+      213: -2032158132870313681
+    second: SmallPressed_3
+  - first:
+      213: -8972132085615317883
+    second: SmallPressed_4
+  - first:
+      213: -7047032901138763841
+    second: SmallPressed_5
+  - first:
+      213: -5297870663888245661
+    second: SmallPressed_6
+  - first:
+      213: -575594097227189197
+    second: SmallPressed_7
+  - first:
+      213: 2228006435718327923
+    second: SmallPressed_8
+  - first:
+      213: -5245676501977984677
+    second: SmallPressed_9
+  - first:
+      213: 6758247009138977357
+    second: SmallPressed_10
+  - first:
+      213: -3210180194793852708
+    second: SmallPressed_11
+  - first:
+      213: -2820021756129683188
+    second: SmallPressed_12
+  - first:
+      213: 8639799653713006431
+    second: SmallPressed_13
+  - first:
+      213: -5801007021955132186
+    second: SmallPressed_14
+  - first:
+      213: 7925269619203762291
+    second: SmallPressed_15
+  - first:
+      213: 7997193989204910636
+    second: SmallPressed_16
+  - first:
+      213: -8271164061375081183
+    second: SmallPressed_17
+  - first:
+      213: -1844024289278175317
+    second: SmallPressed_18
+  - first:
+      213: -767343624618247364
+    second: SmallPressed_19
+  - first:
+      213: -1274409481126843926
+    second: SmallPressed_20
+  - first:
+      213: -5335124131433998495
+    second: SmallPressed_21
+  - first:
+      213: 3217508169422012968
+    second: SmallPressed_22
+  - first:
+      213: -2622559105869930165
+    second: SmallPressed_23
+  - first:
+      213: 1746061478110904025
+    second: SmallPressed_24
+  - first:
+      213: 66265753150050151
+    second: SmallPressed_25
+  - first:
+      213: -8111873861409789575
+    second: SmallPressed_26
+  - first:
+      213: -2223153157809407311
+    second: SmallPressed_27
+  - first:
+      213: 3727588110004163014
+    second: SmallPressed_28
+  - first:
+      213: -8610820335876691140
+    second: SmallPressed_29
+  - first:
+      213: -6051495117961358725
+    second: SmallPressed_30
+  - first:
+      213: 5739891421483715883
+    second: SmallPressed_31
+  - first:
+      213: 8193182789890786833
+    second: SmallPressed_32
+  - first:
+      213: 5900192232210515006
+    second: SmallPressed_33
+  - first:
+      213: 237115788972559680
+    second: SmallPressed_34
+  - first:
+      213: 6141782929897040915
+    second: SmallPressed_35
+  - first:
+      213: 3072020368352646465
+    second: SmallPressed_36
+  - first:
+      213: -7140077922964402737
+    second: SmallPressed_37
+  - first:
+      213: -4327347842921156001
+    second: SmallPressed_38
+  - first:
+      213: -97923790173661115
+    second: SmallPressed_39
+  - first:
+      213: -8842076125100958715
+    second: SmallPressed_40
+  - first:
+      213: 1734809108780169640
+    second: SmallPressed_41
+  - first:
+      213: -477982000605378964
+    second: SmallPressed_42
+  - first:
+      213: -6630513469607687660
+    second: SmallPressed_43
+  - first:
+      213: -9025677101787488234
+    second: SmallPressed_44
+  - first:
+      213: -7018768524158474204
+    second: SmallPressed_59
+  - first:
+      213: 2801311783784437444
+    second: SmallPressed_58
+  - first:
+      213: -8199308970098884093
+    second: SmallPressed_59
+  - first:
+      213: 2291772163441247769
+    second: SmallPressed_58
+  - first:
+      213: 9071092948456135026
+    second: SmallPressed_59
+  - first:
+      213: 6619299719217194647
+    second: SmallPressed_58
+  - first:
+      213: -3669397167814725434
+    second: SmallPressed_59
+  - first:
+      213: -8298363538750806130
+    second: SmallPressed_58
+  - first:
+      213: -39225431566262456
+    second: SmallPressed_59
+  - first:
+      213: -4069528121469928722
+    second: SmallPressed_58
+  - first:
+      213: -975574878632726160
+    second: SmallPressed_59
+  - first:
+      213: -1216569517235570767
+    second: SmallPressed_58
+  - first:
+      213: -7339304636873279228
+    second: SmallPressed_59
+  - first:
+      213: -3131144511008006637
+    second: SmallPressed_45
+  - first:
+      213: 5032404627105924066
+    second: SmallPressed_46
+  - first:
+      213: -315361317494766004
+    second: SmallPressed_0
+  - first:
+      213: -1793677842506321528
+    second: SmallPressed_1
+  - first:
+      213: 5145773334161097498
+    second: SmallPressed_2
+  - first:
+      213: 8187230270765583592
+    second: SmallPressed_3
+  - first:
+      213: 2884882173404370911
+    second: SmallPressed_4
+  - first:
+      213: -7629507116898230647
+    second: SmallPressed_5
+  - first:
+      213: -8127553070481400115
+    second: SmallPressed_6
+  - first:
+      213: 7601786368917307042
+    second: SmallPressed_7
+  - first:
+      213: 8821781141344604715
+    second: SmallPressed_8
+  - first:
+      213: 1252690171293833300
+    second: SmallPressed_9
+  - first:
+      213: -7447918137073983948
+    second: SmallPressed_10
+  - first:
+      213: 6181624442250408895
+    second: SmallPressed_11
+  - first:
+      213: -5323398093055568977
+    second: SmallPressed_12
+  - first:
+      213: 2965871917200301142
+    second: SmallPressed_13
+  - first:
+      213: 5707514336182400428
+    second: SmallPressed_14
+  - first:
+      213: -4098077626714256779
+    second: SmallPressed_15
+  - first:
+      213: 7785901237594785538
+    second: SmallPressed_16
+  - first:
+      213: 6931064337386710488
+    second: SmallPressed_17
+  - first:
+      213: -6690700602713975709
+    second: SmallPressed_18
+  - first:
+      213: -197672450670751698
+    second: SmallPressed_19
+  - first:
+      213: -4698483724639472409
+    second: SmallPressed_20
+  - first:
+      213: 1802451331495401561
+    second: SmallPressed_21
+  - first:
+      213: -857812362030837894
+    second: SmallPressed_22
+  - first:
+      213: -3939793209719244747
+    second: SmallPressed_23
+  - first:
+      213: -2055730418626909387
+    second: SmallPressed_24
+  - first:
+      213: 9014916250541604679
+    second: SmallPressed_25
+  - first:
+      213: 4282684171293516262
+    second: SmallPressed_26
+  - first:
+      213: -7855763901323491374
+    second: SmallPressed_27
+  - first:
+      213: 5459331150922325181
+    second: SmallPressed_28
+  - first:
+      213: 7200291629714616052
+    second: SmallPressed_29
+  - first:
+      213: 2605507039638332216
+    second: SmallPressed_30
+  - first:
+      213: -1987609408004307453
+    second: SmallPressed_31
+  - first:
+      213: -1280989755153505266
+    second: SmallPressed_32
+  - first:
+      213: -4656468116560408290
+    second: SmallPressed_33
+  - first:
+      213: 8674198818808042535
+    second: SmallPressed_34
+  - first:
+      213: -3451939751753214759
+    second: SmallPressed_35
+  - first:
+      213: -7832633919254842300
+    second: SmallPressed_36
+  - first:
+      213: -5747217037996079761
+    second: SmallPressed_37
+  - first:
+      213: -8089100923910254297
+    second: SmallPressed_38
+  - first:
+      213: -2180567737337649384
+    second: SmallPressed_39
+  - first:
+      213: 4336295810388078741
+    second: SmallPressed_40
+  - first:
+      213: -8376180991335301924
+    second: SmallPressed_41
+  - first:
+      213: -7231208255498299358
+    second: SmallPressed_42
+  - first:
+      213: -3709592377781955130
+    second: SmallPressed_43
+  - first:
+      213: -4364069589074401246
+    second: SmallPressed_44
+  - first:
+      213: 5139365108453375531
+    second: SmallPressed_45
+  - first:
+      213: -5910085531580331883
+    second: SmallPressed_46
+  - first:
+      213: -1667285474572334144
+    second: SmallPressed_47
+  - first:
+      213: -8530066834380812749
+    second: SmallPressed_48
+  - first:
+      213: 8422468628580822759
+    second: SmallPressed_49
+  - first:
+      213: -728329770568737655
+    second: SmallPressed_50
+  - first:
+      213: 5115996749339513112
+    second: SmallPressed_51
+  - first:
+      213: 7421873697543281520
+    second: SmallPressed_52
+  - first:
+      213: 2441444893527707780
+    second: SmallPressed_53
+  - first:
+      213: -7377945625892187177
+    second: SmallPressed_54
+  - first:
+      213: -7950650725612089937
+    second: SmallPressed_55
+  - first:
+      213: 314783219606710468
+    second: SmallPressed_56
+  - first:
+      213: 7938904638967941237
+    second: SmallPressed_57
+  - first:
+      213: -2687393134882748400
+    second: SmallPressed_58
+  - first:
+      213: 902028298961464490
+    second: SmallPressed_59
+  - first:
+      213: -8199308970098884093
+    second: SmallPressed_47
+  - first:
+      213: 6619299719217194647
+    second: SmallPressed_50
+  - first:
+      213: -3669397167814725434
+    second: SmallPressed_51
+  - first:
+      213: -8298363538750806130
+    second: SmallPressed_52
+  - first:
+      213: -39225431566262456
+    second: SmallPressed_53
+  - first:
+      213: -4069528121469928722
+    second: SmallPressed_54
+  - first:
+      213: -975574878632726160
+    second: SmallPressed_55
+  - first:
+      213: -1216569517235570767
+    second: SmallPressed_56
+  - first:
+      213: -7339304636873279228
+    second: SmallPressed_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallPressed_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 217
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e14834aeda3a890800000000000000
+      internalID: -7447918137073983948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 217
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb33537bdaa89c550800000000000000
+      internalID: 6181624442250408895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 217
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa35e6193ad7f16b0800000000000000
+      internalID: -5323398093055568977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 217
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cd70a7bc4e82920800000000000000
+      internalID: 2965871917200301142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 217
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f99e8c0a253f40800000000000000
+      internalID: 5707514336182400428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 217
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a88bd6c14b027c0800000000000000
+      internalID: -4098077626714256779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 217
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2078c139ce31d0c60800000000000000
+      internalID: 7785901237594785538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 217
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d52051ea46103060800000000000000
+      internalID: 6931064337386710488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 163
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4f8e132f1abceb0800000000000000
+      internalID: -4698483724639472409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95896baafe7930910800000000000000
+      internalID: 1802451331495401561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 163
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f863d93307814f0800000000000000
+      internalID: -857812362030837894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 163
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538303e13fa0359c0800000000000000
+      internalID: -3939793209719244747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 163
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b27c373149873e0800000000000000
+      internalID: -2055730418626909387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 163
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fbd69119a6b1d70800000000000000
+      internalID: 9014916250541604679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 163
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1632b20962f6b30800000000000000
+      internalID: 4282684171293516262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 163
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c6467a58baf290800000000000000
+      internalID: -7855763901323491374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332c6519de982420800000000000000
+      internalID: 2605507039638332216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 111
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306cda336c79a64e0800000000000000
+      internalID: -1987609408004307453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 111
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04292bca92093ee0800000000000000
+      internalID: -1280989755153505266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 111
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111c744be6e06fb0800000000000000
+      internalID: -4656468116560408290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_34
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 111
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7249a2a2ed1f06870800000000000000
+      internalID: 8674198818808042535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 111
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d413beb51f3810d0800000000000000
+      internalID: -3451939751753214759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_36
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 111
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444b32313f4ec4390800000000000000
+      internalID: -7832633919254842300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 111
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65cb23dd88cd30b0800000000000000
+      internalID: -5747217037996079761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 61
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590323b901e9d2c30800000000000000
+      internalID: 4336295810388078741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc741d64c3d1cb80800000000000000
+      internalID: -8376180991335301924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 61
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228d62a776695ab90800000000000000
+      internalID: -7231208255498299358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 61
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55fccf261e48cc0800000000000000
+      internalID: -3709592377781955130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228a220a4d5bf63c0800000000000000
+      internalID: -4364069589074401246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 61
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e766c2651b25740800000000000000
+      internalID: 5139365108453375531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 61
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988af1a5882bfda0800000000000000
+      internalID: -5910085531580331883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_48
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 61
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e046a886d1f9980800000000000000
+      internalID: -8530066834380812749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 62
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6e62f79e92e470800000000000000
+      internalID: 8422468628580822759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 268
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13461f1cf1538ce70800000000000000
+      internalID: 9135610254635131953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 268
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e76f61af0691a0800000000000000
+      internalID: -6803233001063325174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 268
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dba3498157a8930800000000000000
+      internalID: 4146255155374505324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 268
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2908dae1f25cc3e0800000000000000
+      internalID: -2032158132870313681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 268
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ca30f87659c7380800000000000000
+      internalID: -8972132085615317883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 268
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2227c9e8e33e90800000000000000
+      internalID: -7047032901138763841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 268
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c6af453be2a76b0800000000000000
+      internalID: -5297870663888245661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 268
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33436fbd7341308f0800000000000000
+      internalID: -575594097227189197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 268
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e664e7c087bee10800000000000000
+      internalID: 2228006435718327923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 269
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b511df4a30d9337b0800000000000000
+      internalID: -5245676501977984677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 217
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d160dda5b866e0800000000000000
+      internalID: -1844024289278175317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 218
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bf7f9f909d955f0800000000000000
+      internalID: -767343624618247364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 163
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c194cde2ad0bb330800000000000000
+      internalID: 3727588110004163014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 164
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2c5fc688308880800000000000000
+      internalID: -8610820335876691140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 111
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b12b601c22f3c0800000000000000
+      internalID: -4327347842921156001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 112
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54893a7e4da14aef0800000000000000
+      internalID: -97923790173661115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_47
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 61
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020599fee3363e80800000000000000
+      internalID: -8199308970098884093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796a8c9260a7cdb50800000000000000
+      internalID: 6619299719217194647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 9
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0349897bea31dc0800000000000000
+      internalID: -3669397167814725434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 9
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8764bff35a46dc80800000000000000
+      internalID: -8298363538750806130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_53
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 8
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fd4558da4a47ff0800000000000000
+      internalID: -39225431566262456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea725c1cb12687c0800000000000000
+      internalID: -4069528121469928722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 9
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0713d4311df0672f0800000000000000
+      internalID: -975574878632726160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7fa904870ed1fe0800000000000000
+      internalID: -1216569517235570767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 8
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4097acc615d852a90800000000000000
+      internalID: -7339304636873279228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 9
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65691b93240e620800000000000000
+      internalID: 2801311783784437444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallPressed_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 9
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42867dcd633589e90800000000000000
+      internalID: -7018768524158474204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

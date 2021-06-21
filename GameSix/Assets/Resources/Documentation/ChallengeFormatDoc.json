@@ -1,0 +1,138 @@
+{
+    "polarCoords": {
+        // Distancia en metros desde el anterior target. 
+        // Si la distancia se sale de la pantalla, se escala inteligentemente.
+        // Nunca va a pasar que un target no se vea en la pantalla al llegar a el.
+        "rho": 0.0, 
+
+        // Angulo con respecto al eje x, medido en sentido horario. 
+        // El cero esta a la izquierda, el 180 a la derecha (como un semicirculo escolar).
+        // El angulo tiene sentido que sea de 0 a 180, aunque el juego funciona igual de 0 a 360.
+        "phi": 135.0 
+    },
+
+    // Seccion para definir la huida de todas las lunas de todos los planetas.
+    "fleeConfig": {
+        // Velocidad lineal de las lunas al huir de la orbita.
+        "fleeSpeed": 3.0,
+
+        // Tiempo que demoran las lunas en encogerse hasta desaparecer.
+        "shrinkTime": 3.0
+    },
+    // Lista de planetas (orbitas).
+    // Esta lista puede ser vacia indicando "planetConfigList": [].
+    "planetConfigList": [ 
+        {
+            // Radio de la orbita. Minimo radio 0.56 (ver nota 45)
+            "radius": 1.5,
+
+            // Lista de lunas, los keys estan en ObjectPooler.
+            // Esta lista puede ser vacia indicando "moonKeyList": [].
+            "moonKeyList": [
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE"
+            ],
+            // Seccion para definir el Swing o bamboleo
+            "swingConfig": {
+                // Habilita o deshabilita esta seccion
+                "enabled": true,
+
+                // Limites del swing
+                "minRadius": 1.0,  Minimo radio 0.56 (ver nota 45)
+                "maxRadius": 1.5,
+
+                // Velocidad lineal con que se van a mover las lunas al pasar de una orbita a otra en 
+                // su movimiento de swing.
+                // En este ejemplo, desde la orbita de radio 1 a la orbita de radio 1.5 se van a mover con
+                // velocidad 0.7.
+                "swingingSpeed": 0.7,
+
+                // Este ejemplo indica que van a hacer el movimiento de swing por 5 segundos y luego van a dejar
+                // de hacerlo por 6 segundos, asi infinitamente. Cuando se cumple swingDuration, el movimiento de swing no se detiene
+                // abruptamente sino que se extiende el swing hasta llegar a radius.
+                // Si quiero esta funcionalidad, ambos valores deben ser mayores que cero.
+                "swingDuration": 5.0,
+                "pauseDuration": 6.0
+            },
+
+            // Seccion para definir la velocidad de la orbita.
+            "speedConfig": {
+                // Velocidad inicial, es decir, la velocidad que tiene la orbita normalmente.
+                "initialSpeed": 1.0,
+
+                // Antihorario u horario.
+                "clockwise": false,
+
+                // Seccion para definir la aceleracion. 
+                // La orbita va a acelerar hasta una velocidad maxima y luego desacelerar hasta una velocidad inicial.
+                "accelerationConfig": {
+                    // Habilita o deshabilita esta seccion.
+                    "enabled": true,
+
+                    // Velicidad maxima a la que va a acelerar la orbita. Una vez que alcance hasta ese valor, 
+                    // va a desacelerar hasta alcanzar la velocidad inicial initialSpeed y volver a repetir el ciclo.
+                    "maxSpeed": 4.0,
+
+                    // Aceleracion lineal. Cuanto mas grande este numero, mas rapido va a alcanzar su velocidad maxima.
+                    "acceleration": 2.5,
+
+                    // Al alcanzar la orbita su velocidad maxima y luego su velocidad inicial, si bounce esta en true
+                    // la orbita gira hacia el otro lado, si esta en flase sigue girando en el mismo sentido.
+                    "bounce": false
+                }
+            }
+        },
+        // Otro planeta.
+        {
+            "radius": 2.5,
+            "moonKeyList": [
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE",
+                "MEDIUM_BLUE"
+            ],
+            "swingConfig": {
+                "enabled": true,
+                "minRadius": 2.0,
+                "maxRadius": 3.5,
+                "swingingSpeed": 0.6,
+                "swingDuration": 10.0,
+                "pauseDuration": 5.0
+            },
+            "speedConfig": {
+                "initialSpeed": 2.5,
+                "clockwise": false,
+                "accelerationConfig": {
+                    "enabled": true,
+                    "maxSpeed": 6.0,
+                    "acceleration": 1.5,
+                    "bounce": false
+                }
+            }
+        }
+    ]
+}

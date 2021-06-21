@@ -1,0 +1,686 @@
+{
+	"loaded": true,
+	"levelConfigList": [
+		{
+			"levelDebugId": 1,
+			"polarCoords": {
+				"rho": 2.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+				"0000",
+				"0001",
+				"0002"
+			]
+		},
+		{
+			"levelDebugId": 2,
+			"polarCoords": {
+				"rho": 5.0,
+				"phi": 135.0
+			},
+			"challengeFilenameList": [
+				"0003",
+				"0004",
+				"0005"
+			]
+		},
+		{
+			"levelDebugId": 3,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 140.0
+			},
+			"challengeFilenameList": [
+				"0006",
+				"0007",
+				"0008"
+			]
+		},
+		{
+			"levelDebugId": 4,
+			"polarCoords": {
+				"rho": 6.0,
+				"phi": 45.0
+			},
+			"challengeFilenameList": [
+				"0009",
+				"0010",
+				"0011"
+			]
+		},
+		{
+			"levelDebugId": 5,
+			"polarCoords": {
+				"rho": 7.0,
+				"phi": 150.0
+			},
+			"challengeFilenameList": [
+				"0012",
+				"0013",
+				"0014"
+			]
+		},
+		{
+			"levelDebugId": 6,
+			"polarCoords": {
+				"rho": 2.0,
+				"phi": 40.0
+			},
+			"challengeFilenameList": [
+				"0015",
+				"0016",
+				"0017"
+			]
+		},
+		{
+			"levelDebugId": 7,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 95.0
+			},
+			"challengeFilenameList": [
+				"0018",
+				"0019",
+				"0020"
+			]
+		},
+		{
+			"levelDebugId": 8,
+			"polarCoords": {
+				"rho": 6.0,
+				"phi": 135.0
+			},
+			"challengeFilenameList": [
+				"0021",
+				"0022",
+				"0023"
+			]
+		},
+		{
+			"levelDebugId": 9,
+			"polarCoords": {
+				"rho": 8.0,
+				"phi": 30.0
+			},
+			"challengeFilenameList": [
+				"0024",
+				"0025",
+				"0026"
+			]
+		},
+		{
+			"levelDebugId": 10,
+			"polarCoords": {
+				"rho": 3.5,
+				"phi": 135.0
+			},
+			"challengeFilenameList": [
+				"0027",
+				"0028",
+				"0029"
+			]
+		},
+		{
+			"levelDebugId": 11,
+			"polarCoords": {
+				"rho": 2.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+				"0030",
+				"0031",
+				"0032"
+			]
+		},
+		{
+			"levelDebugId": 12,
+			"polarCoords": {
+				"rho": 5.0,
+				"phi": 95.0
+			},
+			"challengeFilenameList": [
+				"0033",
+				"0034",
+				"0035"
+			]
+		},
+		{
+			"levelDebugId": 13,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 45.0
+			},
+			"challengeFilenameList": [
+				"0036",
+				"0037",
+				"0038"
+			]
+		},
+		{
+			"levelDebugId": 14,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 45.0
+			},
+			"challengeFilenameList": [
+				"0039",
+				"0040",
+				"0041"
+			]
+		},
+		{
+			"levelDebugId": 15,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 45.0
+			},
+			"challengeFilenameList": [
+				"0042",
+				"0043",
+				"0044"
+			]
+		},
+		{
+			"levelDebugId": 16,
+			"polarCoords": {
+				"rho": 6.0,
+				"phi": 135.0
+			},
+			"challengeFilenameList": [
+				"0045",
+				"0046",
+				"0047"
+			]
+		},
+		{
+			"levelDebugId": 17,
+			"polarCoords": {
+				"rho": 5.0,
+				"phi": 10.0
+			},
+			"challengeFilenameList": [
+				"0048",
+				"0049",
+				"0050"
+			]
+		},
+		{
+			"levelDebugId": 18,
+			"polarCoords": {
+				"rho": 7.0,
+				"phi": 100.0
+			},
+			"challengeFilenameList": [
+				"0051",
+				"0052",
+				"0053"
+			]
+		},
+		{
+			"levelDebugId": 19,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 170.0
+			},
+			"challengeFilenameList": [
+				"0054",
+				"0055",
+				"0056"
+			]
+		},
+		{
+			"levelDebugId": 20,
+			"polarCoords": {
+				"rho": 7.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+				"0057",
+				"0058",
+				"0059"
+			]
+		},
+		{
+			"levelDebugId": 21,
+			"polarCoords": {
+				"rho": 7.0,
+				"phi": 40.0
+			},
+			"challengeFilenameList": [
+				"0060",
+				"0061",
+				"0062"
+			]
+		},
+		{
+			"levelDebugId": 22,
+			"polarCoords": {
+				"rho": 5.0,
+				"phi": 40.0
+			},
+			"challengeFilenameList": [
+				"0063",
+				"0064",
+				"0065"
+			]
+		},
+		{
+			"levelDebugId": 23,
+			"polarCoords": {
+				"rho": 2.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+				"0066",
+				"0067",
+				"0068"
+			]
+		},
+		{
+			"levelDebugId": 24,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 120.0
+			},
+			"challengeFilenameList": [
+				"0069",
+				"0070",
+				"0071"
+			]
+		},
+		{
+			"levelDebugId": 25,
+			"polarCoords": {
+				"rho": 3.5,
+				"phi": 30.0
+			},
+			"challengeFilenameList": [
+				"0072",
+				"0073",
+				"0074"
+			]
+		},
+		{
+			"levelDebugId": 26,
+			"polarCoords": {
+				"rho": 3.5,
+				"phi": 95.0
+			},
+			"challengeFilenameList": [
+				"0075",
+				"0076",
+				"0077"
+			]
+		},
+		{
+			"levelDebugId": 27,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 70.0
+			},
+			"challengeFilenameList": [
+				"0078",
+				"0079",
+				"0080"
+			]
+		},
+		{
+			"levelDebugId": 28,
+			"polarCoords": {
+				"rho": 7.0,
+				"phi": 100.0
+			},
+			"challengeFilenameList": [
+				"0081",
+				"0082",
+				"0083"
+			]
+		},
+		{
+			"levelDebugId": 29,
+			"polarCoords": {
+				"rho": 3.5,
+				"phi": 170.0
+			},
+			"challengeFilenameList": [
+				"0084",
+				"0085",
+				"0086"
+			]
+		},
+		{
+			"levelDebugId": 30,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 45.0
+			},
+			"challengeFilenameList": [
+				"0087",
+				"0088",
+				"0089"
+			]
+		},
+		{
+			"levelDebugId": 31,
+			"polarCoords": {
+				"rho": 3.5,
+				"phi": 40.0
+			},
+			"challengeFilenameList": [
+				"0090",
+				"0091",
+				"0092"
+			]
+		},
+		{
+			"levelDebugId": 32,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+				"0093",
+				"0094",
+				"0095"
+			]
+		},
+		{
+			"levelDebugId": 33,
+			"polarCoords": {
+				"rho": 3.5,
+				"phi": 170.0
+			},
+			"challengeFilenameList": [
+				"0096",
+				"0097",
+				"0098"
+			]
+		},
+		{
+			"levelDebugId": 34,
+			"polarCoords": {
+				"rho": 5.0,
+				"phi": 110.0
+			},
+			"challengeFilenameList": [
+				"0099",
+				"0100",
+				"0101"
+			]
+		},
+		{
+			"levelDebugId": 35,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 150.0
+			},
+			"challengeFilenameList": [
+				"0102",
+				"0103",
+				"0104"
+			]
+		},
+		{
+			"levelDebugId": 36,
+			"polarCoords": {
+				"rho": 3.5,
+				"phi": 170.0
+			},
+			"challengeFilenameList": [
+				"0105",
+				"0106",
+				"0107"
+			]
+		},
+		{
+			"levelDebugId": 37,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 150.0
+			},
+			"challengeFilenameList": [
+				"0108",
+				"0109",
+				"0110"
+			]
+		},
+		{
+			"levelDebugId": 38,
+			"polarCoords": {
+				"rho": 7.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+				"0111",
+				"0112",
+				"0113"
+			]
+		},		
+		{
+			"levelDebugId": 39,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 40.0
+			},
+			"challengeFilenameList": [
+				"0114",
+				"0115",
+				"0116"
+			]
+		},
+		{
+			"levelDebugId": 40,
+			"polarCoords": {
+				"rho": 2.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+				"0117",
+				"0118",
+				"0119"
+			]
+		},
+		{
+			"levelDebugId": 41,
+			"polarCoords": {
+				"rho": 2.0,
+				"phi": 150.0
+			},
+			"challengeFilenameList": [
+				"0120",
+				"0121",
+				"0122"
+			]
+		},
+		{
+			"levelDebugId": 42,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 50.0
+			},
+			"challengeFilenameList": [
+				"0123",
+				"0124",
+				"0124"
+			]
+		},
+		{
+			"levelDebugId": 43,
+			"polarCoords": {
+				"rho": 6.0,
+				"phi": 120.0
+			},
+			"challengeFilenameList": [
+				"0126",
+				"0127",
+				"0128"
+			]
+		},
+		{
+			"levelDebugId": 44,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 160.0
+			},
+			"challengeFilenameList": [
+				"0129",
+				"0130",
+				"0131"
+			]
+		},
+		{
+			"levelDebugId": 45,
+			"polarCoords": {
+				"rho": 2.5,
+				"phi": 175.0
+			},
+			"challengeFilenameList": [
+				"0132",
+				"0133",
+				"0134"
+			]
+		},
+		{
+			"levelDebugId": 46,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+				"0135",
+				"0136",
+				"0137"
+			]
+		},
+		{
+			"levelDebugId": 47,
+			"polarCoords": {
+				"rho": 5.0,
+				"phi": 95.0
+			},
+			"challengeFilenameList": [
+				"0138",
+				"0139",
+				"0140"
+			]
+		},
+		{
+			"levelDebugId": 48,
+			"polarCoords": {
+				"rho": 5.0,
+				"phi": 40.0
+			},
+			"challengeFilenameList": [
+				"0141",
+				"0142",
+				"0143"
+			]
+		},
+		{
+			"levelDebugId": 49,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 30.0
+			},
+			"challengeFilenameList": [
+				"0144",
+				"0145",
+				"0146"
+			]
+		},
+		{
+			"levelDebugId": 50,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 2.0
+			},
+			"challengeFilenameList": [
+				"0147",
+				"0148",
+				"0149"
+			]
+		},
+		{
+			"levelDebugId": 51,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 40.0
+			},
+			"challengeFilenameList": [
+				"0150",
+				"0151",
+				"0152"
+			]
+		},
+		{
+			"levelDebugId": 52,
+			"polarCoords": {
+				"rho": 5.0,
+				"phi": 20.0
+			},
+			"challengeFilenameList": [
+				"0153",
+				"0154",
+				"0155"
+			]
+		},
+		{
+			"levelDebugId": 53,
+			"polarCoords": {
+				"rho": 3.0,
+				"phi": 10.0
+			},
+			"challengeFilenameList": [
+				"0156",
+				"0157",
+				"0158"
+			]
+		},
+		{
+			"levelDebugId": 54,
+			"polarCoords": {
+				"rho": 2.0,
+				"phi": 160.0
+			},
+			"challengeFilenameList": [
+				"0159",
+				"0160",
+				"0161"
+			]
+		},
+		{
+			"levelDebugId": 55,
+			"polarCoords": {
+				"rho": 6.0,
+				"phi": 180.0
+			},
+			"challengeFilenameList": [
+				"0162",
+				"0163",
+				"0164"
+			]
+		},
+		{
+			"levelDebugId": 56,
+			"polarCoords": {
+				"rho": 4.0,
+				"phi": 110.0
+			},
+			"challengeFilenameList": [
+				"0165",
+				"0166",
+				"0167"
+			]
+		},
+		{
+			"levelDebugId": 57,
+			"polarCoords": {
+				"rho": 6.0,
+				"phi": 90.0
+			},
+			"challengeFilenameList": [
+			]
+		}
+	]
+}

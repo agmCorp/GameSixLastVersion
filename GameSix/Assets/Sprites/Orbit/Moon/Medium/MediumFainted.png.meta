@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 31c2941ef2b19d044837e8e0b27692e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2671160163430429153
+    second: MediumFainted_0
+  - first:
+      213: -7956818486210593615
+    second: MediumFainted_1
+  - first:
+      213: 5587308163549602036
+    second: MediumFainted_2
+  - first:
+      213: 6497390464761123571
+    second: MediumFainted_3
+  - first:
+      213: -5161346973487509797
+    second: MediumFainted_4
+  - first:
+      213: -2935098271990650714
+    second: MediumFainted_5
+  - first:
+      213: 3492209466198883699
+    second: MediumFainted_6
+  - first:
+      213: -7597395311622275460
+    second: MediumFainted_7
+  - first:
+      213: -7470316670799053464
+    second: MediumFainted_8
+  - first:
+      213: 144399293026485553
+    second: MediumFainted_9
+  - first:
+      213: 7634251571294950465
+    second: MediumFainted_10
+  - first:
+      213: -6421233189242877281
+    second: MediumFainted_11
+  - first:
+      213: -3843706488267045626
+    second: MediumFainted_12
+  - first:
+      213: -5306858604716686156
+    second: MediumFainted_13
+  - first:
+      213: -3708033598811473745
+    second: MediumFainted_14
+  - first:
+      213: -8332961729166662831
+    second: MediumFainted_15
+  - first:
+      213: -4202292166594729650
+    second: MediumFainted_16
+  - first:
+      213: 1439039854238702514
+    second: MediumFainted_17
+  - first:
+      213: 3028348117901066301
+    second: MediumFainted_18
+  - first:
+      213: -3877055026640818577
+    second: MediumFainted_19
+  - first:
+      213: 8264110340992766456
+    second: MediumFainted_20
+  - first:
+      213: 2339414538038959909
+    second: MediumFainted_21
+  - first:
+      213: 6739444875986264663
+    second: MediumFainted_22
+  - first:
+      213: -2182024623922543876
+    second: MediumFainted_23
+  - first:
+      213: -2195175890823690539
+    second: MediumFainted_24
+  - first:
+      213: -4022342101193919016
+    second: MediumFainted_25
+  - first:
+      213: -3770197653308663770
+    second: MediumFainted_26
+  - first:
+      213: -7414002081919075210
+    second: MediumFainted_27
+  - first:
+      213: 3418733874853261034
+    second: MediumFainted_28
+  - first:
+      213: 6027043298116548452
+    second: MediumFainted_29
+  - first:
+      213: 3212327871372603522
+    second: MediumFainted_30
+  - first:
+      213: -3426453899754977321
+    second: MediumFainted_31
+  - first:
+      213: 5286466153433052761
+    second: MediumFainted_32
+  - first:
+      213: 8027921983255673707
+    second: MediumFainted_33
+  - first:
+      213: 3016010401033804337
+    second: MediumFainted_34
+  - first:
+      213: -2279834897617886778
+    second: MediumFainted_35
+  - first:
+      213: 6899694660879131414
+    second: MediumFainted_36
+  - first:
+      213: -5464268616301933746
+    second: MediumFainted_37
+  - first:
+      213: 4111817860840133866
+    second: MediumFainted_38
+  - first:
+      213: -7654678468251658655
+    second: MediumFainted_39
+  - first:
+      213: -719755503970751041
+    second: MediumFainted_40
+  - first:
+      213: -5550501635628724473
+    second: MediumFainted_41
+  - first:
+      213: -495111694130496479
+    second: MediumFainted_42
+  - first:
+      213: 9218887676479447516
+    second: MediumFainted_43
+  - first:
+      213: -2973680265537996950
+    second: MediumFainted_44
+  - first:
+      213: 6496913584175934439
+    second: MediumFainted_45
+  - first:
+      213: 5594709200326066906
+    second: MediumFainted_46
+  - first:
+      213: 7617879487630433950
+    second: MediumFainted_47
+  - first:
+      213: -4028047805594703560
+    second: MediumFainted_48
+  - first:
+      213: 6416612628684800862
+    second: MediumFainted_49
+  - first:
+      213: -5726225096057735390
+    second: MediumFainted_50
+  - first:
+      213: -1152917749245192961
+    second: MediumFainted_51
+  - first:
+      213: -4648350924965999444
+    second: MediumFainted_52
+  - first:
+      213: -7844680168935950919
+    second: MediumFainted_53
+  - first:
+      213: 9145660840418588949
+    second: MediumFainted_54
+  - first:
+      213: -839541542423341773
+    second: MediumFainted_55
+  - first:
+      213: 1557377490772064879
+    second: MediumFainted_56
+  - first:
+      213: 7041449967056758501
+    second: MediumFainted_57
+  - first:
+      213: -4844788520193221813
+    second: MediumFainted_58
+  - first:
+      213: 8019502521564947923
+    second: MediumFainted_59
+  - first:
+      213: 2944518816614633050
+    second: MediumFainted_0
+  - first:
+      213: -6431551536177709313
+    second: MediumFainted_1
+  - first:
+      213: -2521870437864925406
+    second: MediumFainted_2
+  - first:
+      213: -6454259113431523648
+    second: MediumFainted_3
+  - first:
+      213: 7972357484115011802
+    second: MediumFainted_4
+  - first:
+      213: -3315016351112014026
+    second: MediumFainted_5
+  - first:
+      213: 9008418585033117770
+    second: MediumFainted_6
+  - first:
+      213: 2059975996712256484
+    second: MediumFainted_7
+  - first:
+      213: -7467343808323593263
+    second: MediumFainted_8
+  - first:
+      213: 439929229718151349
+    second: MediumFainted_9
+  - first:
+      213: 2797044711997871769
+    second: MediumFainted_10
+  - first:
+      213: 8566998801572099390
+    second: MediumFainted_11
+  - first:
+      213: -2067914274677471675
+    second: MediumFainted_12
+  - first:
+      213: 7105497917960413649
+    second: MediumFainted_13
+  - first:
+      213: -4130084745646240894
+    second: MediumFainted_14
+  - first:
+      213: 1780676402748515685
+    second: MediumFainted_15
+  - first:
+      213: 1690797087270146765
+    second: MediumFainted_16
+  - first:
+      213: -6999666154338826881
+    second: MediumFainted_17
+  - first:
+      213: -5210611241509309845
+    second: MediumFainted_18
+  - first:
+      213: -4647749433391518906
+    second: MediumFainted_19
+  - first:
+      213: -5808882402096251208
+    second: MediumFainted_20
+  - first:
+      213: 1031504107906789061
+    second: MediumFainted_21
+  - first:
+      213: -3709610060772594804
+    second: MediumFainted_22
+  - first:
+      213: -4335177607233658863
+    second: MediumFainted_23
+  - first:
+      213: 8125218746128983288
+    second: MediumFainted_24
+  - first:
+      213: -5505707859609026199
+    second: MediumFainted_25
+  - first:
+      213: 7774837546731059332
+    second: MediumFainted_26
+  - first:
+      213: 1784314005634101934
+    second: MediumFainted_27
+  - first:
+      213: 4516133884671033690
+    second: MediumFainted_28
+  - first:
+      213: 425196958828704138
+    second: MediumFainted_29
+  - first:
+      213: 3630179689417230574
+    second: MediumFainted_30
+  - first:
+      213: 4141870741596317966
+    second: MediumFainted_31
+  - first:
+      213: -8968669958379384538
+    second: MediumFainted_32
+  - first:
+      213: 6329927501570042545
+    second: MediumFainted_33
+  - first:
+      213: -8100529494274174492
+    second: MediumFainted_34
+  - first:
+      213: -967846251379871982
+    second: MediumFainted_35
+  - first:
+      213: 2072291378123837052
+    second: MediumFainted_36
+  - first:
+      213: 315500013563381133
+    second: MediumFainted_37
+  - first:
+      213: 3270740460913243174
+    second: MediumFainted_38
+  - first:
+      213: -2661759763590204071
+    second: MediumFainted_39
+  - first:
+      213: 1775184745357560921
+    second: MediumFainted_40
+  - first:
+      213: -2023512652653293305
+    second: MediumFainted_41
+  - first:
+      213: 5140729863075388858
+    second: MediumFainted_42
+  - first:
+      213: 4914034348299106525
+    second: MediumFainted_43
+  - first:
+      213: -8736206482261094023
+    second: MediumFainted_44
+  - first:
+      213: -7365607889210123272
+    second: MediumFainted_45
+  - first:
+      213: 3642604607981424516
+    second: MediumFainted_46
+  - first:
+      213: -1479104956208497108
+    second: MediumFainted_47
+  - first:
+      213: 1283428626418345136
+    second: MediumFainted_48
+  - first:
+      213: -2536845999754068397
+    second: MediumFainted_49
+  - first:
+      213: -325535485881022572
+    second: MediumFainted_50
+  - first:
+      213: -1842309938036483700
+    second: MediumFainted_51
+  - first:
+      213: 46181607674467549
+    second: MediumFainted_52
+  - first:
+      213: -3642075061473068286
+    second: MediumFainted_53
+  - first:
+      213: 5260557027938134146
+    second: MediumFainted_54
+  - first:
+      213: 3275311344160894117
+    second: MediumFainted_55
+  - first:
+      213: -9084824454182956162
+    second: MediumFainted_56
+  - first:
+      213: 874083057491788880
+    second: MediumFainted_57
+  - first:
+      213: 32929534474252756
+    second: MediumFainted_58
+  - first:
+      213: 2162011161131476944
+    second: MediumFainted_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MediumFainted_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 396
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec4c253480dd820800000000000000
+      internalID: 2944518816614633050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 396
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe728324f98eb6a0800000000000000
+      internalID: -6431551536177709313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 396
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227908db234800dd0800000000000000
+      internalID: -2521870437864925406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 396
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce169f488ddd66a0800000000000000
+      internalID: -6454259113431523648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 396
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82a1774e083ae60800000000000000
+      internalID: 7972357484115011802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 396
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6375b5f3132bef1d0800000000000000
+      internalID: -3315016351112014026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 396
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a401de479f4540d70800000000000000
+      internalID: 9008418585033117770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_7
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 396
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38dd93141869c10800000000000000
+      internalID: 2059975996712256484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 396
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbd829be5aae5890800000000000000
+      internalID: -7467343808323593263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 396
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b069a7bd41fa1600800000000000000
+      internalID: 439929229718151349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 321
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996948f985911d620800000000000000
+      internalID: 2797044711997871769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 321
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35f6e6250814e670800000000000000
+      internalID: 8566998801572099390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 321
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546c3e76cea4d43e0800000000000000
+      internalID: -2067914274677471675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 321
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ee48b5bccb9260800000000000000
+      internalID: 7105497917960413649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 321
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b0f735ecdfea6c0800000000000000
+      internalID: -4130084745646240894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 320
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565eebdf0cb36b810800000000000000
+      internalID: 1780676402748515685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 321
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2900e1efae67710800000000000000
+      internalID: 1690797087270146765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 321
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754f4ce7b03cde90800000000000000
+      internalID: -6999666154338826881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_18
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 321
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b623e2fcea030b7b0800000000000000
+      internalID: -5210611241509309845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_19
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 321
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64beca1e380ef7fb0800000000000000
+      internalID: -4647749433391518906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 241
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bef8096b34b26fa0800000000000000
+      internalID: -5808882402096251208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 241
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee3206583a05e00800000000000000
+      internalID: 1031504107906789061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 241
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b2f68dd41d48cc0800000000000000
+      internalID: -3709610060772594804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 241
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1102c9a5fea56d3c0800000000000000
+      internalID: -4335177607233658863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 241
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4ec5d766392c070800000000000000
+      internalID: 8125218746128983288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 242
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9618de64fdbc793b0800000000000000
+      internalID: -5505707859609026199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 241
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488364f4e85c5eb60800000000000000
+      internalID: 7774837546731059332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 241
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea23399622823c810800000000000000
+      internalID: 1784314005634101934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_28
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 241
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a510ce137d78cae30800000000000000
+      internalID: 4516133884671033690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_29
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 241
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81bf8a916a96e500800000000000000
+      internalID: 425196958828704138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 165
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84d8aa13df06230800000000000000
+      internalID: 3630179689417230574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 165
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ae62be71ea7930800000000000000
+      internalID: 4141870741596317966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 165
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621541fd032e88380800000000000000
+      internalID: -8968669958379384538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 165
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baee09768b68d750800000000000000
+      internalID: 6329927501570042545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 165
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19639e753259f80800000000000000
+      internalID: -8100529494274174492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 165
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2f4556f48192f0800000000000000
+      internalID: -967846251379871982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 165
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0d28670242cc10800000000000000
+      internalID: 2072291378123837052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_37
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 165
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85831b3791e06400800000000000000
+      internalID: 315500013563381133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_38
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 165
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6243b3dbe11046d20800000000000000
+      internalID: 3270740460913243174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_39
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 165
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95537cdf8978f0bd0800000000000000
+      internalID: -2661759763590204071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ccabdde19b2a810800000000000000
+      internalID: 1775184745357560921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 91
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7019714a6f90be3e0800000000000000
+      internalID: -2023512652653293305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 91
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd9ded29a875740800000000000000
+      internalID: 5140729863075388858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 91
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bf604438223440800000000000000
+      internalID: 4914034348299106525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_44
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 91
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971dc54ad72c2c680800000000000000
+      internalID: -8736206482261094023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_45
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 91
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd0d046aa18c990800000000000000
+      internalID: -7365607889210123272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_46
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 91
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f0fe377912d8230800000000000000
+      internalID: 3642604607981424516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_47
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 91
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e3ca301e9297be0800000000000000
+      internalID: -1479104956208497108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_48
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 91
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ab3c2987afc110800000000000000
+      internalID: 1283428626418345136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_49
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 91
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eb9c601005bccd0800000000000000
+      internalID: -2536845999754068397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497074a43377b7bf0800000000000000
+      internalID: -325535485881022572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89d9215fdcce66e0800000000000000
+      internalID: -1842309938036483700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 14
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d7907de114a000800000000000000
+      internalID: 46181607674467549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bb6933700c47dc0800000000000000
+      internalID: -3642075061473068286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_54
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 14
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288efeaceb0410940800000000000000
+      internalID: 5260557027938134146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_55
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 14
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac648d605e347d20800000000000000
+      internalID: 3275311344160894117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_56
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 14
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7394a9da483ce180800000000000000
+      internalID: -9084824454182956162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_57
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 14
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544cf1e8ed512c00800000000000000
+      internalID: 874083057491788880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_58
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 14
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f4f4bc3df47000800000000000000
+      internalID: 32929534474252756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumFainted_59
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 14
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7ebab32b1010e10800000000000000
+      internalID: 2162011161131476944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

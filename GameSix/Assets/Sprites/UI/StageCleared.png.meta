@@ -1,0 +1,1340 @@
+fileFormatVersion: 2
+guid: 4dbaf7f964d1f35428deebc54bf20189
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4368540967272379918
+    second: StageCleared_0
+  - first:
+      213: 1204971513360295040
+    second: StageCleared_1
+  - first:
+      213: 1047279030917255610
+    second: StageCleared_2
+  - first:
+      213: 2714792792190246536
+    second: StageCleared_3
+  - first:
+      213: -1659606734438627553
+    second: StageCleared_4
+  - first:
+      213: 9071772541676244556
+    second: StageCleared_5
+  - first:
+      213: -4876028523629049769
+    second: StageCleared_6
+  - first:
+      213: -9203804097399548161
+    second: StageCleared_7
+  - first:
+      213: 3940481395630691948
+    second: StageCleared_8
+  - first:
+      213: -9042261682943499933
+    second: StageCleared_9
+  - first:
+      213: -8717115442383420768
+    second: StageCleared_10
+  - first:
+      213: -2427853766839401235
+    second: StageCleared_11
+  - first:
+      213: -1604660602951510306
+    second: StageCleared_12
+  - first:
+      213: 5795376957685686886
+    second: StageCleared_13
+  - first:
+      213: 2874180438787521658
+    second: StageCleared_14
+  - first:
+      213: -119157228150797548
+    second: StageCleared_15
+  - first:
+      213: -7829786876119312899
+    second: StageCleared_16
+  - first:
+      213: 5822039534254804301
+    second: StageCleared_17
+  - first:
+      213: 3995669177235293895
+    second: StageCleared_18
+  - first:
+      213: -2143172748583636228
+    second: StageCleared_19
+  - first:
+      213: 7389258748938478733
+    second: StageCleared_20
+  - first:
+      213: 5556851756407549677
+    second: StageCleared_21
+  - first:
+      213: 6056615716103046806
+    second: StageCleared_22
+  - first:
+      213: -1450425783879752116
+    second: StageCleared_23
+  - first:
+      213: -1088157842064304895
+    second: StageCleared_24
+  - first:
+      213: 48124361673964704
+    second: StageCleared_25
+  - first:
+      213: 856327838910737807
+    second: StageCleared_26
+  - first:
+      213: 7571466766063035048
+    second: StageCleared_27
+  - first:
+      213: 8163515320388912992
+    second: StageCleared_28
+  - first:
+      213: 638526145567014751
+    second: StageCleared_29
+  - first:
+      213: 4517708721118868283
+    second: StageCleared_30
+  - first:
+      213: -3157673345223044073
+    second: StageCleared_31
+  - first:
+      213: 7326424836910742212
+    second: StageCleared_32
+  - first:
+      213: -4012998607110275937
+    second: StageCleared_33
+  - first:
+      213: 4508080375234489738
+    second: StageCleared_34
+  - first:
+      213: 8882806221390337077
+    second: StageCleared_35
+  - first:
+      213: 177763025938989402
+    second: StageCleared_36
+  - first:
+      213: -3887490803740514380
+    second: StageCleared_37
+  - first:
+      213: -8944535841893059241
+    second: StageCleared_38
+  - first:
+      213: 1697094795074004918
+    second: StageCleared_39
+  - first:
+      213: -8543275470583690841
+    second: StageCleared_40
+  - first:
+      213: -4484460804747442286
+    second: StageCleared_41
+  - first:
+      213: -2279854526572619540
+    second: StageCleared_42
+  - first:
+      213: 2266051526110126728
+    second: StageCleared_43
+  - first:
+      213: -4932139113229532395
+    second: StageCleared_44
+  - first:
+      213: 1471822724695841138
+    second: StageCleared_45
+  - first:
+      213: 7060507555369694011
+    second: StageCleared_46
+  - first:
+      213: -6930853239329911785
+    second: StageCleared_47
+  - first:
+      213: 4735780390001786339
+    second: StageCleared_48
+  - first:
+      213: -7280012866000559114
+    second: StageCleared_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StageCleared_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06f20d3ddc20ac30800000000000000
+      internalID: 4368540967272379918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1120
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0842e4a053be8b010800000000000000
+      internalID: 1204971513360295040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1120
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d98adabea88e00800000000000000
+      internalID: 1047279030917255610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1120
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e5a4139a1eca520800000000000000
+      internalID: 2714792792190246536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_4
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1120
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1780fec774e7f8e0800000000000000
+      internalID: -1659606734438627553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_5
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1120
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e41c5ff0965ed70800000000000000
+      internalID: 9071772541676244556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7580b6e54edd45cb0800000000000000
+      internalID: -4876028523629049769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 980
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61730ffe4854080800000000000000
+      internalID: -9203804097399548161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 980
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c665a96a3f66fa630800000000000000
+      internalID: 3940481395630691948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_9
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 980
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361e60648ee638280800000000000000
+      internalID: -9042261682943499933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_10
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 980
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20aaeb0b5960780800000000000000
+      internalID: -8717115442383420768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_11
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 980
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de481f4ccd78e4ed0800000000000000
+      internalID: -2427853766839401235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6d208fea91bb9e0800000000000000
+      internalID: -1604660602951510306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 840
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e65643a05d6050800000000000000
+      internalID: 5795376957685686886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 840
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c7e4a81e323e720800000000000000
+      internalID: 2874180438787521658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 840
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc6afd12ba85ef0800000000000000
+      internalID: -119157228150797548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_16
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 840
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df594e5f152075390800000000000000
+      internalID: -7829786876119312899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_17
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 840
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc9832c1a0cc050800000000000000
+      internalID: 5822039534254804301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6461d52f7737730800000000000000
+      internalID: 3995669177235293895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 700
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ff5c7dbbe142e0800000000000000
+      internalID: -2143172748583636228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 700
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ece3aeabeb8660800000000000000
+      internalID: 7389258748938478733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_21
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 700
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee6d222b37ed1d40800000000000000
+      internalID: 5556851756407549677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_22
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 700
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ce5b87eb6d0450800000000000000
+      internalID: 6056615716103046806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_23
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 700
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a7ca2f6d0fdbe0800000000000000
+      internalID: -1450425783879752116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105933c353616e0f0800000000000000
+      internalID: -1088157842064304895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 560
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7e9a1ad8faa000800000000000000
+      internalID: 48124361673964704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 560
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d6d89e1a942eb00800000000000000
+      internalID: 856327838910737807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_27
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 560
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2ecdb88e0431960800000000000000
+      internalID: 7571466766063035048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_28
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 560
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0678d368ee1aa4170800000000000000
+      internalID: 8163515320388912992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_29
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 560
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f325675208cd800800000000000000
+      internalID: 638526145567014751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3379f0652022be30800000000000000
+      internalID: 4517708721118868283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 420
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d24592d0bd24d0800000000000000
+      internalID: -3157673345223044073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_32
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 420
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf9a57290bca560800000000000000
+      internalID: 7326424836910742212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_33
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 420
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cfd035707fe48c0800000000000000
+      internalID: -4012998607110275937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_34
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 420
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de2c8673bef8e30800000000000000
+      internalID: 4508080375234489738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_35
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 420
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d99af131164b70800000000000000
+      internalID: 8882806221390337077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51ca4fb78a877200800000000000000
+      internalID: 177763025938989402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 280
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e277f5bbdc0ac0800000000000000
+      internalID: -3887490803740514380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_38
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 280
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755f63fba00aed380800000000000000
+      internalID: -8944535841893059241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_39
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 280
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ec8a79ba4d8710800000000000000
+      internalID: 1697094795074004918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_40
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 280
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90d854930307980800000000000000
+      internalID: -8543275470583690841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_41
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 280
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297cdd368aef3c1c0800000000000000
+      internalID: -4484460804747442286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8921423645c50e0800000000000000
+      internalID: -2279854526572619540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 140
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a6806bd1a27f10800000000000000
+      internalID: 2266051526110126728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_44
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 140
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513c42dab958d8bb0800000000000000
+      internalID: -4932139113229532395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_45
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 140
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279d7d558f6fc6410800000000000000
+      internalID: 1471822724695841138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_46
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 140
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33b5c3a636fbf160800000000000000
+      internalID: 7060507555369694011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_47
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 140
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c006733b9a0df90800000000000000
+      internalID: -6930853239329911785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed31586c2fd8b140800000000000000
+      internalID: 4735780390001786339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageCleared_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f363c99ed238fa90800000000000000
+      internalID: -7280012866000559114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

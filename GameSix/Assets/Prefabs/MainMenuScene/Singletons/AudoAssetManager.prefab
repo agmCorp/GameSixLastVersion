@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8233425858269357738
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3488794128988547739}
+  - component: {fileID: 5401053052196066976}
+  m_Layer: 0
+  m_Name: AudoAssetManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3488794128988547739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8233425858269357738}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5401053052196066976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8233425858269357738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5feca362ac147e74f908d8475cc78f16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _masterMixer: {fileID: 24100000, guid: ce672fa1eed21f24b85bbef125ab8e6b, type: 2}
+  _crossfadeGroup: {fileID: -2210490595187574859, guid: ce672fa1eed21f24b85bbef125ab8e6b,
+    type: 2}
+  _musicGroup: {fileID: 6674534475149594924, guid: ce672fa1eed21f24b85bbef125ab8e6b,
+    type: 2}
+  _sFXGroup: {fileID: -5012863003009788439, guid: ce672fa1eed21f24b85bbef125ab8e6b,
+    type: 2}
+  _sFXUIGroup: {fileID: 7328302290083014513, guid: ce672fa1eed21f24b85bbef125ab8e6b,
+    type: 2}
+  _game: {fileID: 8300000, guid: 701f56a40b3d4f842b9705784352cc64, type: 3}
+  _gameOver: {fileID: 8300000, guid: 1e2a2b68567b8d443ac43611735ef311, type: 3}
+  _mainMenu: {fileID: 8300000, guid: d5488b8fb71458e41834f4ba96e8cdb0, type: 3}
+  _grandFinale: {fileID: 8300000, guid: 3901cedba093def4f90069dd2c65ed63, type: 3}
+  _fall: {fileID: 8300000, guid: 4c64ac4ed525e8a4eb9af659598ca4ba, type: 3}
+  _yammy: {fileID: 8300000, guid: 4378216085db0944f867af17beb7d946, type: 3}
+  _yipee: {fileID: 8300000, guid: c978a96be40a1a84fa679c3a48e6e886, type: 3}
+  _yay: {fileID: 8300000, guid: b11882e9ce701674584b7c796a8e2bd4, type: 3}
+  _yes: {fileID: 8300000, guid: 504893d529e25114aa2ae73a162d2ba3, type: 3}
+  _victory: {fileID: 8300000, guid: cc9544e904bac0343b8d336ab3dc2f79, type: 3}
+  _boing: {fileID: 8300000, guid: 2e530cf377e2be34e8423be6bc756170, type: 3}
+  _clock: {fileID: 8300000, guid: b8b62d95242d8d041b34fe90857f51c9, type: 3}
+  _crunch1: {fileID: 8300000, guid: 6cd3fe9dbf6ce1344aa1578a8a2b0cd5, type: 3}
+  _crunch2: {fileID: 8300000, guid: 5565e755fabdcb048994dc092fd4af70, type: 3}
+  _crunch3: {fileID: 8300000, guid: caa32f495769de344a6f9f9aaeca7bb6, type: 3}
+  _crickets: {fileID: 8300000, guid: a8f363cf46af10041ab447e4fe54782c, type: 3}
+  _zip1: {fileID: 8300000, guid: 535996ebfe791c749868a484f33ac811, type: 3}
+  _zip2: {fileID: 8300000, guid: cbf0a04295e739b4dbf52b0e4f244f4a, type: 3}
+  _zip3: {fileID: 8300000, guid: 76951acc9aa167a47897a9a773c589d9, type: 3}
+  _zip4: {fileID: 8300000, guid: 3fe737b9007d20e46bf797774a20c539, type: 3}
+  _takeOrange: {fileID: 8300000, guid: 3f66999f54197db4da6bc47582c7fcd3, type: 3}
+  _takeRed: {fileID: 8300000, guid: 6a26c0d02fdb28240b09bc555729cfb3, type: 3}
+  _takeGreen: {fileID: 8300000, guid: 35054a7c2c95bf7408d6745c8be40544, type: 3}
+  _takeYellow: {fileID: 8300000, guid: 489f84f51237eec4fafe6da1c7cc60f1, type: 3}
+  _takePink: {fileID: 8300000, guid: c01ec6869e3bda0429c06e917fc6df9c, type: 3}
+  _electricity: {fileID: 8300000, guid: 9eb9a2cddb270724ca9e7c9043c85cba, type: 3}
+  _magic: {fileID: 8300000, guid: cf2d69becb8810946b1eaf12311d2c08, type: 3}
+  _beep: {fileID: 8300000, guid: f89218201dcce4d4b849d0c55e7cfd54, type: 3}
+  _scary: {fileID: 8300000, guid: c6b9c40be14cf654c80765062054a7be, type: 3}
+  _ohOh: {fileID: 8300000, guid: ffe5cbe215ef0a248a43f7d89c192999, type: 3}
+  _firework_01: {fileID: 8300000, guid: 89145ff275a2b3c4cb6fea7c0a30d8c2, type: 3}
+  _firework_02: {fileID: 8300000, guid: 187ca99e555a39b43803320896524874, type: 3}
+  _firework_03: {fileID: 8300000, guid: 288b88b6ce2bfd842ad2f4d6669762b9, type: 3}
+  _firework_04: {fileID: 8300000, guid: feb5ee79cb16d84498874ce93fd10247, type: 3}
+  _firework_05: {fileID: 8300000, guid: 1557c77e3d348a94ba981ddb845109e6, type: 3}
+  _firework_06: {fileID: 8300000, guid: 0e1b5fcac305ef84ea8b337d23d7fe8e, type: 3}
+  _firework_07: {fileID: 8300000, guid: 7571e21c69e8cb94daeadb0acdfd966b, type: 3}
+  _firework_08: {fileID: 8300000, guid: 463d59070d7c81b4b9dc6dbb5b000fcf, type: 3}
+  _firework_09: {fileID: 8300000, guid: 6b76f95c2e2cfd244b9be111579d7725, type: 3}
+  _firework_10: {fileID: 8300000, guid: b5fdec5e0c35eef43857f198a639ea16, type: 3}
+  _firework_11: {fileID: 8300000, guid: 60c4ee4180430de47a21be7f94aa7220, type: 3}
+  _firework_12: {fileID: 8300000, guid: 6828d7d19301e5d42a4ddaaf72861d04, type: 3}
+  _firework_13: {fileID: 8300000, guid: 7f646faba1e2b3c4c94a2ebd13265b32, type: 3}
+  _firework_14: {fileID: 8300000, guid: b6bd7bbd10898a749b244e4d260e430b, type: 3}
+  _firework_15: {fileID: 8300000, guid: 103dba9176c2a114a84a278e7c8b8be5, type: 3}
+  _click: {fileID: 8300000, guid: be302d052c037964f8c8f3e1d72c4cc6, type: 3}
+  _closeCandy: {fileID: 8300000, guid: 5d1c3a787facad04e816a98643d3cab3, type: 3}
+  _gate: {fileID: 8300000, guid: bd36024e3f4c72c4bb889e4bfad1c445, type: 3}
+  _openCandy: {fileID: 8300000, guid: 99ab751a888763d49a7b4f36e2d704ba, type: 3}
+  _panelIn: {fileID: 8300000, guid: f121b9c4dbd410842970ffdc9b2d4912, type: 3}
+  _panelOut: {fileID: 8300000, guid: b598adc1554aae44ca98c91b331f1a27, type: 3}
+  _hit: {fileID: 8300000, guid: dc01c9957fae6d644ac9aa5e8d26bded, type: 3}
+  _reload: {fileID: 8300000, guid: e77843d2245e384429cab66395e5a3aa, type: 3}
+  _tap: {fileID: 8300000, guid: 63a7b450472c3c641964f9cba6f3c3ef, type: 3}

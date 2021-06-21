@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: c8e460372d122ca48b4ca6c39b3ad44b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8094925456866331115
+    second: BigPressed_0
+  - first:
+      213: 4959903359715266013
+    second: BigPressed_1
+  - first:
+      213: -1462486255291560076
+    second: BigPressed_2
+  - first:
+      213: -8799482778463407996
+    second: BigPressed_3
+  - first:
+      213: 9004265566338583146
+    second: BigPressed_4
+  - first:
+      213: 2950962464092270830
+    second: BigPressed_5
+  - first:
+      213: 4439241602238715504
+    second: BigPressed_6
+  - first:
+      213: 8668364022511557167
+    second: BigPressed_7
+  - first:
+      213: 8129302041999528488
+    second: BigPressed_8
+  - first:
+      213: 6804864265756088877
+    second: BigPressed_9
+  - first:
+      213: 4631687082886967695
+    second: BigPressed_10
+  - first:
+      213: -9013457657436930523
+    second: BigPressed_11
+  - first:
+      213: 3552312628079980984
+    second: BigPressed_12
+  - first:
+      213: 6064790606638201728
+    second: BigPressed_13
+  - first:
+      213: 5911741956240781259
+    second: BigPressed_14
+  - first:
+      213: 3241419568429096038
+    second: BigPressed_15
+  - first:
+      213: -2412141193635513845
+    second: BigPressed_16
+  - first:
+      213: -6236164964083944791
+    second: BigPressed_17
+  - first:
+      213: -1772519443908803311
+    second: BigPressed_18
+  - first:
+      213: -4948145822941375379
+    second: BigPressed_19
+  - first:
+      213: -1136608656479150949
+    second: BigPressed_20
+  - first:
+      213: 6055945174733515086
+    second: BigPressed_21
+  - first:
+      213: 3286776356398550629
+    second: BigPressed_22
+  - first:
+      213: -7395917591095002275
+    second: BigPressed_23
+  - first:
+      213: -1822271343873557391
+    second: BigPressed_24
+  - first:
+      213: -2475288341106574714
+    second: BigPressed_25
+  - first:
+      213: -5055433042783755198
+    second: BigPressed_26
+  - first:
+      213: -3327987487878553339
+    second: BigPressed_27
+  - first:
+      213: 7055253383866362150
+    second: BigPressed_28
+  - first:
+      213: -269972083842215949
+    second: BigPressed_29
+  - first:
+      213: -1391160750309350001
+    second: BigPressed_30
+  - first:
+      213: -2073476394122968477
+    second: BigPressed_31
+  - first:
+      213: -8438163393757610547
+    second: BigPressed_32
+  - first:
+      213: -5634719884926961020
+    second: BigPressed_33
+  - first:
+      213: 848080998863660496
+    second: BigPressed_34
+  - first:
+      213: 3152218209783367368
+    second: BigPressed_35
+  - first:
+      213: 5760051143878717798
+    second: BigPressed_36
+  - first:
+      213: -2606433342877398937
+    second: BigPressed_37
+  - first:
+      213: 7165895592053458343
+    second: BigPressed_38
+  - first:
+      213: -8957660389565744853
+    second: BigPressed_39
+  - first:
+      213: 6766261705302207041
+    second: BigPressed_40
+  - first:
+      213: 5265108494920501194
+    second: BigPressed_41
+  - first:
+      213: 1386271047365745263
+    second: BigPressed_42
+  - first:
+      213: 2135399784564218050
+    second: BigPressed_43
+  - first:
+      213: -3024459832632220580
+    second: BigPressed_44
+  - first:
+      213: 8001681853845277144
+    second: BigPressed_45
+  - first:
+      213: 4322206238458543104
+    second: BigPressed_46
+  - first:
+      213: 2810666073909464871
+    second: BigPressed_47
+  - first:
+      213: -7761551337516911595
+    second: BigPressed_48
+  - first:
+      213: -3794402830745101011
+    second: BigPressed_49
+  - first:
+      213: -7609903469204865321
+    second: BigPressed_50
+  - first:
+      213: 2838902484480543242
+    second: BigPressed_51
+  - first:
+      213: -3784913718400624399
+    second: BigPressed_52
+  - first:
+      213: 539161854810551097
+    second: BigPressed_53
+  - first:
+      213: -174627289599363832
+    second: BigPressed_54
+  - first:
+      213: -2302656206761459463
+    second: BigPressed_55
+  - first:
+      213: 1016648629966843173
+    second: BigPressed_56
+  - first:
+      213: 6635081341055180098
+    second: BigPressed_57
+  - first:
+      213: -1135986681506661952
+    second: BigPressed_58
+  - first:
+      213: 6360928362131608365
+    second: BigPressed_59
+  - first:
+      213: -3153780430469406125
+    second: BigPressed_0
+  - first:
+      213: -1005873344955701934
+    second: BigPressed_1
+  - first:
+      213: -60714618545266026
+    second: BigPressed_2
+  - first:
+      213: -8426585667630191793
+    second: BigPressed_3
+  - first:
+      213: -3442995532406613768
+    second: BigPressed_4
+  - first:
+      213: 4345339687276076967
+    second: BigPressed_5
+  - first:
+      213: -3988205428107553447
+    second: BigPressed_6
+  - first:
+      213: -2596873487480716204
+    second: BigPressed_7
+  - first:
+      213: 1593588687288395509
+    second: BigPressed_8
+  - first:
+      213: -2692492731508573970
+    second: BigPressed_9
+  - first:
+      213: 6669102981033657632
+    second: BigPressed_10
+  - first:
+      213: -1910931884274873366
+    second: BigPressed_11
+  - first:
+      213: -6229479801152065043
+    second: BigPressed_12
+  - first:
+      213: -8638742308671144051
+    second: BigPressed_13
+  - first:
+      213: 6072201532919514093
+    second: BigPressed_14
+  - first:
+      213: 1237398178392150828
+    second: BigPressed_15
+  - first:
+      213: -6859271223596648532
+    second: BigPressed_16
+  - first:
+      213: 2697648102092417334
+    second: BigPressed_17
+  - first:
+      213: 1031958123190074946
+    second: BigPressed_18
+  - first:
+      213: -4337095129361023888
+    second: BigPressed_19
+  - first:
+      213: 9083196258331476752
+    second: BigPressed_20
+  - first:
+      213: -8834448064396966065
+    second: BigPressed_21
+  - first:
+      213: 3044263360369133847
+    second: BigPressed_22
+  - first:
+      213: 8470928421423778601
+    second: BigPressed_23
+  - first:
+      213: 6372772359175213425
+    second: BigPressed_24
+  - first:
+      213: -1511611420578039479
+    second: BigPressed_25
+  - first:
+      213: -1262587237594321170
+    second: BigPressed_26
+  - first:
+      213: -8763081957834528918
+    second: BigPressed_27
+  - first:
+      213: -3227848253540370873
+    second: BigPressed_28
+  - first:
+      213: -465450276924819434
+    second: BigPressed_29
+  - first:
+      213: -7898607377305121249
+    second: BigPressed_30
+  - first:
+      213: -6223528876426159953
+    second: BigPressed_31
+  - first:
+      213: 3806834457660292697
+    second: BigPressed_32
+  - first:
+      213: -3636550923269470224
+    second: BigPressed_33
+  - first:
+      213: -7335080833836541186
+    second: BigPressed_34
+  - first:
+      213: 8690895764451546413
+    second: BigPressed_35
+  - first:
+      213: -8698461694724424510
+    second: BigPressed_36
+  - first:
+      213: 3941251723484035454
+    second: BigPressed_37
+  - first:
+      213: -8748771662905012558
+    second: BigPressed_38
+  - first:
+      213: 4616918339488431676
+    second: BigPressed_39
+  - first:
+      213: -7879680764695218842
+    second: BigPressed_40
+  - first:
+      213: 1104034228435716835
+    second: BigPressed_41
+  - first:
+      213: 7902313407483068434
+    second: BigPressed_42
+  - first:
+      213: -2123590443294475821
+    second: BigPressed_43
+  - first:
+      213: 5059923539641591700
+    second: BigPressed_44
+  - first:
+      213: 512367376927627148
+    second: BigPressed_45
+  - first:
+      213: -5516621644582062691
+    second: BigPressed_46
+  - first:
+      213: -4194535071108294
+    second: BigPressed_47
+  - first:
+      213: -8885124856954867232
+    second: BigPressed_48
+  - first:
+      213: -677295398233937589
+    second: BigPressed_49
+  - first:
+      213: -8802147921543763004
+    second: BigPressed_50
+  - first:
+      213: -5899291703323373567
+    second: BigPressed_51
+  - first:
+      213: -2716553534110241390
+    second: BigPressed_52
+  - first:
+      213: 5764028934935857512
+    second: BigPressed_53
+  - first:
+      213: 2613402123896959040
+    second: BigPressed_54
+  - first:
+      213: -7872603078547149029
+    second: BigPressed_55
+  - first:
+      213: 2820320602216834970
+    second: BigPressed_56
+  - first:
+      213: -3898187644080320302
+    second: BigPressed_57
+  - first:
+      213: -8155826767027879014
+    second: BigPressed_58
+  - first:
+      213: -6659987261238485990
+    second: BigPressed_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigPressed_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 553
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352ea4e68658b34d0800000000000000
+      internalID: -3153780430469406125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 553
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a1e8a58b6a02f0800000000000000
+      internalID: -1005873344955701934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 553
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692afe8406c482ff0800000000000000
+      internalID: -60714618545266026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 553
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b21833bf0ce0b80800000000000000
+      internalID: -8426585667630191793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 553
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f895a71ec50830d0800000000000000
+      internalID: -3442995532406613768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 553
+        width: 116
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af5f784c6fbd4c30800000000000000
+      internalID: 4345339687276076967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_6
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 553
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9555d562b4c07a8c0800000000000000
+      internalID: -3988205428107553447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_7
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 553
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454051c625d06fbd0800000000000000
+      internalID: -2596873487480716204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_8
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 553
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6e7e7c7709d1610800000000000000
+      internalID: 1593588687288395509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 554
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee83c1a402852aad0800000000000000
+      internalID: -2692492731508573970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 447
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025820ba3d96d8c50800000000000000
+      internalID: 6669102981033657632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 447
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb04d763910b75e0800000000000000
+      internalID: -1910931884274873366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 447
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13cd440217c89a0800000000000000
+      internalID: -6229479801152065043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 447
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb489e3a50d1880800000000000000
+      internalID: -8638742308671144051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 447
+        width: 112
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3004e4f1bc44450800000000000000
+      internalID: 6072201532919514093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 447
+        width: 116
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2397c4561f1c2110800000000000000
+      internalID: 1237398178392150828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 447
+        width: 112
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca776730a29fec0a0800000000000000
+      internalID: -6859271223596648532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_17
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 447
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a936f7a8ff6520800000000000000
+      internalID: 2697648102092417334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_18
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 447
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eb2db0270425e00800000000000000
+      internalID: 1031958123190074946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_19
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 449
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cfb5175fa8fc3c0800000000000000
+      internalID: -4337095129361023888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01341034fdefd0e70800000000000000
+      internalID: 9083196258331476752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 336
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f474bf6da4cb56580800000000000000
+      internalID: -8834448064396966065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190a85a5656f3a20800000000000000
+      internalID: 3044263360369133847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 336
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b89b4b488ce8570800000000000000
+      internalID: 8470928421423778601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_24
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 336
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171111f32b2a07850800000000000000
+      internalID: 6372772359175213425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 336
+        width: 118
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949b50efb6da50be0800000000000000
+      internalID: -1511611420578039479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 336
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeaf3dc8936a7ee0800000000000000
+      internalID: -1262587237594321170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 336
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6763ad5367436680800000000000000
+      internalID: -8763081957834528918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_28
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 336
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467cd28d116433d0800000000000000
+      internalID: -3227848253540370873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_29
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 338
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618f94f60736a89f0800000000000000
+      internalID: -465450276924819434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 230
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ec27f5072826290800000000000000
+      internalID: -7898607377305121249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 230
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa89b37e57591a9a0800000000000000
+      internalID: -6223528876426159953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 230
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95efe8f05c794d430800000000000000
+      internalID: 3806834457660292697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 230
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f787ead330688dc0800000000000000
+      internalID: -3636550923269470224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_34
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 229
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa956438de843a90800000000000000
+      internalID: -7335080833836541186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_35
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 229
+        width: 118
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d414c6a34c9870800000000000000
+      internalID: 8690895764451546413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_36
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 229
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccbb91dc2bd84780800000000000000
+      internalID: -8698461694724424510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_37
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 230
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7979a49f8322b630800000000000000
+      internalID: 3941251723484035454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_38
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 230
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0b8b868e169680800000000000000
+      internalID: -8748771662905012558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_39
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 232
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb13ea4c6921040800000000000000
+      internalID: 4616918339488431676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 126
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fcd4c710c5a290800000000000000
+      internalID: -7879680764695218842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 126
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea88c50841525f00800000000000000
+      internalID: 1104034228435716835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 126
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c5d40d28aaad60800000000000000
+      internalID: 7902313407483068434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 126
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9b40b3ebd7782e0800000000000000
+      internalID: -2123590443294475821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_44
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 126
+        width: 116
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49769f296a5783640800000000000000
+      internalID: 5059923539641591700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_45
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 125
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8715482a6b4c1700800000000000000
+      internalID: 512367376927627148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_46
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 126
+        width: 116
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d957472b7d50173b0800000000000000
+      internalID: -5516621644582062691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_47
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 126
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33b613b71911fff0800000000000000
+      internalID: -4194535071108294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_48
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 126
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1363c9402b1b480800000000000000
+      internalID: -8885124856954867232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_49
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 127
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49624c7c63c996f0800000000000000
+      internalID: -677295398233937589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbe0f3e91d78d580800000000000000
+      internalID: -8802147921543763004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100500d9371812ea0800000000000000
+      internalID: -5899291703323373567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 18
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29de60224fcdc4ad0800000000000000
+      internalID: -2716553534110241390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_53
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 18
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869cce5f6c1fdff40800000000000000
+      internalID: 5764028934935857512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_54
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 18
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0403122a26ba44420800000000000000
+      internalID: 2613402123896959040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_55
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 18
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fec8df535eeb290800000000000000
+      internalID: -7872603078547149029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_56
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 18
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a9df15aac32720800000000000000
+      internalID: 2820320602216834970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_57
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 18
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d096cebdfad6e9c0800000000000000
+      internalID: -3898187644080320302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_58
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 18
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934ead44cea0de80800000000000000
+      internalID: -8155826767027879014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPressed_59
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 19
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cd04d3fd8f293a0800000000000000
+      internalID: -6659987261238485990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

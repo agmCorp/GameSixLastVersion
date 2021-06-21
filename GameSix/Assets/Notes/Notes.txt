@@ -1,0 +1,1169 @@
+-------------------------------------- QUE HE APRENDIDO
+
+1)	Crear proyecto 2d (Unity 2019.1.12f1):
+	- Build settings/player settings:
+		- En la parte de Android:
+			- Other settings, package name uy.com.agm.gamesix
+			- Orientation, default orientantion, Portrait
+	- En la ventana game:
+		- En lugar de free aspect ratio usar "800x480 Portrait"
+	- Windows, Package Manager, in project. Dejar solo estos paquetes:
+		- Package Manager UI (2.1.2), TextMesh Pro (2.0.1)
+		Instalar Cinemachine (2.6.1)
+
+2)	Si instalo desde el editor directo al celular:
+	Problema:
+	CommandInvokationFailure: Unable to install APK to device. Please make sure the Android SDK is installed and is properly configured in the Editor. See the Console for more details.
+	C:/Alvaro/Develop/Android/AndroidSDK\platform-tools\adb.exe -s "04fcd1fb7d27" install -r "C:\Alvaro\Develop\Android\20190417\UnityProjects\builds\five.apk"
+
+	stderr[
+	adb: failed to install C:\Alvaro\Develop\Android\20190417\UnityProjects\builds\five.apk: Failure [INSTALL_FAILED_VERSION_DOWNGRADE]
+	]
+	stdout[
+
+	]
+	exit code: 1
+
+	Solucion:
+	Hay que borrar la instalacion previa en el dispositivo:
+	C:/Alvaro/Develop/Android/AndroidSDK\platform-tools\adb.exe shell pm uninstall uy.com.agm.gamefour
+
+3) Para subir un proyecto a GitHub:
+	- Hacer backup
+	- Crear el repositorio GameSix por la web (NO seleccionar la casilla "Add a README file" y no es necesario ponerle descripcion)
+	- En mi disco duro ir a la carpeta del proyecto. Asegurarme que el proyecto no este abierto en Unity, sino git falla.
+	- Borrar todas las carpetas excepto: Assets, Packages, ProjectSettings (no borrar el resto de los archivos!)
+	- Crear en la carpeta del proyecto un archivo README.md. 
+	Ese archivo tiene descripcion y links a imagenes creadas en el issue del proyecto. Ver otros README.md de otros repositorios mios.
+	- Luego ejecutar:
+	git init
+	git add .
+	git commit -m "Initial commit"
+	git remote add origin https://github.com/agmCorp/REPOSITORIO_NUEVO.git
+	git push -u origin master
+
+	Si quiero "desconectar" mi proyecto (en el disco duro) de GitHub, ejecutar en la carpeta del proyecto:
+	rmdir /s .git
+
+	Luego de esto, el proyecto de mi disco duro quedo desconectado de GitHub y puedo incluso volver a hacer "git init" si quiero y repetir el proceso.
+	Sino, mi proyecto queda enganchado a GitHub y puedo hacer push y pull por linea de comando. Para el caso de Unity no me parece buena idea.
+	
+	OBSERVACION:
+	Si no borro todas las carpetas excepto Assets, Packages, ProjectSettings, al subir el proyecto a GitHub obtengo errores como este.
+	
+	C:\Alvaro\Develop\Android\20200816\UnityProjects\GameSix\GameSix>git push -u origin master
+	Enumerating objects: 25990, done.
+	Counting objects: 100% (25990/25990), done.
+	Delta compression using up to 4 threads
+	Compressing objects: 100% (14083/14083), done.
+	Writing objects: 100% (25990/25990), 755.96 MiB | 1.14 MiB/s, done.
+	Total 25990 (delta 11881), reused 25990 (delta 11881)
+	remote: Resolving deltas: 100% (11881/11881), done.
+	remote: warning: File Library/ArtifactDB is 64.00 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+	remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+	remote: error: Trace: 544f0917fdbe0e5d5442d528bf0997bc0133b3eabf01cbe9cadf959aaad0faee
+	remote: error: See http://git.io/iEPt8g for more information.
+	remote: error: File Library/il2cpp_android_arm64-v8a/il2cpp_cache/linkresult_E9D5DDAB1257AA089C7AF97C587E53DD/libil2cpp.dbg.so is 154.30 MB; this exceeds GitHub's file size limit of 100.00 MB
+	remote: error: File Library/il2cpp_android_arm64-v8a/il2cpp_cache/linkresult_E9D5DDAB1257AA089C7AF97C587E53DD/libil2cpp.sym.so is 152.71 MB; this exceeds GitHub's file size limit of 100.00 MB
+	remote: error: File Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_CB51397C8F5FF12FF1D422A6F9FB8A20/libil2cpp.dbg.so is 141.37 MB; this exceeds GitHub's file size limit of 100.00 MB
+	remote: error: File Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_CB51397C8F5FF12FF1D422A6F9FB8A20/libil2cpp.sym.so is 127.52 MB; this exceeds GitHub's file size limit of 100.00 MB
+	remote: error: File Library/il2cpp_cache/linkresult_2C839B97CC737105387DFDA7696F67A9/build.bc is 136.74 MB; this exceeds GitHub's file size limit of 100.00 MB
+	To https://github.com/agmCorp/GameSix.git
+	 ! [remote rejected]   master -> master (pre-receive hook declined)
+	error: failed to push some refs to 'https://github.com/agmCorp/GameSix.git'
+	
+	Leyendo esta web https://answers.unity.com/questions/1501119/game-project-directory-filesize-x10-increase-after.html, el contenido de las siguientes carpetas
+	parece ser para cachear la compilacion y que sea mas rapida.
+	El juego sigue andando bien sin el contenido de esas carpetas (se vuelve a generar)
+	
+	GameSix\Library\il2cpp_cache
+	GameSix\GameSix\Library\il2cpp_android_arm64-v8a
+	GameSix\GameSix\Library\il2cpp_android_armeabi-v7a
+	
+	Sin embargo, luego pueden ocurrir otros errores similares al subir a GitHub pero con otros archivos grandes.
+	Investigando un poco lei en esta url (https://davidjorna.com/posts/publish-to-app-store-without-a-mac/) que de un proyecto Unity al parecer 
+	lo unico que importa es la carpeta Assets y ProjectSettings.
+	Yo le deje las tres: Assets, Packages, ProjectSettings porque recuerdo haber tocado algo en Packages.
+	
+	Si levanto con Unity un juego solo con esas carpetas, arranca con una scene vacia. Tengo que abrir mi scene MainMenuScene y todo funciona de maravillas.
+	
+4)	Para ver Debug.Log de una app instalada en mi celular, enchufarlo por usb e ir al Android Studio.
+	Ir a la parte de Logcat (abajo) y donde dice "No filters" (el combo a la derecha) definir una tag llamda "Unity".
+	Filtrando por esa tag veo los mensajes.
+
+5)	Dos maneras de hacer PlayerController.LookAt(Vector3 target):
+
+	Manera 1)
+
+    Vector3 moveDirection = target - transform.position;
+    float angle = Angle(moveDirection);
+    angle = (angle >= 90.0f) ? angle - 90.0f : 270.0f + angle;
+    transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+		
+	// Return the angle in degrees of vector v relative to the x-axis. 
+	// Angles are towards the positive y-axis (typically counter-clockwise) and between 0 and 360.
+	public float Angle(Vector2 v)
+	{
+		float angle = (float)Mathf.Atan2(v.y, v.x) * Mathf.Rad2Deg;
+		if (angle < 0) angle += 360;
+		return angle;
+	}
+
+	La funcion Angle fue copiada literalmente de LibGdx.
+
+	Manera 2)
+
+		Quaternion rotation = Quaternion.LookRotation(transform.position - target, transform.TransformDirection(Vector3.forward));
+        transform.rotation = new Quaternion(0, 0, rotation.z, rotation.w);
+
+	Observacion:
+		La forma tipica de hacerlo (por ejemplo cuando queremos que un canon rote y apunte a un blanco) es la siguiente:
+
+		Vector3 difference = target - transform.position;
+		float rotationZ = Mathf.Atan2(difference.y, difference.x) * Mathf.Rad2Deg;
+		transform.rotation = Quaternion.Euler(0.0f, 0.0f, rotationZ);
+
+		Esta manera no funciona con mi player porque es esencialmente la misma manera que la 1). Mi player gira bien hacia un lado (por ejemplo la derecha) pero
+		gira mal hacia el otro (izquierda). Jugando con el signo de rotationZ o con difference tampoco lo logro solucionar.
+
+6)	Para crear los iconos:
+	Usar Andriod Studio (usar un proyecto de backup, porque este proceso modifica el proyecto). Boton derecho sobre la carpeta
+	android, elegir "New->Image Asset". Crear los iconos. Para los iconos modernos, ahora no se puede usar fondo transparente 
+	en nada, no funciona el alpha. En la parte de Legacy (iconos viejos) poner siempre shape none (ahi si funciona alpha).
+	Luego buscar en el proyecto los iconos (png) que creo. Los crea dentro de carpetas mipmap-hdpi, mipmap-mdpi, mipmap-xhdpi, 
+	mipmap-xxhdpi, mipmap-xxxhdpi. Luego copiar todas las carpetas en Unity como Assets.
+	Finalmente, en player settings (dentro de build settings) asignar una a una las imagenes. Es entreverado, hay que hacerlo
+	con paciencia para no equivocarse porque las carpetas estan ordenadas por densidad (pixels) y los iconos a asignar en unity
+	estan ordenados por Adaptive, Round, Legacy y dentro de cada categoria (recien ahi) por densidad.
+
+7)	Para que mi logo AGMCORP no se vea estirado:
+	Sprite Mode > Mesh Type set to Full Rect
+
+	Other settings should
+	Texture Type: Sprite (2D and UI)
+	Sprite Mode: Single
+
+	Advance
+	Alpha Is Transparency: Checked
+
+8)	Parallax
+	Primero intente implementar lo que explica este video https://www.youtube.com/watch?v=zit45k6CUMk.
+	Por mas que intente razonarlo, no entiendo el algoritmo. Ademas se ve un salto notorio cuando extiende el background.
+	Exige ademas poner a los gameobjects como hijos de la camara.
+	No me convencio, en su lugar implemente lo que explica este video https://www.youtube.com/watch?v=wBol2xzxCOU que
+	esta mucho mejor porque puedo moverme en todas direcciones (x, y) y se entiende muy bien. Ademas no necesito que sean hijos
+	de la camara.
+	Lo implemente con algunas variantes:
+	- ParralaxEffect: Recibe 2 valores (_parallaxScaleX y _parallaxScaleY). Cada valor es un rango [0, 1]. 
+	Si es 0, significa que la capa se va a quedar quieta cuando la camara se mueva. Si es 1, significa que la capa va a seguir 
+	a la camara cuando esta se mueva. Por ejemplo un valor de 0.2 va a seguir a la camara muy lento y un 0.9 casi casi la 
+	alcanza. O sea, es la proporcion de velocidad de la camara que quiero aplicar a la capa.
+	- ParallaxInfiniteScrool: Extiende infinitamente el eje x o el eje y de la capa.
+	- ParallaxJustMove: Solo mueve la capa a la velocidad indicada ignorando toda camara.
+	Si bien todo se puede poner en un gran script, me parecio mejor asi.
+	Probe mil maneras para que todo esto funcionara bien y no temblara. Lo mejor que encontre (y se nota la diferencia) es 
+	seleccionar Updated Method: Fixed Update en el cinemachine brain de la main camera.
+	Con respecto a las imagenes (capas): Aquellas imagenes que solo son tileables por el eje x (por ejemplo las montanas),
+	me conviene que sean un poco mas altas que la resolucion modelo que elegi (480 x 800), basta con un poquito mas que 800.
+	Si me convienen que sean bastante mas anchas que 480, porque Unity el viewport lo define fijando la altura (800) y en base 
+	a eso te deja ver mas o menos ancho.
+	Asi que las hice de 1422 (arbitrario, es lo que tenia) x 900. El resto de las imagenes que son tileables tanto por el
+	eje x como por el eje y, realmente no importa mucho el tamano, igual fui prolijo. Cuanto mas grandes, menos repetitiva es la 
+	capa. Al importarlas en Unity, debo elegir Mesh Type Full Rect y Pixels Per Unit 100.
+	Lluego, al definir el GameObject que contiene ese Sprite debo setear Draw Mode Tiled, colocarlo centrado (0,0,0), como Width 
+	y Height debo setear los sugeridos por Unity (que son los pixels de las imagenes / 100) y si pretendo hacer scroll horizontal
+	debo multiplicar el width por 5 (si queda muy largo solo por 3, pero debe ser impar), lo mismo el height si pretendo hacer
+	scroll vertical. Luego Sorting Layer Background y Order in Layer el que quiera segun que tan atras o adelante quiera la capa.
+	Luego les asocio los scripts ParralaxEffect, ParallaxInfiniteScrool y ParallaxJustMove segun necesite.
+	Con respecto al tamano del backgroud mio (emulando un gradiente, ver https://www.youtube.com/watch?v=2FzHONutd6c), 
+	debe ser totalmente tileable por todos sus lados (las 4 esquinas). La ventaja es que la imagen no ocupa espacio y queda lindo.
+	En mi caso lo hice de 3 x 5 pixels que es la misma relacion de aspecto que 480 x 800.
+	Entonces si 480px esta configurado como 100 pixels per unit, 3 es x (regla de tres).
+	Al importalo entonces seleccione Pixels Per Unit 0.625, Mesh type Full Rect (para hacerlo parallax).
+	Asi queda como una imagen de 480 x 800 lo cual me parece bien porque es tileable por todos sus lados.
+	De todos modos no interesa mucho que quede de 480 x 800 exacto, lo deje asi porque se veia linda.
+	Finalmente, debo asignarle a la camara virtual (CM vcam1) la tag (disponible por Unity) MainCamera ya que algunos
+	de los script usan esa tag para buscar la camara.
+	Segun si la capa tiene mucho movimiento o poco y si tiene scroll o no, asigno los scripts y sus valores para hacer un lindo efecto.
+
+9) Cinemachine
+	Fue muy complejo porque afectaba el parallax. Yo quiero mi personaje siempre en la posicion (0, -2.5) y que la camara este centrada en (0, 0).
+	Intente todo y es imposible. Descubri que una manera de hacerlo es la siguiente:
+	Poner a mi player en (0, -2.5), centrar la Main Camera y la virtual en (0, 0).
+	Asignar mi player en el campo Follow de la virtual. El player me quedo centrado y la camara esta ahora en (0, -2.5).
+	En extensiones, elegir Cinemachine Camera Offset, setear (0, 2.5).
+	Probe de todo, horas/dias, muchisimo tiempo, esa es la unica manera que encontre.
+	Ahora puedo usar todas las funcionalidades de Cinemachine excepto la Dead Zone que no me queda centrada en el player sino en el centro
+	de la pantalla. Con esta solucion el player vuelve siempre al punto (camara.position.x, camara.position.y - 2.5) lo cual
+	no es tan bonito ni lo que queria.
+	Despues de todo no lo hice asi. Utilice un gameObject hijo del player llamado CamFollow. Cinemachine sigue a ese objeto.
+	El player esta a y=-2.5 y CamFollow a y=2.5. Luego necesite popner al player en y=-7.0, entonces CamFollow quedo a y=7.
+
+10)	Al principio habia bloqueado el movimiento de cinemachine en el eje x. Pero luego del programar parallax queda lindo dejarlo libre.
+	Para bloquear un eje en cinemachine no es para nada trivial.
+	Para hacerlo hay que seleccionar el script LockCameraXAxis en Extensions de la camara virtual CM vcam1.
+	Ese script lo cree yo.
+
+11) El ancho y alto me lo dan Camera.main.pixelWidth y Camera.main.pixelHeight
+	En mi xiaomi valen pixelWidth 720, pixelHeight 1440. 
+	Mi samsung s7 tiene 3 resoluciones que puedo cambiar yendo a settings:
+	HD (720 x 1280), FHD (1080 x 1920) y WQHD (1440 x 2560).
+	Xiaomi Note 1080 x 2340 (es un caso especial de celular con mucha altura)
+
+12) Para poder usar Camera.main en los script, debo asignarle a la camara principal la tag MainCamera de 
+	Unity. Para acceder a la camara virtual de cinemachine, uso una tag mia (VCamOne).
+	Para leer el transform de la camara, debo leer el de la virtual (la que esta filmando) porque si leo 
+	el de la main, es inestable. Si le pongo la tag MainCamera a la virtual para referenciarla usando
+	Camera.main (o Camera.current), no funciona. Basicamente porque supongo que la camara virtual no es una camara de 
+	por si, sino algo que programa el movimiento nada mas. Siempre que quiera coordenadas estables, debo leer la virtual.
+
+13) MIGRACION/UPDATE VERSION DE UNITY (LEER TODO)
+	Para migrar de Unity 2019.1.12f1 a 2019.4.9f1 segui mas o menos estos pasos.
+	Intente hacer andar Unity 2020.1.4f1 pero ya al crear un proyecto vacio obtenia el siguiente error:
+	"could not load symbol clcreatecommandqueuewithproperties : the specified procedure could not be found"
+	"endlayoutgroup: beginlayoutgroup must be called first. unityengine.guiutility:processevent(int32, intptr, boolean&)"
+	Parece estar relacionado a la libreria OpenCL.dll. Le dedique mucho tiempo y no encontre solucion, asi que decidi no usarlo.
+	La migracion 2019.1.12f1 a 2019.4.9f1 la necesito porque quiero usar luces 2d.
+	Ver primero la nota 1).
+	Pasos para migrar:
+	- Crear proyecto, Platform Android, definir package, definir orientacion Portrait, borrar paquetes innecesarios e instalar los que necesito:
+	2D Sprite (1.0.0), 2D Tilemap Editor (1.0.0), TextMeshPro (2.1.1), Unity UI (1.0.0), Visual Studio Code Editor (1.2.1)
+	Instalar: Lightweight RP (7.3.1) **ver nota 41***, Cinemachine (2.6.2)
+	- Definir layers, tags y fisica (definir que choca con que), setear gravity 0
+	- En el proyecto viejo, exportar todos los assets (menos la escena principal) e importarlos en el nuevo.
+	- Defnir la escena con los gameobjects que uso, camara, virtual cam
+	- Definir iconos android y splash
+
+	CAMBIO DE VERSION UNITY
+	-----------------------
+	Las nuevas versiones SIMPRE instalarlas primero desde Unity Hub (JAMAS HACERLO POR AFUERA). Luego abrir el proyecto existente con la nueva version y Unity
+	se encarga de migrarlo.
+	Para saber si hay versiones nuevas, abrir Unity e ir a Help/Check for updates (le quite el aviso automatico)
+	MUY IMPORTANTE: Previo a la instalacion hay que desactivar AVAST. Sino, no se pueden instalar ciertos componentes de java (OpenJDK por ejemplo).	
+
+	2019.4.9f1 me harto su inestabilidad y demora al compilar y ejecutar. Actualice a 2019.4.11f1 y actualice todos sus paquetes a las
+	ultimas versiones 2D Sprite (1.0.0), 2D Tilemap Editor (1.0.0), TextMeshPro (2.1.1), Unity UI (1.0.0), Visual Studio Code Editor (1.2.2)
+	Lightweight RP (7.5.1) **ver nota 41**, Cinemachine (2.6.2, no actualice porque hay una nota importante en 2.6.3)
+	
+	2019.4.11f1 me harto tambien su inestabilidad. Actualice a 2019.4.15f1 y tambien actualice todos sus paquetes a las
+	ultimas versiones:
+	- External Dependency Manager (1.2.164)
+	- 2D Sprite (1.0.0)
+	- 2D Tilemap Editor (1.0.0)
+	- Cinemachine (2.7.3)
+	- TextMeshPro (2.1.3) **** NO ACTUALIZAR A VERSION 2.1.5 PORQUE NO ES COMPATIBLE CON 2019.4.15f1
+	- Unity UI (1.0.0)
+	- Universal RP (7.5.3)
+	- Visual Studio Code Editor (1.2.3)
+
+	INTENTE ACTUALIZAR A VERSION 2019.4.24f1 pero al levantar el proyecto SE PIERDEN todas las referencias dentro de los prefabs. Es decir, es inviable
+	tener que revisar todo. No actualizar nunca a esta version.
+	
+14) Vector2 y Vector3 son structs. O sea, son como una variable cualquiera int o float. No se almacenan en el heap por
+	lo tanto no generan GC. Obviamente tampoco comparten memoria, porque NO SON OBJETOS. Al pasarlas por parametro, se copian 
+	(como int y float). El new es solo para usar el "constructor" e inicializar sus valores por defecto.
+	Si yo quiero imprimir en pantalla por ejemplo el valor v.x, debo haberlo inicializado antes, ya sea con asignacion explicita:
+	Vector2 v; v.x = 10; Debug.Log(v.x); o haciendo v = new Vector2(); Debug.Log(v.x);
+	Esto estaria mal: Vector2 v; v.y = 5; Debug.Log(v.x);
+
+	// Sin constructor, analogo a hacer Vector2 v = new Vector2(12, 10);
+	Vector2 v;
+	v.x = 12;
+	v.y = 10;
+	Debug.Log("SIN CONSTRUCTOR " + v + " RESULTADO ESPERADO (12, 10)");
+
+	// Memoria
+	Vector2 v1 = new Vector2(9, 10);
+	Vector2 v2 = new Vector2(11, 12);
+	v1 = v2;
+	v1.x = 44;
+	Debug.Log("IMPRIMO V1 " + v1 + " RESULTADO ESPERADO (44, 12)");
+	Debug.Log("IMPRIMO V2 " + v2 + " RESULTADO ESPERADO (11, 12)");
+
+	En conclusion, puedo usar el new Vector2/Vector3 en cualquier lado y ademas obviamente no comparten 
+	memoria porque son structs.
+	https://www.guru99.com/stack-vs-heap.html
+
+15) Mi juego esta hecho para height = 800 pixels. Porque yo lo disene asi al definir un viewport (Size de la cam) de 4.
+	Como la cam esta en el centro de la pantalla, son 4 metros desde el centro hacia arriba y 4 metros hacia abajo. Total 8 metros.
+	PPM es 100. Hice las imagenes de 900 pixels para dar algo de margen al arte (por si se me ocurre aumentar
+	ese size de cam a 4.5 metros por ejemplo), pero no es necesario. Bastaba hacerlas de 800 pixels.
+	Tambien defini, pero esta vez conceptualmente en mi cabeza, un w de 480 pixels. Me sirve para imaginar el mundo. 
+	Mis personajes y demas cosas las voy a meter en el rectangulo de 480 x 800 y asi voy a hacer mi juego.
+	Las proporciones w = 480, h = 800 son bastante razonables, medias parecidas a casi cualquier celular.
+	Mi aspect ratio es entonces de 480/800 = 3 / 5 = 0.6
+	Y asi soy feliz y punto y no me jodan.
+
+	Supongamos ahora que tengo un celular de w = 720 pixels, h = 1440 pixels (mi xiaomi).
+	Unity lo que hace es fijar el h (size de la cam que en mi caso es 4 metros o 800 pixels) al h del celular, en este caso 1440.
+	O sea, los 800 pixeles de altura de mi juego ahora pasan a ocupar 1440 pixeles. Y el ancho de cuanto queda?
+	El aspect ratio de mi xiaomi es 720/1440.
+	Entonces:
+	nuevoAncho/800 debe ser igual a 720 / 1440
+	nuevoAncho = (720 / 1440) * 800 = aspectRatioCelu * 800.
+	nuevoAncho = 400
+	Entonces mi juego que fue pensado para ser de 480 * 800, en ese celular xiaomi se ve de 400 x 800. Le corta como 80 pixeles de 
+	ancho (40 pixeles de cada lado). Por ende si yo habia puesto un personaje o algo en x > 400, no se ve y me jodo.
+	Lo que hice fue hacer todo este calculo del nuevo ancho (la altura siempre es 800 porque unity la deja fija) y en base a eso
+	si los targets se van de esa distancia los modifico para que entren en la nueva pantalla (ver funcion 
+	ChallengeManager.ClampToDeviceScreen()). Y sigo siendo feliz y no me jodan mas.
+
+	Hay otra tecnica (hay muchisimas en realidad) que consiste en redimensionar el viewport segun el tamano del celular.
+	Si para mi juego de h = 800 puse un viewport (size de cam) de 4, entonces para un h de 1440 (xiaomi) agrando el viewport a 7.2.
+	Eso hace un zoom out, se ve todo mas lejano. El h quedo de 1440 pixeles reales y el ancho queda obviamente de 720 reales.
+	Ahi el tema esta con los assets que tienen que soportar en tamano todo esto.
+
+16) Le agregue un script para saber los FPS. By default, Unity locks fps for specific values, according to the current platform. 
+	Documentation says that the default for Android is 30, which is used by most Android devices.
+	Si quiero ver el uso de memoria y demas, debo generar la build seleccionando en build settings "Development Build" y "Script 
+	Debugging". Una vez hecho eso, en Android Studio voy a Profiler (abajo, a la derecha de logcat) y al crear una sesion encuentro mi proceso
+	uy.com.agm.gamesix.
+	En este link explican perfectamente como usar breakpoints en visual studio y debuguear en detalle:
+	https://docs.unity3d.com/Manual/ManagedCodeDebugging.html
+
+17) Singleton:
+	https://answers.unity.com/questions/323195/how-can-i-have-a-static-class-i-can-access-from-an.html
+	Utilice la implementacion del video oficial de Unity (https://www.youtube.com/watch?v=J6FfcJpbPXE#t=805) pero sin el 
+	"if (Instance != this)" porque al parecer no tiene mucho sentido. Capaz que el unico caso en donde se ejecutaria seria cuando quiero 
+	crear el Singleton desde codigo haciendo Instantiate al Prefab que implemnta el Singleton. Pero lo probe como pude y la verdad
+	que el if pareceria estar de mas asi que lo quite.
+	Ver mis comentarios en este video https://www.youtube.com/watch?v=g1fbpipqg3E&lc=UgzMb3W72bLdaDQZF6x4AaABAg.9FKZiZZ0A1-9FKgG8WwZIH
+
+	Muy importante: la referencia al objeto desde otra clase, debe ser hecha en el Start.
+	Ejemplo:
+	private void Start()
+    {
+        _objectPooler = ObjectPooler.Instance;
+		...
+	}
+	Sin embargo, cuando la quise utilizar en un gameObject hijo de otro gameObject, no funciono en el Start (quedo null) sino
+	en el Awake. Ver NumberRenderer hijo de Target.
+	De todos modos obtener la referencia en el Start es solo por eficiencia. Puedo perfectamente hacer ObjectPooler.Instance.metodo() 
+	cada vez que lo quiera usar.
+	Unity tiene una wiki en donde aparece una implementacion de Singleton para copiar y pegar. Al final nunca la probe porque
+	con la mia alcanza: http://wiki.unity3d.com/index.php/Singleton
+
+18) Awake vs Start:
+	One approach is to use Awake to initialise an object’s own references and variables, (e.g. creating the connections between the object and its own components) 
+	while then using Start to use or create references to other objects and their components.
+	https://gamedevbeginner.com/start-vs-awake-in-unity/
+
+19) Para definir una linea punteada:
+	- Me baje de internet el shader dottedLine.shader
+	- Defini un nuevo material basado en ese shader y le deje todos sus valores por defecto
+		- Repeat count 5, Spacing 0.5, Offset 0, Render Queue From Shader 3000.
+	- Defini un lineRenderer en Target:
+		- 0.000, 0.128 en la curba
+		- color defini un gradiente blanco hacia transparente.
+			- Un marcador de color al comienzo
+			- marcador alpha 70, 12%
+			- marcador alpha 0, 39%
+		- Texture mode tile
+		- Material DottedLine
+		- Sorting Layer y Order in layer
+	Para probarlo puse size = 2 y agregue dos puntos:
+	(0, 0, 0) y (10, 0, 0)	
+	Lo que me permite jugar con el tamano del punteado es la propiedad Repeat count del material.
+	Si pongo valores chicos (ej: 0.1) me permite definir pelotas muy grandes. Si pongo valores como en mi caso (5) me
+	permite definir pelotitas chicas. El tamano mas grande al parecer es 0.1 pero jugando con el offset puedo poner valores
+	mas chicos y obtener pelotas muy grandes.
+
+20) Para medir performace (tiempo):
+
+    Stopwatch stopWatch = new Stopwatch();
+	TimeSpan ts;
+    string elapsedTime;
+
+	stopWatch.Start();
+	// Rutina pesada
+	stopWatch.Stop();
+
+    ts = stopWatch.Elapsed;
+    elapsedTime = System.String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
+                                        ts.Hours, ts.Minutes, ts.Seconds,
+                                        ts.Milliseconds / 10);
+    Logging.GetInstance().DebugLog(TAG, "Tiempo " + elapsedTime);
+
+21) Seteos del Animator: 
+	Has Exit Time: Si esta seleccionado, espera a que termine la animacion actual para hacer la transicion. Sino, la hace inmediatamente.
+	Si Has Exit Time esta marcado, en Exit Time (valor normalizado 0 a 1) indico el porcentaje de tiempo que debe ejecutar la animacion actual para luego cambiarla
+	por la nueva animacion.
+	Ej: Has Exit Time no esta marcado -> Cuando se cumple la condicion de la transcion cambia de estado inmediatamente cambiando la animacion actual por la del
+	nuevo estado.
+	Has Exit Time en true y Exit Time = 0.5 -> Cuando se cumple la condicion de la transicion, espera a que el 50% de la animacion actual se ejectue y luego cambia
+	la animacion actual por la del nuevo estado.
+	Has Exit Time en true y Exit Time = 1 -> Cuando se cumple la condicion de la transicion, espera a que la animacion actual se ejectue una vez (completa) y luego cambia
+	la animacion actual por la del nuevo estado.	
+	
+	Transition Offset es en que parte de la nueva animacion entra, 0 es el comienzo.
+	
+	Fixed Duration es el tiempo que demora en hacer la transicion propiamente dicha (si lo marco, ese tiempo se indica en Transition Duration). En mi caso yo no quiero que 
+	las transiciones tengan duracion (quiero que sean instantaneas), por eso siempre lo marco y pongo Transition Duration en cero. En el curso lo hacen asi (en lugar de
+	dejarla desmarcada) y creo que es para evitar bugs.
+	
+	Si selecciono un clip de animacion (ej: bouncing) puedo indicar si es loop o no.
+
+	Observacion: Ojo si defino una animacion cambiando el Scale del gameObject (para agrandarlo o achicarlo). Eso va a hacer lo mismo con su collider y puede
+	llegar a provocar efectos raros (choques que se disparan varias veces). La solucion es que el objeto al que cambio su escala (y sus hijos) no tengan collider 
+	(ver Target en donde Circle es el animado).
+	
+	Todo sobre animaciones esta en este curso de 7 videos:
+	https://www.domestika.org/es/courses/1030-curso-4-animacion-en-2d
+
+	Sin embargo, una parte muy interesante tambien esta luego en estos dos videos:
+	https://www.domestika.org/es/courses/1031-curso-5-fisicas-2d-en-unity/units/3678-practica-anadiendo-fisicas-a-nuestro-personaje
+
+	Observacion: Para un juego 2D generalmente (casi siempre) no necesito transiciones (ni mucho menos blendtrees). En este video explican como usar el Animator
+	sin transiciones porque son inutiles. https://www.youtube.com/watch?v=nBkiSJ5z-hE&list=PLQ06NCwizTU7auoPQ1Z7S6A0iqV_OArjG&index=13
+	En mi proximo juego HACERLO SI O SI de esa manera.
+
+	Con respecto al Animation:
+	Si tengo un GameObject y le quiero definir una animacion, le agrego el componente Animation y luego abro la vista Animation. Alli elijo "Create new clip", llamarle
+	por ejemplo "PlayerBouncing". Eso me crea el clip y ademas me crea el controllador llamado "Player" (le quita mi segunda palabra).
+	Las animaciones tienen una linea de tiempo, que va de 0 a 1 segundo (es lo que se pinta en celeste).
+	"Samples" indica en cuantos pedacitos divido esa linea de 1 segundo. Si pongo 20, significa que la divido en 20 pedacitos y en cada uno puedo poner keys.
+	Si pongo una key en cada Sample por ejemplo, cada key se ejecuta a 1/20 de segundo (la animacion dura 1 segundo).
+
+22) Si tiro un png dentro de Unity de cualquier dimension (width-height), Unity me le puede cambiar el tamano. 
+	Es decir, el tamano real de la imagen no siempre coincide con el tamano que	indica Unity en el inspector.
+	Si en el inspector puse Pixels Per Unit 300 por ejemplo, capaz me conviene cambiarle yo el tamano a la imagen asi ademas ocupa menos espacio en disco.
+	Lo que debo hacer es redimensionar la imagen asi:
+	A la medida REAL de la imagen (la medida que indica Paint.Net por ejemplo) la divido entre PPU y luego multiplico por 100.
+	Luego de esto, puedo importar en Unity la nueva imagen poniendo PPU 100.
+
+23) You should check/set Animator in LateUpdate that occurs after the internal animation update in each loop.
+	Input should be in Update() so that there is no chance of having a frame in which you miss the player input.
+	FixedUpdate used where we need to apply continuous forces. Physics calculations should be in FixedUpdate(), so that they are 
+	consistent and synchronized with the global physics timestep of the game.
+
+	FixedUpdate should only be used for CONTINUOUSLY added forces. Applying a single impulse force (like a jump) can and should be 
+	done in Update instead. Almost everything can be done in Update. FixedUpdate is only used in some rare exceptions that involve 
+	physics.
+	https://docs.unity3d.com/Manual/ExecutionOrder.html
+
+24) Las SOMBRAS me tiran abajo la performance (a razon de 10 fps sobre 30). Se hace injugable casi.
+	Para optimizar las sombras encontre esto por internet en un foro con muchos mensajes:
+
+	"We've conducted some performance testing on some of the mobile devices we have, and found out we're mostly bound by GPU memory bandwidth. 
+	We have some tangible ideas on how we can improve, but for now try reducing the Render Texture Scale of the Light Blend Style you're using. 
+	That should give you noticeable performance boost."
+
+	Seleccione el objeto 2D Renderer Data (carpeta Lights) y cambie Render Texture Scale (estaba en 1) y puse 0.4.
+	Puse 0 para probar y tanto en PC como en Android se pierden las sombras (se ven apenas como zonas muy pixeladas oscuras). Si pongo 0.3 se ven 
+	los bordes pixelados. Se puede ver en la scene en unity (sin ejecutar). Coloco 2 personajes, enciendo el spot izquierdo con luz de color y se ve 
+	la sombra que arrojan. Al cambiar ese valor puedo ver que sirve para darle definicion a esa sombra.
+	Hice lo mismo para todos los Blend Style porque mi Global Light Actors usa Blend Style 1.
+	OBSERVACION: Al final quite la global light Actors porque vi que no afecta nada.
+	Tambien deshabilite la propiedad Use Depth/Stencil Buffer: This option is enabled by default. Clear this option to disable the Depth/Stencil Buffer. 
+	Doing so might improve your project’s performance, especially on mobile platforms. You should clear this option if you are not using any features 
+	that require the Depth/Stencil Buffer (such as Sprite Mask).
+
+	Fui a Main Camera, Seccion rendering, Render shadows lo destilde.
+
+	En el codigo baje a 0.1 (estaba en 0.2) la intensidad de las sombras.
+
+	Otra optimizacion que hice fue usar el OnBecameVisible() de MoonController. Cuando la luna se muestra en pantalla, ejecuta una funcion de PlanetController que
+	de manera inteligente activa en todas las lunas hijas el Rigidbody, Animator y CasterSwadow2D. Mejoro bastante.
+	Queria deshabilitar/habilitar tambien el SpriteRenderer de las lunas, pero la funcion OnBecameVisible() al parecer solo se ejecuta si el GameObject tiene SpriteRenderer activo.
+	Observacion: si activo/desactivo el RigidBody de Planet, las lunas funcionan mal porque el SpringJoint2D se ve no queda agarrado.
+
+	En resumen:
+
+	Seleccione el objeto 2D Renderer Data (carpeta Lights) y cambie Render Texture Scale (estaba en 1) y puse 0.4. Hice lo mismo para todos los
+	Blend Style porque mi Global Light Actors usa Blend Style 1 (obs: al final quite esa luz global actors)
+	Tambien deshabilite la propiedad Use Depth/Stencil Buffer
+	Fui a Main Camera, Seccion rendering, Render shadows lo destilde.
+	En el codigo baje a 0.1 (estaba en 0.2) la intensidad de las sombras.
+	En el objeto UniversalRenderPipelineAsset puse shadow distance = 4 (decia 50). Lo deje al final en 50 porque lei que cuanto mas lejos, las sombras
+	tienen menos definicion.
+	Si no hago lerp de las sombras, sino que asigno el valor de una, es lo mismo.
+	Probe en el objeto UniversalRenderPipelineAsset, seccion Shadows, Soft shadows (la seleccione, estaba desseleccionada). No cambio nada.
+	Probe en el objeto UniversalRenderPipelineAsset, seccion Lighting, shadow resolution 512 (tenia 2048). No cambio nada.
+	Con sombras:
+	La performance queda en 10fps/30 xiaomi en el level 50 con luz spot prendida y sombras a 0.1
+	La performance queda en 28/30 xiaomi en el level 50 con luz prendida y sombras a CERO (por script).
+	El problema son las SOMBRAS, no las luces.
+
+25) Al importar una particula de Cartoon FX Free (http://jeanmoreno.com/unity/cartoonfxfree/):
+		- Setearle (en todos sus objetos) unScaledTime solo si corresponde para que ejecute cuando el juego esta en pausa. Esto es necesario para la particula de GameOver.
+		- Resetear (en todos sus objetos) su transform
+		- Sorting Layer (en todos sus objetos): path 0 (en la seccion Renderer)
+		- Hacerla loopeable (en todos sus objetos) de ser necesario y activar prewarm para que no demore al ser activada.
+		- Deshabilitar el script que la destruye
+		- Cambiarles su nombre al nombre que yo quiera, incluso en todos sus objetos intermedios y assets.
+
+26) Para animar objetos (poderes) en el HUD, tuve que cortar los frames de la animacion todos del mismo tamano. La UI se maneja por pixels (Width and Height
+del Rect transform). Si mis frames tienen distinto tamano durante la animacion los expande a esos pixels definidos en el Rect transform y queda cualquier cosa. 
+Menos mal que son pocos.
+
+27) Para renumerar todos los niveles de mapConfig.json usar esta funcion:
+    public void LoadFromLevel(int level, Vector3 pole)
+    {
+        LoadPath(level);
+
+        // Renumera niveles
+        JsonLevelConfig jsonLevelConfig;
+        for (int i = 0; i < _jsonMapConfig.levelConfigList.Count(); i++)
+        {
+            jsonLevelConfig = _jsonMapConfig.levelConfigList[i];
+            jsonLevelConfig.levelDebugId = i + 1;
+            _jsonMapConfig.levelConfigList[i] = jsonLevelConfig;
+        }
+        string s = JsonUtility.ToJson(_jsonMapConfig);
+        System.IO.File.WriteAllText(@"C:\Alvaro\salida.txt", s);
+        // Fin renumera niveles
+
+        LoadFirstChallenges(level, pole);
+        RemoveFirstDottedLine();
+    }
+	
+	Luego indentar el archivo C:\Alvaro\salida.txt usando https://jsonformatter.curiousconcept.com
+
+28) Tanto para los Targets (challenge o level) como para el Shield hice una animacion a mano cambiando el scale para hacer un bouncing.
+	El problema se da cuando a mitad de la animacion el objeto (target o powerup) es desactivado para mandarlo al pool.
+	Por ejemplo, supongamos que la animacion del target (level o challenge) anima su scale de 1 a 3 (o sea, de su valor inicial le suma 2). 
+	Si durante la animacion el scale del target vale 1.7 y lo desactivo (para mandarlo al pool), luego al activarlo el scale quedo en 1.7. 
+	Cuando corre su animacion (porque seteo en true su booleano que controla la animacion) comienza a correr su animacion que cambia su scale 
+	de 1.7 a 3.7! (1.7 + 2). Un disparate!
+	Al parecer es un bug muy conocido y que no lo arreglan mas. Tiene que ver con los valores por defecto del componente.
+	Encontre una descripcion exacta de mi problema:
+	https://forum.unity.com/threads/gameobject-disable-resets-animator-but-transform-parameters-remain-at-interrupted-animation-state.564700/
+	https://forum.unity.com/threads/write-defaults-confusion-bug.392058/ (es la respuesta del link previo)
+	La solucion que mencionan es algo parecido a esto:
+	Add an empty state in your controller called DefaultPose (or a name that makes sense to you), with no transitions
+	Make sure that Write Defaults is enabled for that state
+	When disabling the GO:
+	animator.Crossfade("DefaultPose", 0f); // Force switch to Default Pose State, instant transition
+	animator.Update(0f); // Force transition completion, your object should now be in default pose
+	go.SetActive(false); // Disabled in default pose
+
+	Muy complejo todo. Al final lo que hice fue lo siguiente:
+	Para el Shield hice una animacion cuadro a cuadro con Spriter. Problema solucionado porque no me importa en cual frame arranca la animacion cuando arranque.
+	Para el target no puedo hacer lo mismo, porque el cambio de scale tambien anima los numeros del nivel. No quiero hacer animacion frame by frame para
+	10 numeros!.
+	Si el target esta activo, no puedo cambiar su scale (el scale de Circle en realidad) porque es controlada por el animator que esta en estado idle.
+	OnObjectSpawn se ejecuta cuando ya esta activo el target recien salido del pool. O sea, ahi tampoco puedo cambiar el scale.
+	Como yo nunca seteo target.setActive(false), sino que eso lo hace el ObjectPooler, lo que me queda por hacer es en su Dispose:
+		- desactivo animator del Circulo para que no moleste
+		- corrijo escala
+		- seteo booleano que controla animacion en false
+		- activo animator
+	Luego se hace un _objectPooler.ReturnToPool(target) y ahi se desactiva con su escala correcta para que la proxima vez que lo use no pase este mamarracho.
+
+29) Si tengo un spriteSheet con animaciones en donde cada elemento no tiene tamano fijo, para hacerlo tamano fijo (y poder cortarlo en celdas con Unity) puedo
+	usar ShoeBox (Animation/Frame Sheet). Le puedo poner un tamano fijo al resultado final del sprite sheet.
+	Lo mismo si tengo los frames ya cortados pero todos de distintos tamanos. Uso ShoeBox para formar un spriteSheet (o la 
+	url https://www.codeandweb.com/free-sprite-sheet-packer) y luego puedo usar Frame Sheet para que cada sprite quede de tamano fijo.
+
+30) Pausa y camara lenta:
+	https://gamedevbeginner.com/the-right-way-to-pause-the-game-in-unity/
+	https://www.youtube.com/watch?v=JivuXdrIHK0
+
+31) Las properties que uso con PlayerPrefs se almacenan en la Registry aca:
+	Computer\HKEY_CURRENT_USER\Software\Unity\UnityEditor\AGMCorp\GameSix
+
+32) Para pasar parametros entre escenas, puedo usar un singleton c# (o una clase estatica), tambien playerPrefs como hice yo. 
+	No hay mucho mas.
+
+33) https://gamedevbeginner.com/start-vs-awake-in-unity/
+	https://docs.unity3d.com/ScriptReference/MonoBehaviour.Awake.html
+	https://docs.unity3d.com/ScriptReference/MonoBehaviour.Start.html
+	https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
+	https://docs.unity3d.com/Manual/ExecutionOrder.html (ojo que habla sobre funciones deprecated, es viejo, pero para algunas cosas sirve)
+
+	Awake: 
+	- Se invoca siempre que el GameObject (que contiene el script) es cargado en la escena o cuando el GameObject (que contiene el script) es instanciado 
+	  con Instantiate(prefab, ...).
+	- Se invoca UNA UNICA vez en el ciclo de vida del GameObject.
+	- Se invoca aunque el GameObject este desactivado (o su componente Script desactivado).
+	- ES SEGURO dentro de este metodo, inicializar variables con referencias a los propios componentes del GameObject o tambien a otros GameObjects del juego 
+	  (y sus componentes). For active GameObjects placed in a Scene, Unity calls Awake after all active GameObjects in the Scene are initialized, so you can safely 
+	  use methods such as GameObject.FindWithTag to query other GameObjects.
+	- NO SE DEBE acceder a ninguna propiedad o valor de esos componentes (ni propios ni ajenos) porque pueden estar indefinidos. Mas que nada no se debe acceder
+	  a ninguna propiedad o metodo de ningun script ni propio ni ajeno.
+
+	OnEnable:
+	- Se invoca cuando el GameObject es activado. Por lo tanto, se puede llegar a invocar muchas veces durante el ciclo de vida del GameObject (si lo activo, 
+	  desactivo, activo, etc.). Puede o no haberse ejecutado el Start antes. Dependiendo de si el objeto fue solo activado (Awake-OnEnable-Start) o 
+	  activado-desactivado-activado (Awake-OnEnable-Start-OnEnable), asi que ojo. Yo lo uso para objetos pooleados, pero en ese caso hay UNA SITUACION QUE ME FAVORECE
+	  y que esta explicado mas abajo (ver ¿Que criterio segui yo?). Sino, no lo uso para nada.
+
+	Start:
+	- Se invoca UNA UNICA vez en el ciclo de vida del GameObject.
+	- No se invoca si el GameObject (que contiene el script) esta desactivado.
+	- Se pueden consultar propiedades o valores de componentes propios o ajenos y trabajar libremente con ellos.
+	- Pueden haber problemas segun el orden de ejecucion de los Start de los GameObjects de la escena, para eso Unity provee una manera de configurar por 
+	  ejemplo si quiero que el Start de algun objeto se ejecute primero que todos los demas. Por suerte no me han pasado esas cosas.
+
+	Si un GameObject esta en la escena (activo) el orden de ejecucion de eventos cuando arranca la escena es:
+	 - Awake-OnEnable-Start
+	Si a ese GameObject luego lo desactivo y luego lo activo nuevamente, el orden de ejecucion es:
+	 - OnEnable
+
+	Si un GameObject esta en la escena (desactivado) el orden de ejecucion de eventos es:
+	 - Awake
+	Si a ese GameObject lo activo, el orden de ejecucion de eventos es:
+	 - OnEnable-Start
+	Si a ese GameObject lo desactivo y lo vuelvo a activar, el orden es:
+	 - OnEnable
+
+	Si un GameObject es instanciado con Instantiate (desactivado) el orden de ejecucion de eventos es:
+	 - Awake
+	Si luego en algun momento lo activo el orden de ejecucion seria:
+	 - OnEnable-Start
+	Si luego lo desactivo y lo vuelvo a activar, el orden seria:
+	 - OnEnable
+
+	Si un GameObject es instanciado con Instantiate (activo) el orden de ejecucion de eventos es:
+	 - Awake-OnEnable
+	Luego, en el proximo frame, ese objeto instanciado ejecutara su Start PERO NO LO HACE INMEDIATAMENTE.
+	O sea, esto podria ser un problema:
+
+	GameObject g = Instantiate(prefab, ...); // El GameObject g esta activo, se ejecuta Awake-OnEnable.
+	MiScript ms = g.GetComponent<MiScript>();
+	ms.algunMetodo(parm1, parm2); <--------- Si "algunMetodo" necesita de cosas definidas en el Start, NO VA A FUNCIONAR BIEN.
+
+	POR ESO A MIS SCRIPTS DE OBJETOS POOLEADOS NO LES PROGRAMO START. NO SE NECESITA.
+
+	¿Que criterio segui yo?
+
+	Awake lo uso para:
+	- Inicializar variables que apuntan a mis componentes o componentes de otros GameObjects.
+	- Inicializar variables tontas, inocuas, de estados propios de la logica de mi script.
+
+	OnEnable lo uso para:
+	- Para aquellos GameObjects que salen y entran del pool, NO LES PROGRAMO START!! sino este metodo.
+	  Casi todos mis objetos son pooleados. Inicialmente habia usado el metodo que sugeria Brackeys (OnObjectSpawn definido en una interfaz). Pero Brackeys mismo 
+	  dijo que era ineficiente.
+	  Como el objeto es pooleado (se activa al sacarlo del pool), el orden de ejecucion de sus eventos es Awake-OnEnable pero tiene la ENORME VENTAJA de que el 
+	  juego esta corriendo y ya se ejecutaron TODOS los Start de cualquier otro GameObject. 
+	  Entonces puedo incluir dento del OnEnable logicas complejas (pues todos los GameObjects y sus componentes estan creados). 
+	  Me queda la duda de si mis propios componentes (como LineRenderer o similar) estan inicializados. Aparentemente si. Los scripts seguramente no.
+	  ATENCION: Si un objeto es pooleado, no puede obtener referencias en el awake de objetos que van a morir al cambiar de escena (como el Hud). Por lo
+	  tanto deben refrescar esa referencias en el onEnable (porque Start no tienen y porque Awake se ejecuta 1 sola vez en el ciclo de vida).
+
+	PublicInit lo uso para:
+	- Inicializar variables tontas, inocuas, de estados propios de mi logica. 
+	  Si invoco a este metodo inmediatamente luego de obtener un GameObject del pool, lo unico que se ejecuto fue Awake y OnEnable.
+	- Lo necesito porque recibe parametros, solo por eso. Forma parte del API, o sea, es para que lo use otro.
+
+	Start lo uso para:
+	- Ejecutar logica propia utilizando propiedades de componentes de otros GameObjects (usando las variables inicializadas en Awake).
+	- Aca es donde debe ir "ObjectPooler _objectPooler = ObjectPooler.Instance" pues es el unico lugar en donde tengo certeza de que el script del GameObject 
+	  ObjectPooler ya fue ejecutado (seteando "public static ObjectPooler Instance"). Es decir, la "Instance" es una variable publica del script de ObjectPooler, 
+	  o sea, es una propiedad/valor y por lo tanto no se puede leer en Awake (leer arriba en donde describi las caracteristicas de Awake).
+	  Si el objeto que maneja el pool, tambien es un GameObject pooleado (por ejemplo el Target), la referencia al ObjectPooler se debe cargar en 
+	  el OnEnable (PORQUE LOS OBJETOS POOLEADOS NO LLEVAN START!!! NO SE LOS PROGRAMO!!)
+	- Si el objeto es pooleado, NO LE PROGRAMO START, LE PROGRAMO ONENABLE. La ventaja alli, repito, es que ya se ejecutaron los Start de TODOS los GameObject de la 
+	  escena especialmente los de los singleton.
+
+	CASO SINGLETON MONOBEHAVIOUR
+	Singleton MonoBehaviour tengo solo uno: ObjectPooler.
+
+	El codigo que implementa la idea de Singleton (el que tiene DontDestroyOnLoad) va en el Awake, pero luego de eso no conviene hacer nada mas.
+	Basicamente porque si luego llego a tener variables estaticas mias (la verdad no uso variables estaticas pero bueno...), esa parte del codigo puede ser ejecutada 
+	por otra instancia del Singleton que es creada y destruida (creada por Unity pues el GameObject que contiene el script esta en la escena y destruida por mi codigo 
+	con Destroy -que no se ejecuta inmediatamente-) y puede armar lio. 
+	Por prolijidad cree una funcion llamada AwakeSingletonMonoBehaviour que me garantiza 100% que solo es ejecutada por el Singleton "bueno".
+
+	NO DEBO NUNCA JAMAS, DENTRO DE UN SINGLETON, MANTENER UNA REFERENCIA A UN OBJETO NO SINGLETON. 
+	Porque ese objeto se va a destruir al cambiar de escena y la referencia va a quedar cualquier cosa. 
+	TAMPOCO HACER WORKAROUNDS (como metodos publicos "Refresh" en los Singletons) para refrescar referencias a otros objetos de la escena al cambiar de escena. 
+	NO, ES UN PESIMO DISENO, NO HACER ESO.
+
+	SI NO NECESITO EL METODO UPDATE O FACILIDAES DE UNITY (COMO CORRUTINAS) O UTILIZAR COMPONENTES COMO TRANSFORM O COSAS ASI, NO USAR UN SINGLETON MONOBEHAVIOUR SINO
+	USAR UN SINGLETON C# NORMAL COMO logging, Interpolation, GameMap, etc.
+	Son lo mismo que clases estaticas, pero con muchas mas ventajas y sobreviven obviamente entre escenas.
+
+34) Para la pantalla de seleccion de niveles use este video https://www.youtube.com/watch?v=tCr_i5CVv_w
+
+35) Hice un Singleton MonoBehaviour SceneLoader para hacer transiciones entre escenas.
+	Tiene 3 transiciones disponibles (ver el enumerado Transition dentro de la clase), de las cuales solo uso FLUBBIE_WIPE pero
+	todas funcionan perfecto.
+	Me base en este video https://www.youtube.com/watch?v=CE9VOZivb3I&t=2s
+
+36) Audio
+    Para efectos de sonido cortos uso "Decompress on Load", para efectos de sonido largos uso "Compressed in Memory" y para musica uso "Streaming".
+	Para la musica use mp3 porque se escuchaba en mis celulares mejor que ogg. Para los efectos de sonido uso ogg Vorbis que en promedio es lo 
+	mejorcito en performance.
+	Use AudioMixer, los efectos de sonido canalizan por el grupo SFX, los efectos de sonido de pantalla por SFXUI, la musica por Music y cuando
+	hago una transicion de escena uso Crossfade.
+	Los efectos de sonido de pantalla (SFXUI) ignoran Pause (lo hice por codigo pues es la unica manera).
+	La musica y los efectos de sonido de pantalla tienen la prioridad mas alta.
+	El MainMenu y Hud tienen un AudioSource en el inspector para la musica (canaliza por Music) y se agrega otro (que canaliza por SFXUI) por codigo.
+	El player tiene 2 Audiosources, uno para efectos de sonido cortos y otro para efectos de sonido largos. Ambos canalizan por el grupo SFX.
+	Uso PlayOneShot porque es la unica manera de que no se corte el audio previo.
+
+39) GPGS y AdMob
+	Cree la app en la consola de Goolge y fui a la parte de servicios de Google. Siguiendo las indicaciones alli cree el token OAuth para el 
+	certificado de debug de Unity y para mi certificado de release (fKeyStore.jks). Luego cree el Leaderboard, agregue mi mail personal a los verificadores.
+	Luego agregue los paquetes al proyecto Unity. No hay que actualizar el SDK con SDKManager, lo hace Unity automaticamente.
+	GooglePlayGameServices: https://github.com/playgameservices/play-games-plugin-for-unity/blob/master/current-build/GooglePlayGamesPlugin-0.10.11.unitypackage
+							https://github.com/playgameservices/play-games-plugin-for-unity
+	AdMob: https://github.com/googleads/googleads-mobile-unity/releases/tag/v5.3.0
+
+	Al parecer la version de AdMob instalada en Unity se ve viendo el archivo AdRequest.cs que en mi caso dice 5.3.0.
+	Las dependencias del plugin estan en GoogleMobileAdsDependencies.xml
+
+	Google Play services 19.3.0
+    Google Mobile Ads iOS SDK 7.63.0
+    External Dependency Manager for Unity 1.2.156.
+
+	Las versiones viejas de Google Mobile Ads IOS SDK se bajan de:
+    https://github.com/CocoaPods/Specs/tree/master/Specs/5/9/a/Google-Mobile-Ads-SDK
+    Alli busco la version, veo el archivo Google-Mobile-Ads-SDK.podspec.json y dentro del archivo veo el link para bajar la version: 
+	https://dl.google.com/dl/cpdc/11076c94098d4ad8/Google-Mobile-Ads-SDK-7.63.0.tar.gz
+
+	ERROR QUE OBTENGO AL COMPILAR EN XCODE EL PROYECTO IOS:
+	Lexical or Preprocessor Issue Group
+	/Users/alvaro/Documents/BuildIOS/Libraries/Plugins/iOS/GADUAdLoader.h:5:9: 'GoogleMobileAds/GoogleMobileAds.h' file not found
+	/Users/alvaro/Documents/BuildIOS/Libraries/Plugins/iOS/GADUInterface.m:3:9: In file included from /Users/alvaro/Documents/BuildIOS/Libraries/Plugins/iOS/GADUInterface.m:3:
+
+	Para compilar el proyecto XCode generado para la version IOS en una mac, segui las instrucciones de este video:
+	https://www.youtube.com/watch?v=b573NVSs0X0
+
+	Finalmente programe GPGS.cs y AdMob.cs
+	Ver los links en favoritos que explica bien.
+
+	Para obtener el Certificate fingerprint (SHA1) del certificado de debug que usa Unity:
+	C:\Program Files\Unity\Hub\Editor\2019.4.11f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\bin>keytool -list -keystore C:\Users\Alvaro\.android\debug.keystore
+
+	Para obtener el Certificate fingerprint (SHA1) del certificado de release (fKeyStore.jks):
+	C:\Program Files\Unity\Hub\Editor\2019.4.11f1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK\bin>keytool -list -keystore C:\Alvaro\Develop\Android\20200816\FlubbieKeyStore\fKeyStore.jks
+
+	GOOGLE PLAY GAME SERVICES
+	=========================
+
+	FINGERPRINTS
+	FLUBBIE DESARROLLO A3:AA:9D:12:A6:26:F3:84:10:2B:5B:68:5E:FE:9E:E9:52:28:78:9C
+	FLUBBIE RELEASE 8F:9D:43:56:86:42:0C:5C:95:6E:45:39:80:1E:FC:60:D5:34:B4:D4
+	FLUBBIE (GOOGLEPLAY) B4:DC:E3:99:60:3B:AA:47:CD:EE:1F:A2:5D:36:EA:06:2C:55:2C:C7 (leer mas abajo (*))
+
+	ID APLICACION 
+	132806097995
+
+	DESARROLLO
+	ID CLIENTE 132806097995-65d1drdn9st1b51tjlk72eqfkffiaq3e.apps.googleusercontent.com
+
+	RELEASE
+	ID CLIENTE 132806097995-56fabvs5pmffbv08n9tngmvm9992qvni.apps.googleusercontent.com
+
+	GOOGLEPLAY
+	ID CLIENTE 132806097995-n4pqlmpvvabngmv8qkniiaui6c780oce.apps.googleusercontent.com
+
+	ID LEADERBOARD
+	ID: CgkIy_jw3u4DEAIQAA
+
+	ADMOB
+	=====
+
+	ID APLICACION ANDROID ca-app-pub-3296591416050248~5608794600
+
+	ID AVISO INTERSTICIAL ANDROID (le llame mainIntersticialAdv)
+	ca-app-pub-3296591416050248/4192288073
+
+	TEST DEVICE ANDROID IDS (RequestConfiguration.Builder().setTestDeviceIds(...)):
+	XIAOMI 2B486FDACB747632CC2E54CDC85ED86B
+	SAMSUNG 153383FBE5FF1603C9ADAFC4F7E93D8C
+
+	ID APLICACION IOS ca-app-pub-3296591416050248~8103264186
+
+	ID AVISO INTERSTICIAL IOS (le llame mainIntersticialAdv)
+	ca-app-pub-3296591416050248/3206160725
+
+	Tanto las credenciales como los Leaderboards que haya creado, se deben publicar.
+	Para ello ir a Servicios de juego de Play -> Configuracion y administracion -> Configuracion. Verificar que el estado de cada credencial sea "Publicado". 
+	Si estan en "Borrador" debo publicarlo. Lo mismo con "Tablas de clasificacion".
+	Para publicar, ir a Servicios de juego de Play -> Configuracion y administracion -> Publicacion
+
+	(*) Cuando mi aplicacion es publicada por GooglePlay, se vuelve a firmar con una clave publica de Google.
+	Para saber la huella digital que creo google, ir a mi app y luego ir a Configuracion -> Firma de apps
+	Alli buscar "Huella digital del certificado SHA-1". En el caso de Flubbie es B4:DC:E3:99:60:3B:AA:47:CD:EE:1F:A2:5D:36:EA:06:2C:55:2C:C7.
+	Crear esa credencial OAuth y publicarla.
+
+	Si mi juego bajado desde GooglePlay falla al interactuar con Google Play Game Services, lo mejor es usar el Android Studio y ver el log (tanto con
+	el filtro seteado en Unity como sin filtro).
+	Alli esta siempre la informacion de la falla (nivel de log Error).
+
+	Ej:
+	**** APP NOT CORRECTLY CONFIGURED TO USE GOOGLE PLAY GAME SERVICES
+    **** DEVELOPER_ERROR
+    **** This is usually caused by one of these reasons:
+    **** (1) Your package name and certificate fingerprint do not match
+    ****     the client ID you registered in Developer Console.
+    **** (2) Your App ID was incorrectly entered.
+    **** (3) Your game settings have not been published and you are 
+    ****     trying to log in with an account that is not listed as
+    ****     a test account.
+    ****
+    **** To help you debug, here is the information about this app
+    **** Package name         : uy.com.agm.gamesix
+    **** Cert SHA1 fingerprint: B4:DC:E3:99:60:3B:AA:47:CD:EE:1F:A2:5D:36:EA:06:2C:55:2C:C7
+    **** App ID from manifest : 132806097995
+    ****
+    **** Check that the above information matches your setup in 
+    **** Developer Console. Also, check that you're logging in with the
+    **** right account (it should be listed in the Testers section if
+    **** your project is not yet published).
+    ****
+    **** For more information, refer to the troubleshooting guide:
+    ****   http://developers.google.com/games/services/android/troubleshooting
+    ****
+
+40) Problema con los botones:
+
+	1) Hay ciertos botones (como la mayoria de los botones del menu principal) que tienen sonido propio (click) y ademas abren un panel con sonido (panelIn).
+	Si ambos sonidos se superponen queda bastante feo.
+	La solucion que encontre es ejecutar el audio clip del click al apretar el boton, esperar que termine el audio y luego ejecutar la accion del boton.
+	Todo esto en wipeThemOut! no pasa porque los paneles que abre no tienen audio.
+	Uso la funcion UIHelper.ExecuteActionAfterClickAudio que primero reproduce el clip del click y cuando finaliza ejecuta una accion (el codigo del boton).
+
+	2) Hay botones como el boton de Rate en donde el clip del click no se llega a escuchar porque inmediatamente se abre el browser fuera del juego.
+	La solucion es la misma, ejecutar el audio clip del click al apretar el boton, esperar que termine el audio y luego ejecutar la accion de abrir el browser.
+
+	3) Hay botones que no deben ser presionados dos veces seguidas. Por ejemplo el boton de Relaod (el juego se crea dos o mas veces dejando todo inconsistente) 
+	o los botones del menu principal que abren paneles (la animacion se reinicia y queda feo) o los botones de back de los paneles.
+	Para solucionar este problema de manera simple, en aquellos botones que ejecutan alguna accion que esta dentro de mi control (ej abrir un panel, cerrar un 
+	panel), deshabilito el boton al comienzo de la accion y lo habilito al final de la accion.
+	En el caso de Play lo deshabilito directamente sin volverlo a habiliar porque me estoy yendo de la escena, lo mismo LevelIcon.
+	No necesita retardo ademas porque la carga asincronica de la escena es lo suficientemente lenta como para que el clip del click se escuche bien.
+	Hay botones como el rate (que abre un browser) o goolgePlayServices estando logueado (que abre la Leaderboard) que no deben presionarse 2 veces y que no 
+	disparan acciones cuyo final pueda controlar. En esos casos uso UIHelper.AvoidDoubleClick que deshabilita el boton y al rato lo habilita.
+
+	4) Por ultimo, hay botones que no necesitan nada especial como el toogle de Setings, los sliders o los botones de la pantalla de pausa que actuan sobre el 
+	audio.
+
+	Para la proxima, toda esta estrategia hay que repensala porque es inmanejable. Creo que lo mejor seria que cada vez que apreto un boton, una pantalla 
+	transparente de bloqueo cubre todo hasta que las animaciones finalicen. No siempre se puede eso porque hay botones que ejecutan cosas que no se cuando 
+	terminan. Capaz en esos casos se puede usar un temporizador como hice con los botones Rate. Otra cosa muy importante es no usar un solo script para todo, 
+	sino que cada objeto tenga su script cortito.
+	Tal vez pueda usar una subrutina para abrir/cerrar un panel y que sea el propio boton que decida si lanza esa subrutina o no (por ejemplo, si la subrutina
+	de apertura no termino, no lanza la subrutina nuevamente para cerrar).
+
+41) Hice el proceso "Upgrading from the Lightweight Render Pipeline to the Universal Render Pipeline" para ver si me solucionaba en algo la performance
+	de las sombras. Al parecer no soluciono nada. Lightweight Render Pipeline esta deprecated, por eso migre.
+	Lei esta guia: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.2/manual/upgrade-lwrp-to-urp.html
+	Pero en mi caso particular fue muy facil ya que mi juego es muy sencillo. Lo unico que tuve que hacer fue editar el archivo manifest.json y agregar:
+	"com.unity.render-pipelines.universal": "7.5.1" y desinstalar el paquete LWRP.
+	Mas nada.
+
+42) Shortcuts visual studio:
+	CTRL + K y luego CTRL + C comenta
+	CTRL + K y luego CTRL + U descomenta
+	CTRL + SHIFT + M muestra funciones para sobreescribir de MonoBehaviour (o de cualquier clase)
+	CRTL + K y luego CTRL + S region
+	CRTL + K y luego CTRL + D format source
+	CRTL + SHIFT + F busqueda en archivos
+	CRTL + T busco cualquier cosa o clase o archivo. Magico.
+	CTRL + M + O colapsa todo
+	CTRL + M + P expande todo
+	Si escribo foreach y apreto tabtab me sugiere codigo, lo mismo para las properties (escribiendo prop) y cualquier sentencia
+
+43) PORCENTAJES
+
+	La cuenta que debo hacer es:
+	(width / ppu) x 100.
+
+	Si lo hago en porcentajes, el porcentaje que debo usar es 10000 / ppu (ojo que paint.net no acepta decimales, entonces 
+	me conviene redondear hacia arriba).
+
+	BOTONES:
+	Reduje la original un 46%
+	boton rojo play reduje a 186 x 186
+	amiguitos: 303x218
+
+	- Las imagenes de los regalos le hice resize al 25%
+	- La imagen del caramelo le hice resize al 25%
+	- Las imagenes big moons le hice resize al 35%
+	- Las imagenes medium moons le hice resize al 25%
+	- Las imagenes small moons le hice resize al 17%
+
+44) LUCES
+	No mirar el video de Brackeys porque esta deprecated y me confunde.
+	Mirar solo este video que es actual y esta detallado lo que hice para integrar luces al proyecto:
+	https://www.youtube.com/watch?v=F5l8vP90EvU
+	Para quitar las luces deberia quitar el URP y cambiar por ejemplo todos los materiales de todos los sprites a mano (ya que no tengo una 
+	opcion en Unity que lo haga automatico como cuando instale el URP).
+	O sea, no hay forma facil de volver al Built-in Render Pipeline una vez que instalaste el URP.
+	Si uso URP voy a necesitar una luz global.
+
+	Las luces (excepto las globales) de por si, cuando hago juego de luces, bajan los fps y degradan el juego.
+	Si ademas uso sombras, es imposible a veces jugar.
+	Tengo 2 spots, 1 luz global y una luz central.
+	Probe todo lo que pude y no hay forma, no funciona.
+	La solucion es sacar las luces y no usarlas en mi juego. Quitarlas completamente del proyecto.
+	Obtengo exactamente el mismo efecto cambiando el Tint del background/nubes/particulas/etc. Es exacto!.
+	Para la luz central basta con hacer un circulo en degrade blanco y el resto todo transparente. Al cambiar el tint de esa imagen obtengo el efecto deseado.
+	Por ejemplo aca tengo sprites de luces C:\Alvaro\Develop\Android\20171202\Spine\spine-superspineboy-master\spine-superspineboy-master\assets\map y aca tambien 
+	C:\Alvaro\Develop\Android\20200816\Assets\Luces.
+	Usarlos para la luz central!
+	Al final ahora tengo tres opciones de "Graphics" en Settings:
+	LOW: Uso sprites y tint.
+	MEDIUM: Uso las luces, con las sombras desactivadas.
+	HIGH: Uso las luces con sombras activadas.
+	Si juego el juego en HIGH y el URP se degrada, queda degradado hasta que reinicie el juego. 
+	Por mas que cambie a LOW sigue degradado. Debo cerrarlo y volverlo a abrir.
+
+45) En mi juego si un Target tiene Candy/PowerUp primero se ejecuta la colision con el Candy/PowerUp y luego la colision con el Target (metodo Success).
+	Esto se debe pura y exclusivamente al tamano de los coliders de cada objeto (Target, Candy, PowerUp). Estan todos centrados en el mismo punto y siempre el tamano 
+	del colider del Candy/PowerUp es mayor que el del Target.
+	Si una Moon choca con un Target/Candy/PowerUp no pasa nada porque en la programacion no se considera ese choque a pesar que las Layers si chocan.
+	De todos modos para evitar problemas, y teniendo en cuenta el tamano de los coliders de Target/Candy/PowerUp, una buena distancia de seguridad para el SWING es 0.56.
+	
+	Tamano minimo de orbita:
+	**** swingConfig.minRadius >= 0.56 y planetConfigList.radius >= 0.56 **** 
+
+	Esto me asegura que ninguna moon quede completamente dentro del powerup.
+
+	OBSERVACION: Note que si bien el tamano de los colliders impide que se ejecute primero TargetCollisionEnter y luego PowerUpCollision, en la practica pasa. 
+	Seguramente sea por performance que ambos se pueden ejecutar a la vez.
+	Asi que le agregue a la condicion de PowerUpCollision (y tambien CandyCollision) que el estado puede tambien ser IDLE.
+
+ 46) Para publicar la version IOS, un resumen muy bueno de todo lo que se necesita seria este: https://davidjorna.com/posts/publish-to-app-store-without-a-mac/
+
+ 47) Abri el proyecto el 20 de junio de 2021 porque habia perdido todos los datos de mi pc (Recoveruy) y me encontre con este error:
+	 An error occurred while resolving packages:
+	 Project has invalid dependencies:
+		com.google.external-dependency-manager: Package [com.google.external-dependency-manager@1.2.164] cannot be found
+	 A re-import of the project may be required to fix the issue or a manual modification of C:/Alvaro/Develop/Android/20200816/UnityProjects/GameSix/GameSix/Packages/manifest.json file.
+
+	Al parecer, desde el 19 de mayo de 2021, los paquetes de google ya no estan disponibles para bajar desde el Game Package Registry (GRP).
+	Ver este link: https://github.com/firebase/quickstart-unity/issues/1028
+	Este paquete se usa por AdMob.
+
+	La solucion que encontre esta en:
+	https://forum.unity.com/threads/cloud-build-stopped-working.1113769/
+
+	Basicamente hay 2 formas:
+	 - importar la dependencia como un paquete (.unitypackage). Esto trae desventajas de que es dificil de actualizar a futuro (porque los fuentes quedan dentro de mi proyecto y si importo 
+	   otro paquete mas nuevo hay conflicto con lo viejo) y de que hay archivos muy grandes que no se pueden subir a GitHub.
+	 - importar la dependencia como .tgz (queda una referencia a mi disco en packages-lock.json y manifest.json)
+ 
+	Elegi la segunda, el .tgz (version 1.2.164) se baja de aca https://developers.google.com/unity/archive
+
+	Para ello:
+	Sin tocar nada fui a Package Manager.
+	En la parte izquierda aprete el "+" y seleccione Add package from tarball.
+	Seleccione de mi disco el archivo .tgz bajado en C:\Alvaro\Develop\Android\20200816\ExternalDependencyManager\com.google.external-dependency-manager-1.2.164.tgz.
+	Listo, ahora el External Dependency Manager que daba error, quedo local.
+
+	Como no pienso actualizar mas el build en ninguna appstore, volvi a subir el proyecto a GitHub con esta modificacion bajo el nombre GameSixLastVersion.
+
+-------------------------------------- PARA MI PROXIMO JUEGO
+- Usar texturas multiplo de potencia de 2 en ambas dimensiones.
+- En los menus usar un script en cada objeto que controle su propio movimiento y no un gran controlador como MainMenu o Hud.
+- Es insana mi programacion de menus y ventanas emergentes durante el juego (pantallas pausa, exit, shop, etc.). Eso de ponerle retardo al evento del boton
+  para que se escuche el sonido y se vea la animacion del boton fue una pesima idea. Realmente quedo mala la solucion. Leer nota 40.
+- Poner logros
+- Poner dinero de verdad
+- No usar jamas sombras ni luces. Si uso luces que sea solo una (en mi juego uso 3 spot y 1 global). Ver nota 44.
+- Usar git como sea. Ver nota 3.
+- No usar animaciones en maquina de estados, sino que invocar directamente al estado. Ver video https://www.youtube.com/watch?v=nBkiSJ5z-hE&t=1s
+- Creo que conviene no usar avisos y aclararlo en mi juego como una ventaja.
+- Usar AdMob es un dolor de cabeza, ademas quedo enganchado a los cambios de eso. Es complejo integrarlo con Unity (ver nota 47). Lo mismo con GPGS. Ademas no funciona para Win/Web y no suma nada.
+  Todo mi juego se vio complicado por eso y le dedique horas y horas. No vale la pena.
+- No migrar versiones de Unity a menos que sea extrictamente necesario.
+
+-------------------------------------- DUDAS
+- Deberia empacar las imagenes en archivos potencia de 2 o unity lo hace automatico? En mi caso al parecer lo hizo rellenando espacio vacio y eso tiene impacto en la performance.
+- Como trabajar en equipo? puedo usar git/github o se rompe el proyecto? tengo que andar borrando los archivos grandes que no suben a github?
+- Como simular touches (por ejemplo fling) en la pantalla de game de unity para probar en desktop?
+- Como testear directo en el celular al apretar play sin generar build?
+- Orden de ejecucion de los scripts: si en un script aumento el score, en otro script puedo preguntar si el score aumento? como se cual se ejecuta antes y cual despues?
+- Tengo 3 tamanos de personajes: big, medium, small. Para no escalar en tiempo de ejecucion debo repetir 3 veces el spritesheet? 
+- Intentar ver cual es el problema de pixel perfect que no lo entiendo. Creo que es que los pixeles quedan como rectangulos o estirados.
+- Ver player, tiene dos gameObjects hijos (hit, hurt). Hit esta dentro de Hurt y ambos estan habilitados siempre. Sus layers estan configuradas
+  para chocar. No disparan evento OnTriggerEnter2D ni OnCollisionStay2D al parecer. Lo cual me favorece pero me queda la duda si siempre es asi (dentro de un 
+  mismo objeto -mismo rigidbody2D- los colliders no generan eventos).
+- Tengo que leer algo de como manejar la camara en unity, como moverla y jugar con ella. Tener claro su viewport. Respuesta: se maneja con cinemachine, nunca
+  se maneja a mano por codigo.
+- Donde se cambia que 100 pixels sea una Unidad de Unity?
+
+-------------------------------------- IDEAS
+- poner lerp en swing y en el otro de velocidad
+        Vector2 oldVelocity = _rigidbody.velocity;
+		....
+        Vector2 newVelocity = _rigidbody.velocity;
+        _rigidbody.velocity = Vector2.Lerp(oldVelocity, newVelocity, 0.2F);
+  No me parecio que se viera mejor
+- Al parallax tambien ademas de nubes puedo agregar pajaritos, cohetes volando, planetas
+- Hacer que el nivel vaya decreciendo. Aarranco en 100 y bajo a 99, 98, etc. Destacarlo bien. Para dar la sensacion
+  de que hay un objetivo.
+- Tengo personajes en botellita y bombas. Capaz que los puedo usar si programo los personajes EPICICLO.
+- Dos por tres puede cruzar la pantalla horizontal un pibe en globos para joder. C:\Alvaro\Develop\Android\20180915\Assets\characters\pibeEnGlobos
+- Particulas http://jeanmoreno.com/unity/cartoonfxfree/. Capaz puedo usar para gameOver 38, 43, 45
+- Capaz que en elgun momento puedo hacer la misma API del Moon pero para una orbita cuadrada. Poniendo 4 targets y que la luna vaya a uno
+  y luego a otro como en whipethemout!.
+- Lo que puedo hacer para tienda es comprar bigote, sombrero, lentes, etc. para el player. 
+  Ver https://graphicriver.net/item/simple-cute-monsterscreation-kit/14823049?s_rank=13
+  C:\Alvaro\Develop\Android\20200816\UnityProjects\TiendaGameSix
+- Tengo varios audios para musica de nivel que los puedo llegar a usar aleatoriamente, pero si los incluyo ocupan espacio.
+  C:\Alvaro\Develop\Android\20200816\Assets\Audios\Excelente
+- Lo ideal, seria hacer varios stages, cada uno con distintos movimientos de las lunas y distinto fondo. Tal vez distintos personajes de luna.
+- Se puede hacer un STAGE por tiempo. El que llega antes gana.
+- Puedo hacer un prefab especial que sea una luna que gira en circulos alrededor de otra luna mientras gira alrededor del planeta. 
+  Con velocidad fija constante y distancia constante. El movimiento tambien puede ser en linea recta (vaiven) o incluso que no se mueva porque al ir girando
+  la luna principal, esta luna secundaria cambia tambien de posicion.
+  Llamarle por ejemplo EPICICLO (modelo geocentrico tolomeo). Luego ese epiciclo prefab funcionaria como una luna cualquiera. 
+  Puedo usar las imagenes de los personajes en botellita para esto o capaz mejor las bombitas.
+- Se puede hacer un poder que sea un "tap". Toco una luna y hace fee.
+- Se puede hacer un poder que "electrifique la linea punteada o tire un laser rojo (de target a target)" por un ratito y haga flee de toda luna que toca.
+  El laser dura solo 1 segundo y aparece al final de una cuenta regresiva de 3 segundos fijos. Si antes de esa cuenta regresiva cambio de challenge, el poder se desactiva
+  y no pasa nada. Parece sencillo de hacer porque es identico al poder blue, con counter fijo en 3 y en lugar de GameOver muestra el laser.
+  Primero que nada hacer que el poder Pink (tasty) no sea un poder, sino que sea un simple collectible como el candy. Mantiene el efecto de particulas, los audios, todo, 
+  solo que no seria mas un poder. Con eso puedo utilizar el grafico del regalito rosa para este powerup laser.
+  La programacion seria totalmente IDENTICA al poder BLUE, es decir, cuando agarras el poder comienza un contador y al llegar a cero se ilumina un laser de target a target.
+  Toda luna que toca el laser hace fee. El laser dura 1 segundo y desaparece.
+  Con un segundo de duracion ya mato bastantes lunas y me parece lo mejor que tengas que esperar al final de la cuenta regresiva para que se dispare porque asi das tiempo
+  a que se centre la camara.
+  El laser es un Edge Collider 2D agregado en el Circle (o en otro objeto nuevo) del target por ejemplo y esta desactivado. El poder al ser agarrado activa el Edge 
+  Collider 2D del nextTarget (no del currentTarget!). Para crear el Edge Collider 2D (desactivado en cada Circle) hacerlo asi:
+  TargetController.PublicInit
+  ...
+        EdgeCollider2D ec = GetComponentInChildren<EdgeCollider2D>();
+        Vector2[] points = ec.points;
+        points[0] = Vector2.zero;
+        Vector3 resta = pole - (Vector2) transform.position;
+        points[1] = new Vector2(resta.x, resta.y);
+        ec.points = points;
+  ...
+  En este video lo explican perfecto: https://www.youtube.com/watch?v=omp74QofhEE&t=193s
+  La layer de Circle (o del objeto con el Edge Collider 2D que sea) debe ser Hurt (asi choca con la luna Hit).
+  ATENCION: Aca el Edge choca con el player y se rompe el juego. Hay algo en el codigo que asume que al chocar el player con el Edge es un Success. 
+  Hay que descubrilo bien, para probar puse que el Edge tuviera layer Water y una luna (samll yellow) layer Water y que ambas puedan chocar en Physics 2d.
+  Para ver el Edge Collider 2D en tiempo de ejecucion, seleccionar el circle y darle al boton "Edit Collider" del componente Edge Collider 2D.
+  Voy a necesitar un Line Renderer nuevo (el laser). Para verlo en diseno, agregarle 2 puntos cualesquiera momentaneamente.
+  El efecto, sumado a los audios puede estar bueno o mas o menos.
+  OBSERVACION: El poder blue es un antipoder. La contra que tiene es que el jugador al ver desde antes el regalito azul ya sabe que esta condenado.
+  Se me ocurren 2 cosas, que el antipoder no tenga regalito azul, sino regalito color random o que el antipoder algunas veces te perdone la vida o te premie.
+  No se me ocurre aun un premio.
+- Se puede hacer un poder que cuando agarra un regalo, sale disparada una bomba roja lenta hasta el prox challenge. 
+  Explota al tocar una luna o tal vez al llegar al centro del proximo challenge. Puedo tirar en fila 1 bomba, 2 o 3. Este poder se puede comprar.
+- Se puede hacer un poder que pinte al player de rosado por ejemplo, y asi es inmune a las lunas rosadas. Igual viendo los challenges y la variacion de color que
+  hay, capaz no es buena idea.
+- Poner avisos pagos para comprar poderes
+- Podria poner dos challenges muy cerca, de manera que las lunas de uno molesten para llegar al target del otro.
+  El jugador deberia calcular el momento exacto para entrar a un challenge y de inmediato entrar al otro para no perder.
+  Rompe un poco la mecanica del juego y no quiero andar pensando interacciones complejas. Pero puede ser una idea.
+- Publicar mi juego en la store de apple.
+- No me anduvo GPGS y ADMob para version web asi que lo deshabilite.
+- Para la version Web y para la version IOS deberia hacer algo con el boton de la pantalla principal (gpgs). Tal vez sustituirlo por otra cosa.
+  Solo se me ocurre sustituirlo por un help (describiendo los poderes) o una historia contada por un locutor tipo wipethemout!. 
+  Tambien podria sustituirlo por un boton exit, un boton de facebook (que te lleve a la pagina del juego), un boton que te quite los avisos a cambio de caramelos
+  o te muestre una ruleta en donde podes apostar caramelos una vez al dia para quitar los avisos (si tenes suerte).
+  En IOS el servicio de juegos se llama "Game Center". 
+- Se puede poner un aviso rewarded para dar un poder random en la pantalla de shop.
+- Tengo unos lindos sombreros bajados del AssetSotre en C:\Alvaro\Develop\Android\20200816\Assets\Tienda\AssetStore.
+  Podria hacer que bajo cierta circunstancia ganes un sombrero nuevo. Ganarlo significa que te aparece de la nada en la cabeza y seguis jugando con el hasta que
+  vuelvas al menu principal. Ese sombrero luego queda disponible en la lista de sombreros del menu principal para que elijas con cual jugar (o si no queres jugar con
+  ninguno). La corona es el sombrero oculto.
+  Creo que la condicion podria ser: jugar por mas de x tiempo. El tiempo de entrada al juego se puede guardar al iniciarse un singleton cualquiera de los existentes (o
+  uno hecho para este fin). En cada success controlo el tiempo y si paso mas de x segundos ganaste sombrero.
+- Se puede agregar en settings una configuracion llamada "Power up (ON/OFF)" que permita jugar sin power ups o con power ups. Internamente tiene el mismo efecto
+  que GlobalConstants.ENABLE_POWERLESS.
+- Me sugirieron que para no hacer el juego tan facil, puedo ponerle vidas y cuando se acaben las vidas hacer esperar al jugador 10 minutos para volver a jugar.
+  O puedo poner publicidad que si la ves te doy alguna vida. Candy Crush hacia eso, invitando gente para tener vidas. Capaz podria invitar gente por whats.
+- Me sugirieron que no de tantos saltos en el poder naranja, porque te pasas el juego como si nada. Hoy en dia da de 1 a 6 saltos, capaz conviene poner 1 a 2 o 3.
+- Como el juego quedo medio facil en general por la dificultad, deberia poner otras trabas como antipoderes varios. La penalizacion seria que no avance.
+  Un antipoder seria hacerlo morir y enganchar en un nivel inferior.
+
+-------------------------------------- PROXIMOS PASOS
+- Hacer profiling para detectar donde puede estar el cuello de botella.
+- Capaz los audios de yupi me conviene hacerlos mas fuerte.
+- El paralaje se sigue cortando al morir BUG.
+- Cuando este terminado publicar en amazon, playstore, itchio (tambien version windows y ponerle un icono), enviar Alva Mayo
+  (https://docs.google.com/forms/d/e/1FAIpQLSfEncnJ56EHWoMQLLOiI7Q05HjBfVvvdvj2U6eed8oU3273mA/viewform). Capaz se puede usar el portal de Unity que publica
+  el juego en varias appsotres secundarias como la de Galaxy. Subirlo a GitHub.
+ - Ver por que las flee se disparan
+ - Podria hacer niveles nuevos con refritos.
+
+-------------------------------------- BUGS RAROS DE UNITY
+- The render used by this camera doesnt support camera staking (cuando entro a la camara, aunque ahora creo no pasa)
+- Las SOMBRAS tiran abajo la performance con el tiempo. No encontre solucion mas que la nota 44.
+- AdMob me genera 25 warnings que no logro sacar.
+- Si tengo un prefab abierto en el inspector y doy play, generalmente aparecen errores de mi codigo (sin razon) ya sea inmediatamente o durante el juego.
+  No siempre pasa.
+- Los botones toggle a veces cambian de estado sin hacer la animacion de hundimiento.
+
+-------------------------------------- BUGS MIOS
+- Al perder, las nubes chicas hacen un salto.
+   Lo que hice fue en ParallaxInfiniteScroll poner > en lugar >=. Luego en ParallaxJustMove use en metodo Update en lugar
+   de LateUpdate.  Se sigue cortando al perder, incluso las montanas saltan un poco al final de la caida del player.
+   No tengo solucion. Al final le deje >= y el metodo LateUpdate.
+- Se entrecorta un poco al cargar Challenge_pesado (54 lunas). Igual esto fue una prueba de estres.
+- Si el siguiente target es un level, algunos poderes se desperdician. Si quiero corregir el poder verde, 
+  creo que es el metodo _challengeManager.SlowDown(); de StatePowerGreen() que deberia devolver un booleano (si lo aplico o no). Luego usar ese 
+  booleano en CheckGreenPower() para saber si hay que decrementar o no (y resetearlo al booleano nuevamente). Muy entreverado, no vi otra manera.
+  Igual no me parece tan mal que el juego sea asi, es parte del handicap.
+- El poder verde disminuye un 40% la velocidad y la aceleracion. Eso a veces hace que el giro sea muy cortito tapado la ventana.
+  Modifique en igual proporcion (SLOW_DOWN_SCALE) los tiempos de swing y pausa. No he notado que se tape la ventana desde esa modificacion. 
+- Cuando la musica esta disable y entro al juego por primera vez y voy a la GameScene, se escucha un segundo la musica y luego se apaga.
+  Pasa algo parecido cuando estando en GameScene, voy a pausa y rapidamente desactivo musica y SFX cerrando la pausa bien rapido.
+- Los botones toggle a veces cambian de estado sin hacer la animacion de hundimiento. Para mi es un bug de Unity.
+- Yo creo que mis problemas de performance del juego en su totalidad son por no ser las texturas multiplos de potencia de 2. 
+  Es ineficiente con las sombras ademas eso. Tambien es un gran problema la enorme cantidad de objetos que hay, por eso disminui el tamano del pool de objetos.
+- Es realmente desesperante el problema de la superposicion de ventanas (exit, shop, pause, etc.) y el boton back y el touch y todo eso. No usar nunca mas
+  botones con retraso. Por ejemplo lo que pasaba y solucione: Si haces fling tocando primero el boton back y luego la pantalla, el player avanza y sale la pantalla
+  de exit. Si resulta que el player se estrella, podes apretar rapido el exit y lo matas 2 veces. O tambien podes esperar a que termine de morir y luego apretas exit. 
+  En ese ultimo caso lo vuelve a matar al player muerto y comienza a caer infinitamente. Si esperas un rato y luego das reload, el player tiene que recorrer una distancia
+  enorme para volver al juego y la camara se va una distancia enorme hacia arriba. O sea, es un gran bug. Creo quedo solucionado usando _gameManager.IsProcessInput.
+  Tambien habia otro problema que consistia en apretar el boton shop y luego inmediatamente la pantalla. El player avanza y si se estrella muere, con la ventana de shop
+  en primer plano. Podes comprar poderes con el player muerto. Creo lo solucione de igual manera.
+- No me gusta que arranque el juego y se vea el fondo unos segundos y luego arranque la animacion del menu principal. No logro definir que animacion hacer o
+  como solucionar eso un poco.
+- Creo que en IOS no existe el boton BACK como en Android y PC (Cancel de Unity)
+- En mi juego, jugando con ENABLE_CHEAT_MODE = true y dando touches constantes, me ha pasado que agarro el poder rojo y el player deja de responder al touch 
+  quedandose quieto en el centro del Target. La camara no queda centrada donde debe, es decir, tambien se detuvo el movimiento de camara. 
+  El juego sigue funcionando como si nada, el Hud funciona, pero el player se queda en su challenge y no avanza mas al hacer touch (sigue animado ademas).
+  El boton back del celular tampoco responde (lo que indicaria que el _currentState del player no es IDLE).
+  Mirando el log veo el error: "Look rotation viewing vector is zero". Ese error es disparado por Quaternion.LookRotation(...) al pasarle un vector cero (Ver nota 5).
+  Si compro un poder en la tienda, activa el poder y las particulas, pero el player no se mueve. En el caso de comprar un poder amarillo, no lo reduce de tamano.
+
+  Causa:
+  Lo que sucede es lo que se detalla a continuacion que fue extraido del log:
+  Supongamos que tenemos una luna muy muy cerquita del TARGET (o que ambos superponen sus colliders)
+  El player viene con estado JUMP_FORWARD, poder RED y choca contra un target/moon al mismo tiempo. 
+  Se ejecuta PlayerController.Success y el player pasa a estado IDLE, currentTarget es EXACTAMENTE en donde esta parado.
+  Luego, se dispara PlayerHurt.OnTriggerEnter2D() porque choco con una luna y se ejecuta PlayerHealth.MoonCollision().
+  Como tiene el poder rojo y el player choco con una luna ejecuta playerController.AimBackward().
+  AimBackward decrementa escudos y queda con estado AIM_BACKWARD.
+  En el siguiente frame se ejecuta PlayerController.StateAimBackward()
+  Ahi hace un lookAt(current_target) que es EXACTAMENTE donde esta parado y eso genera el error: "Look rotation viewing vector is zero".
+  Observacion: En versiones nuevas de Unity al parecer ya no tira ese texto sino que simplemente no hace nada.
+
+  Solucion:
+  El Player tiene los siguientes estados: 
+    private enum State
+    {
+        IDLE,
+        AIM_FORWARD,
+        AIM_BACKWARD,
+        JUMP_FORWARD,
+        JUMP_BACKWARD,
+        DEAD,
+        FALL,
+        DISPOSE
+    }
+
+	Lamentablemente, estando dentro de un Target el Player puede estar en estado IDLE, AIM_FORWARD y JUMP_FORWARD.
+	Lo que se me ocurrio fue considerar que el Player esta vulnerable cuando esta en estado JUMP_FORWARD y ademas salio del collider del Target.
+	A partir de ese momento es cuando el Player puede chocarse con lo que sea (caramelos, lunas, poderes o incluso otro target).
+	Ver nota 45 ademas.
+	Es decir, a partir de ese momento es cuando proceso cualquier colision en el juego (ver PlayerHeath que es donde se centralizan TODAS las colisiones).
+
+	En el caso del poder rojo, si el player esta vulnerable y resulta que choca contra una luna, inmediatamente cambia de estado (AIM_BACKWARD) por lo 
+	que deja de	estar vulnerable. Para poder llegar al _currentTarget, el Player debe seguir ejecutando varios frames mas hasta cambiar de estado a JUMP_BACKWARD.
+	Entonces en el caso de colision con un target, la procesamos segun esta condicion: IsPlayerVulnerable(playerController) || playerController.IsJumpBackward().
+- Jugando con ENABLE_CHEAT_MODE = true y dando touches constantes, a veces me parece que algunos Flee salen disparados. Tambien me parece ver que ciertas
+  lunas aparecen de golpe a una velocidad rara. No estoy seguro.
+  Por lo que veo, las lunas se colocan en orbita chiquitas y luego cuando comienzan el swing se vuelven grandes de golpe.
+  Cosas que revise:
+	- FleeConfig siempre esta bien definido en todos los archivos .json
+	- El poder verde modifica velocidades, al parecer no tiene nada que ver con esto
+- Si tengo un poder que tiene audio (por ejemplo el rojo que hace ruido de electricidad o el verde que hace tic-tac), al morir (ya sea por chocar o por apretar
+  escape), el juego hace una pausa. Luego cuando el player comienza a caer se escucha un resto de audio del poder. Eso se debe al playOneShot. La pausa lo detuvo, 
+  el codigo detiene la coroutina del poder, pero la ejecucion del playOneShot se retoma con el cachito de audio que quedo en pausa. No se puede detener eso.
+  https://stackoverflow.com/questions/45218413/how-to-stop-an-audio-when-playoneshot-is-used
+- En version Web, si recien cargas el juego y entras a ver los niveles, los paneles estan mal calculados. Si jugas aunque sea una vez (aunque no avances de nivel)
+  y volves a ver el panel de niveles, estan todos bien ubicados.
+  Para mi la primerisima vez que entras, no se ejecuta el singleton GameMap.GetInstance().LoadMap(); en el Awake() de MainMenu.

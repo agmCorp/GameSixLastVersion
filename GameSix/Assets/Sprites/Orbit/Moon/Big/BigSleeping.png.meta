@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: ada576cba37a41141912006fa0e78dca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8846697868342515786
+    second: BigSleeping_0
+  - first:
+      213: 7776632285041594337
+    second: BigSleeping_1
+  - first:
+      213: -1605177930221688749
+    second: BigSleeping_2
+  - first:
+      213: 6388244721346961608
+    second: BigSleeping_3
+  - first:
+      213: -6476534375390291898
+    second: BigSleeping_4
+  - first:
+      213: 6834138217376668866
+    second: BigSleeping_5
+  - first:
+      213: -711500901942326092
+    second: BigSleeping_6
+  - first:
+      213: 4392436811509970580
+    second: BigSleeping_7
+  - first:
+      213: -6655842729410051867
+    second: BigSleeping_8
+  - first:
+      213: -7199500252673100828
+    second: BigSleeping_9
+  - first:
+      213: 280390277093764279
+    second: BigSleeping_10
+  - first:
+      213: 4042136118841406024
+    second: BigSleeping_11
+  - first:
+      213: 4044675322368877625
+    second: BigSleeping_12
+  - first:
+      213: 3214227872740407158
+    second: BigSleeping_13
+  - first:
+      213: -179208619976038769
+    second: BigSleeping_14
+  - first:
+      213: -5664275692707846023
+    second: BigSleeping_15
+  - first:
+      213: -8739477884785504064
+    second: BigSleeping_16
+  - first:
+      213: -5803962628115995181
+    second: BigSleeping_17
+  - first:
+      213: -3480235194707091517
+    second: BigSleeping_18
+  - first:
+      213: -4003564671258279017
+    second: BigSleeping_19
+  - first:
+      213: 3221673283674741322
+    second: BigSleeping_20
+  - first:
+      213: -2209640833228626500
+    second: BigSleeping_21
+  - first:
+      213: -837144017386190335
+    second: BigSleeping_22
+  - first:
+      213: 1308114279960528749
+    second: BigSleeping_23
+  - first:
+      213: -4508159210507413002
+    second: BigSleeping_24
+  - first:
+      213: 3502792470007553027
+    second: BigSleeping_25
+  - first:
+      213: 2407357232581204517
+    second: BigSleeping_26
+  - first:
+      213: -3804285620986298825
+    second: BigSleeping_27
+  - first:
+      213: -4260728608437926766
+    second: BigSleeping_28
+  - first:
+      213: 5794126289190390937
+    second: BigSleeping_29
+  - first:
+      213: 4536564793853631330
+    second: BigSleeping_30
+  - first:
+      213: -3218274573951270001
+    second: BigSleeping_31
+  - first:
+      213: 3175480092746147393
+    second: BigSleeping_32
+  - first:
+      213: 1156259444367429603
+    second: BigSleeping_33
+  - first:
+      213: -4155411078508206231
+    second: BigSleeping_34
+  - first:
+      213: 4065277681801666660
+    second: BigSleeping_35
+  - first:
+      213: -464070758521989472
+    second: BigSleeping_36
+  - first:
+      213: 8115070897488350320
+    second: BigSleeping_37
+  - first:
+      213: -6151435835971060896
+    second: BigSleeping_38
+  - first:
+      213: -5532559157353030425
+    second: BigSleeping_39
+  - first:
+      213: -3075942783053485976
+    second: BigSleeping_40
+  - first:
+      213: 4675360895946470856
+    second: BigSleeping_41
+  - first:
+      213: -2476796751617906294
+    second: BigSleeping_42
+  - first:
+      213: 464463426416647257
+    second: BigSleeping_43
+  - first:
+      213: 8745977466905390714
+    second: BigSleeping_44
+  - first:
+      213: 447534122963988518
+    second: BigSleeping_45
+  - first:
+      213: -7129758067897999259
+    second: BigSleeping_46
+  - first:
+      213: 4927222000614909863
+    second: BigSleeping_47
+  - first:
+      213: -2040924183889258912
+    second: BigSleeping_48
+  - first:
+      213: -5289834960939044728
+    second: BigSleeping_49
+  - first:
+      213: 4484291076696546974
+    second: BigSleeping_50
+  - first:
+      213: 4525574063859147589
+    second: BigSleeping_51
+  - first:
+      213: 3713020506327684670
+    second: BigSleeping_52
+  - first:
+      213: -1339656336514471501
+    second: BigSleeping_53
+  - first:
+      213: -8613526195393361838
+    second: BigSleeping_54
+  - first:
+      213: -8090127693931539704
+    second: BigSleeping_55
+  - first:
+      213: -1692976407593814512
+    second: BigSleeping_56
+  - first:
+      213: 2393277899731647401
+    second: BigSleeping_57
+  - first:
+      213: 5147206527914681056
+    second: BigSleeping_58
+  - first:
+      213: -3014480444624328489
+    second: BigSleeping_59
+  - first:
+      213: 8367427666144783777
+    second: BigSleeping_0
+  - first:
+      213: -6627735852012686930
+    second: BigSleeping_1
+  - first:
+      213: -498871926743430250
+    second: BigSleeping_2
+  - first:
+      213: 6078468897548374149
+    second: BigSleeping_3
+  - first:
+      213: 2078540072628659955
+    second: BigSleeping_4
+  - first:
+      213: -8218415211610378689
+    second: BigSleeping_5
+  - first:
+      213: 2949310550634246261
+    second: BigSleeping_6
+  - first:
+      213: -1920830906358207165
+    second: BigSleeping_7
+  - first:
+      213: -8453997641417563009
+    second: BigSleeping_8
+  - first:
+      213: 6110317141684498111
+    second: BigSleeping_9
+  - first:
+      213: -896356079244271037
+    second: BigSleeping_10
+  - first:
+      213: -7686635239441379224
+    second: BigSleeping_11
+  - first:
+      213: -6497348320939743772
+    second: BigSleeping_12
+  - first:
+      213: 2575612806049047104
+    second: BigSleeping_13
+  - first:
+      213: -4363425775850043713
+    second: BigSleeping_14
+  - first:
+      213: 8071291214084230302
+    second: BigSleeping_15
+  - first:
+      213: -3723100307652676232
+    second: BigSleeping_16
+  - first:
+      213: -769282443406948247
+    second: BigSleeping_17
+  - first:
+      213: -3083880101580731424
+    second: BigSleeping_18
+  - first:
+      213: -1479418746906523151
+    second: BigSleeping_19
+  - first:
+      213: 4799432482558986308
+    second: BigSleeping_20
+  - first:
+      213: 6191147452797208771
+    second: BigSleeping_21
+  - first:
+      213: 5917152161787721516
+    second: BigSleeping_22
+  - first:
+      213: 8200874885733465205
+    second: BigSleeping_23
+  - first:
+      213: 2006629974868892379
+    second: BigSleeping_24
+  - first:
+      213: -1397480734098846723
+    second: BigSleeping_25
+  - first:
+      213: -4595914369116226760
+    second: BigSleeping_26
+  - first:
+      213: 5871270610994868017
+    second: BigSleeping_27
+  - first:
+      213: -4691901227830729779
+    second: BigSleeping_28
+  - first:
+      213: -2041962463113352153
+    second: BigSleeping_29
+  - first:
+      213: 7572218837235350996
+    second: BigSleeping_30
+  - first:
+      213: 2469798662768681000
+    second: BigSleeping_31
+  - first:
+      213: -8591148670694068436
+    second: BigSleeping_32
+  - first:
+      213: 265871272418308445
+    second: BigSleeping_33
+  - first:
+      213: 6588085704876709496
+    second: BigSleeping_34
+  - first:
+      213: 8313578892661356837
+    second: BigSleeping_35
+  - first:
+      213: -3742432550969648319
+    second: BigSleeping_36
+  - first:
+      213: 6969958500650738873
+    second: BigSleeping_37
+  - first:
+      213: -37196383173992493
+    second: BigSleeping_38
+  - first:
+      213: 5892042843486647728
+    second: BigSleeping_39
+  - first:
+      213: 5013715735242306622
+    second: BigSleeping_40
+  - first:
+      213: 9197421056323492494
+    second: BigSleeping_41
+  - first:
+      213: -8925274556032658730
+    second: BigSleeping_42
+  - first:
+      213: -8177879114168575731
+    second: BigSleeping_43
+  - first:
+      213: 3949084413673848843
+    second: BigSleeping_44
+  - first:
+      213: 7165031250839017297
+    second: BigSleeping_45
+  - first:
+      213: -1033835386027810361
+    second: BigSleeping_46
+  - first:
+      213: -4266776040259661666
+    second: BigSleeping_47
+  - first:
+      213: 5496601983205424049
+    second: BigSleeping_48
+  - first:
+      213: -3084942755381484730
+    second: BigSleeping_49
+  - first:
+      213: 2545198216672597188
+    second: BigSleeping_50
+  - first:
+      213: 4433198640813769874
+    second: BigSleeping_51
+  - first:
+      213: 276042359781607006
+    second: BigSleeping_52
+  - first:
+      213: 3922446760021239573
+    second: BigSleeping_53
+  - first:
+      213: -4154252723389082001
+    second: BigSleeping_54
+  - first:
+      213: -2341594563553030123
+    second: BigSleeping_55
+  - first:
+      213: 7413302732013146585
+    second: BigSleeping_56
+  - first:
+      213: 3658453433011901050
+    second: BigSleeping_57
+  - first:
+      213: 1274720459513449166
+    second: BigSleeping_58
+  - first:
+      213: 1792075039809725312
+    second: BigSleeping_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigSleeping_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 606
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade55c31231f1470800000000000000
+      internalID: 8367427666144783777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 605
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1b9ab9b5d8504a0800000000000000
+      internalID: -6627735852012686930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 604
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0b0230a6a319f0800000000000000
+      internalID: -498871926743430250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 603
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58091a8d14f0b5450800000000000000
+      internalID: 6078468897548374149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 606
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f62278fe2578dc10800000000000000
+      internalID: 2078540072628659955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_5
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 606
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eeb4778e252fd80800000000000000
+      internalID: -8218415211610378689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 603
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570bdd6d15e0ee820800000000000000
+      internalID: 2949310550634246261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 604
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6de8b776d755e0800000000000000
+      internalID: -1920830906358207165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 605
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e053bfed5daa80800000000000000
+      internalID: -8453997641417563009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_9
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 606
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbea51701153cc450800000000000000
+      internalID: 6110317141684498111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 490
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342226025e08f83f0800000000000000
+      internalID: -896356079244271037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 489
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860d81ba9f5935590800000000000000
+      internalID: -7686635239441379224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 488
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e7646028c4d5a0800000000000000
+      internalID: -6497348320939743772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 487
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042208f633a6eb320800000000000000
+      internalID: 2575612806049047104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 490
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6cca2106ff173c0800000000000000
+      internalID: -4363425775850043713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_15
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 490
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cc83e789cf20070800000000000000
+      internalID: 8071291214084230302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 487
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f63bfef3e45cc0800000000000000
+      internalID: -3723100307652676232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 488
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c8cc81b5f255f0800000000000000
+      internalID: -769282443406948247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 489
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb826ff26bd335d0800000000000000
+      internalID: -3083880101580731424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_19
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 490
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9459cec7c087be0800000000000000
+      internalID: -1479418746906523151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44846661a620b9240800000000000000
+      internalID: 4799432482558986308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 367
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ca046ecf5be550800000000000000
+      internalID: 6191147452797208771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 366
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27ba4d6a82fd1250800000000000000
+      internalID: 5917152161787721516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_23
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 366
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cb09b224c5fc170800000000000000
+      internalID: 8200874885733465205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 368
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda16bf945bf8db10800000000000000
+      internalID: 2006629974868892379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_25
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 368
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb069f2da62b9ce0800000000000000
+      internalID: -1397480734098846723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 366
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bb6b24b380830c0800000000000000
+      internalID: -4595914369116226760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_27
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 366
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f2a8c6381fa7150800000000000000
+      internalID: 5871270610994868017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_28
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 367
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32ee921b403eeb0800000000000000
+      internalID: -4691901227830729779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_29
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 368
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c627565fd79a3e0800000000000000
+      internalID: -2041962463113352153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 251
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd3fe2c9ece51960800000000000000
+      internalID: 7572218837235350996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 250
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ef095ccc764220800000000000000
+      internalID: 2469798662768681000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 249
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe5b64dcb16c880800000000000000
+      internalID: -8591148670694068436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_33
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 248
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51797c738090b300800000000000000
+      internalID: 265871272418308445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 251
+        width: 106
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876510d1b059d6b50800000000000000
+      internalID: 6588085704876709496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 251
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529f345a4f3cf5370800000000000000
+      internalID: 8313578892661356837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_36
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 248
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b58935c65301cc0800000000000000
+      internalID: -3742432550969648319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_37
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 249
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b46082f3544ab060800000000000000
+      internalID: 6969958500650738873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_38
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 250
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df1cf9261adb7ff0800000000000000
+      internalID: -37196383173992493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_39
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 251
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5776fafbdb4c150800000000000000
+      internalID: 5892042843486647728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 137
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3477ebb5eb449540800000000000000
+      internalID: 5013715735242306622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a1cdf78bdc3af70800000000000000
+      internalID: 9197421056323492494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 135
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d257d4541e032480800000000000000
+      internalID: -8925274556032658730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 134
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0955ef1646528e80800000000000000
+      internalID: -8177879114168575731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 137
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00cf01e957fdc630800000000000000
+      internalID: 3949084413673848843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_45
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 137
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15715dee5fd4f6360800000000000000
+      internalID: 7165031250839017297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_46
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 134
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c16593a13417a1f0800000000000000
+      internalID: -1033835386027810361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_47
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90dc283ccd59c4c0800000000000000
+      internalID: -4266776040259661666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_48
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 136
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbbaa8a16ad74c40800000000000000
+      internalID: 5496601983205424049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_49
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 137
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6436211a8e41035d0800000000000000
+      internalID: -3084942755381484730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c45ab30b4c525320800000000000000
+      internalID: 2545198216672597188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294037cfca2e58d30800000000000000
+      internalID: 4433198640813769874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 16
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564ebd4013b4d300800000000000000
+      internalID: 276042359781607006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 15
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a275db845f6630800000000000000
+      internalID: 3922446760021239573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 18
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d13388212956c0800000000000000
+      internalID: -4154252723389082001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_55
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 18
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5109f67962cf08fd0800000000000000
+      internalID: -2341594563553030123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_56
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 15
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d19312be8751e660800000000000000
+      internalID: 7413302732013146585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_57
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 16
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a729bf5930075c230800000000000000
+      internalID: 3658453433011901050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 17
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac8311187b0b110800000000000000
+      internalID: 1274720459513449166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigSleeping_59
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 18
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e3bef0cabed810800000000000000
+      internalID: 1792075039809725312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

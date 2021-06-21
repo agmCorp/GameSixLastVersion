@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: fcff01ab93e6d8741a65738576d9579a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 849377169040135276
+    second: BigFainted_0
+  - first:
+      213: -1762669994176882991
+    second: BigFainted_1
+  - first:
+      213: 2638584942137829349
+    second: BigFainted_2
+  - first:
+      213: -8496272450933668602
+    second: BigFainted_3
+  - first:
+      213: -5607232401223871179
+    second: BigFainted_4
+  - first:
+      213: 843603415752364682
+    second: BigFainted_5
+  - first:
+      213: 1091420979930024494
+    second: BigFainted_6
+  - first:
+      213: -524240935630850676
+    second: BigFainted_7
+  - first:
+      213: -7193111330460076053
+    second: BigFainted_8
+  - first:
+      213: -3945745255867592336
+    second: BigFainted_9
+  - first:
+      213: -2675455160794823889
+    second: BigFainted_10
+  - first:
+      213: 9076774054824806401
+    second: BigFainted_11
+  - first:
+      213: -3904797765656744299
+    second: BigFainted_12
+  - first:
+      213: -6145250664136775432
+    second: BigFainted_13
+  - first:
+      213: 4674089173709560118
+    second: BigFainted_14
+  - first:
+      213: -4083620458704098578
+    second: BigFainted_15
+  - first:
+      213: 5321929790944878398
+    second: BigFainted_16
+  - first:
+      213: -2791828312170999801
+    second: BigFainted_17
+  - first:
+      213: 5005485582975448418
+    second: BigFainted_18
+  - first:
+      213: 7970785350435768834
+    second: BigFainted_19
+  - first:
+      213: -2191873647023246176
+    second: BigFainted_20
+  - first:
+      213: -3587724884505505785
+    second: BigFainted_21
+  - first:
+      213: 5930188220487207677
+    second: BigFainted_22
+  - first:
+      213: -4066177707954014944
+    second: BigFainted_23
+  - first:
+      213: -3271401951321247385
+    second: BigFainted_24
+  - first:
+      213: -7478534942015950049
+    second: BigFainted_25
+  - first:
+      213: 5822998097016675740
+    second: BigFainted_26
+  - first:
+      213: -4681223560156987804
+    second: BigFainted_27
+  - first:
+      213: -170556647581863246
+    second: BigFainted_28
+  - first:
+      213: -4571262555999615334
+    second: BigFainted_29
+  - first:
+      213: 697762534437157681
+    second: BigFainted_30
+  - first:
+      213: 6293659445830472256
+    second: BigFainted_31
+  - first:
+      213: 1618193802625834876
+    second: BigFainted_32
+  - first:
+      213: -8024691431819738954
+    second: BigFainted_33
+  - first:
+      213: 3807303499205456644
+    second: BigFainted_34
+  - first:
+      213: 2883649678940014053
+    second: BigFainted_35
+  - first:
+      213: 5713831102247852054
+    second: BigFainted_36
+  - first:
+      213: 1499273807145978824
+    second: BigFainted_37
+  - first:
+      213: 8477718225328393920
+    second: BigFainted_38
+  - first:
+      213: 1515840745836062678
+    second: BigFainted_39
+  - first:
+      213: 2391222370409452540
+    second: BigFainted_40
+  - first:
+      213: -9156110984872915069
+    second: BigFainted_41
+  - first:
+      213: -749037103081172253
+    second: BigFainted_42
+  - first:
+      213: -5730587789272834933
+    second: BigFainted_43
+  - first:
+      213: -1736776541362515601
+    second: BigFainted_44
+  - first:
+      213: -5095367850983773223
+    second: BigFainted_45
+  - first:
+      213: -7876154990594088729
+    second: BigFainted_46
+  - first:
+      213: 3885518018597014110
+    second: BigFainted_47
+  - first:
+      213: -3050938732308625886
+    second: BigFainted_48
+  - first:
+      213: -1549494190694283420
+    second: BigFainted_49
+  - first:
+      213: 8596554751551332981
+    second: BigFainted_50
+  - first:
+      213: 5338564693222629429
+    second: BigFainted_51
+  - first:
+      213: -3107033027491413586
+    second: BigFainted_52
+  - first:
+      213: -1304143479411044991
+    second: BigFainted_53
+  - first:
+      213: 3973731837113224170
+    second: BigFainted_54
+  - first:
+      213: 1034506935138555248
+    second: BigFainted_55
+  - first:
+      213: -6407797513301618319
+    second: BigFainted_56
+  - first:
+      213: 3848621481127916404
+    second: BigFainted_57
+  - first:
+      213: -5227649104080595941
+    second: BigFainted_58
+  - first:
+      213: 5254829908863566861
+    second: BigFainted_59
+  - first:
+      213: -3175631085943743119
+    second: BigFainted_0
+  - first:
+      213: -928757058727108044
+    second: BigFainted_1
+  - first:
+      213: 4712955087003415542
+    second: BigFainted_2
+  - first:
+      213: -5138457161400801458
+    second: BigFainted_3
+  - first:
+      213: -7651104495345257706
+    second: BigFainted_4
+  - first:
+      213: 4235347614084395494
+    second: BigFainted_5
+  - first:
+      213: -2993863921853066790
+    second: BigFainted_6
+  - first:
+      213: 6680161400106610423
+    second: BigFainted_7
+  - first:
+      213: -9072882593387567913
+    second: BigFainted_8
+  - first:
+      213: -1708542535800666923
+    second: BigFainted_9
+  - first:
+      213: 4043700417284468385
+    second: BigFainted_10
+  - first:
+      213: -823590881915722028
+    second: BigFainted_11
+  - first:
+      213: -8804965173231793403
+    second: BigFainted_12
+  - first:
+      213: 8264821652080248192
+    second: BigFainted_13
+  - first:
+      213: 489828378153713950
+    second: BigFainted_14
+  - first:
+      213: -6591063898155723835
+    second: BigFainted_15
+  - first:
+      213: -2563295002047408275
+    second: BigFainted_16
+  - first:
+      213: -8267308228413411952
+    second: BigFainted_17
+  - first:
+      213: -2602532925189252327
+    second: BigFainted_18
+  - first:
+      213: -3722918448888725051
+    second: BigFainted_19
+  - first:
+      213: -1804369952747907688
+    second: BigFainted_20
+  - first:
+      213: -2186206382238610602
+    second: BigFainted_21
+  - first:
+      213: -3063846123317396098
+    second: BigFainted_22
+  - first:
+      213: 7071849126318617573
+    second: BigFainted_23
+  - first:
+      213: 2825451051872055194
+    second: BigFainted_24
+  - first:
+      213: 8359706653523307501
+    second: BigFainted_25
+  - first:
+      213: 6129733067008376453
+    second: BigFainted_26
+  - first:
+      213: -1932141714504949949
+    second: BigFainted_27
+  - first:
+      213: -5069089027372372721
+    second: BigFainted_28
+  - first:
+      213: -9200277253974421623
+    second: BigFainted_29
+  - first:
+      213: 5165891973127461542
+    second: BigFainted_30
+  - first:
+      213: 4355921047879749601
+    second: BigFainted_31
+  - first:
+      213: 635842827971261995
+    second: BigFainted_32
+  - first:
+      213: -7358290649070794235
+    second: BigFainted_33
+  - first:
+      213: 2573042159149951182
+    second: BigFainted_34
+  - first:
+      213: -859854279800725790
+    second: BigFainted_35
+  - first:
+      213: 3210411293263172978
+    second: BigFainted_36
+  - first:
+      213: -1296008848782391086
+    second: BigFainted_37
+  - first:
+      213: 2539109943003188756
+    second: BigFainted_38
+  - first:
+      213: 3622414409325178480
+    second: BigFainted_39
+  - first:
+      213: -3935126829306080515
+    second: BigFainted_40
+  - first:
+      213: 8971223652551624588
+    second: BigFainted_41
+  - first:
+      213: -816953874153702119
+    second: BigFainted_42
+  - first:
+      213: 4607242235592480056
+    second: BigFainted_43
+  - first:
+      213: -4919188258601028281
+    second: BigFainted_44
+  - first:
+      213: 4321701145370831534
+    second: BigFainted_45
+  - first:
+      213: 2892245789768978350
+    second: BigFainted_46
+  - first:
+      213: -8057376215148352303
+    second: BigFainted_47
+  - first:
+      213: -3861860737248437319
+    second: BigFainted_48
+  - first:
+      213: -2767511088052022484
+    second: BigFainted_49
+  - first:
+      213: 1024509931408511018
+    second: BigFainted_50
+  - first:
+      213: 1796386558521066963
+    second: BigFainted_51
+  - first:
+      213: 1569335053386966942
+    second: BigFainted_52
+  - first:
+      213: -4711338028647768013
+    second: BigFainted_53
+  - first:
+      213: -5503137604104404293
+    second: BigFainted_54
+  - first:
+      213: 7638842482924325921
+    second: BigFainted_55
+  - first:
+      213: 2109186909173793349
+    second: BigFainted_56
+  - first:
+      213: -7718590470589409852
+    second: BigFainted_57
+  - first:
+      213: 7615749688547647871
+    second: BigFainted_58
+  - first:
+      213: -5563650397318029423
+    second: BigFainted_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigFainted_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 555
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d92a04a54ede3d0800000000000000
+      internalID: -3175631085943743119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 555
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4322fe730646c13f0800000000000000
+      internalID: -928757058727108044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 554
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3753b6ea7c76140800000000000000
+      internalID: 4712955087003415542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 554
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a429bf6880b8b0800000000000000
+      internalID: -5138457161400801458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 555
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6133d8faff0d1d590800000000000000
+      internalID: -7651104495345257706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_5
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 555
+        width: 111
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e17cc5173af6ca30800000000000000
+      internalID: 4235347614084395494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_6
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 555
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1171010a8a376d0800000000000000
+      internalID: -2993863921853066790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 554
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe61af7663b4bc50800000000000000
+      internalID: 6680161400106610423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_8
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 554
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42f4cf955a61280800000000000000
+      internalID: -9072882593387567913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_9
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 555
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4c4fdad990a48e0800000000000000
+      internalID: -1708542535800666923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 449
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aee656ea1c1e1830800000000000000
+      internalID: 4043700417284468385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 449
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6a92bd4740294f0800000000000000
+      internalID: -823590881915722028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 449
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b45dd53da7ec580800000000000000
+      internalID: -8804965173231793403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 449
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0854330f08b82b270800000000000000
+      internalID: 8264821652080248192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 449
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1102c090583cc600800000000000000
+      internalID: 489828378153713950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 449
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d68a3e46d784a0800000000000000
+      internalID: -6591063898155723835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_16
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 449
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671e6cc6c85d6cd0800000000000000
+      internalID: -2563295002047408275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 449
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d21c4e7fe944d80800000000000000
+      internalID: -8267308228413411952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_18
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 449
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b16d5e712f1ebd0800000000000000
+      internalID: -2602532925189252327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_19
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 449
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c14d364569855cc0800000000000000
+      internalID: -3722918448888725051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 338
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8959213861795f6e0800000000000000
+      internalID: -1804369952747907688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 338
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bc9fcd0e809a1e0800000000000000
+      internalID: -2186206382238610602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 338
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d753d0f280b75d0800000000000000
+      internalID: -3063846123317396098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 338
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3b067ef41442260800000000000000
+      internalID: 7071849126318617573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 338
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f661503c4063720800000000000000
+      internalID: 2825451051872055194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 338
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe9b5e8e4a30470800000000000000
+      internalID: 8359706653523307501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_26
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 338
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58efffa6fbf211550800000000000000
+      internalID: 6129733067008376453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_27
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 338
+        width: 107
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd73bf857af25e0800000000000000
+      internalID: -1932141714504949949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_28
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 338
+        width: 105
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da3a4036af6a9b0800000000000000
+      internalID: -5069089027372372721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_29
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 338
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8fb9259c025080800000000000000
+      internalID: -9200277253974421623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 232
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aadd46216fe0b740800000000000000
+      internalID: 5165891973127461542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 232
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef05884d17537c30800000000000000
+      internalID: 4355921047879749601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 232
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f436eea7f2d800800000000000000
+      internalID: 635842827971261995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_33
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 232
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a8e0cf3a912e990800000000000000
+      internalID: -7358290649070794235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_34
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 232
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ac30163845b320800000000000000
+      internalID: 2573042159149951182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_35
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 232
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eed0e5961f2114f0800000000000000
+      internalID: -859854279800725790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_36
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 232
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2759addcf0cad8c20800000000000000
+      internalID: 3210411293263172978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_37
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 232
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8009e81d6a30ee0800000000000000
+      internalID: -1296008848782391086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_38
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 232
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0e565a0bbc3320800000000000000
+      internalID: 2539109943003188756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_39
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 232
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e651186b6654230800000000000000
+      internalID: 3622414409325178480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 128
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df21a197ffe9369c0800000000000000
+      internalID: -3935126829306080515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870ce26160308c70800000000000000
+      internalID: 8971223652551624588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 128
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d7035a7c899a4f0800000000000000
+      internalID: -816953874153702119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 128
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8359aae276630ff30800000000000000
+      internalID: 4607242235592480056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_44
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 128
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74530de77588bbbb0800000000000000
+      internalID: -4919188258601028281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 128
+        width: 115
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa2a3b5b44c9fb30800000000000000
+      internalID: 4321701145370831534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_46
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8c46d832532820800000000000000
+      internalID: 2892245789768978350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_47
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 128
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca66aa5037e2090800000000000000
+      internalID: -8057376215148352303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_48
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 128
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5748de1ae76ac0800000000000000
+      internalID: -3861860737248437319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_49
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 128
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2354bc0453d799d0800000000000000
+      internalID: -2767511088052022484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 20
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d672ca5ac73e00800000000000000
+      internalID: 1024509931408511018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 20
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d54febae0c0ee810800000000000000
+      internalID: 1796386558521066963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 20
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97e2b69ae567c510800000000000000
+      internalID: 1569335053386966942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_53
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 20
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33029a15607fd9eb0800000000000000
+      internalID: -4711338028647768013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_54
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 20
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24345818de0a3b0800000000000000
+      internalID: -5503137604104404293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_55
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 20
+        width: 111
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c0ed114ce920a60800000000000000
+      internalID: 7638842482924325921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 20
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5424536a156554d10800000000000000
+      internalID: 2109186909173793349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_57
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 20
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c59dc1acde02e490800000000000000
+      internalID: -7718590470589409852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_58
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 20
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ac24edf390b960800000000000000
+      internalID: 7615749688547647871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigFainted_59
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 20
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fd56de071f9c2b0800000000000000
+      internalID: -5563650397318029423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

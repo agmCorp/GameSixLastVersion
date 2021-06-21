@@ -1,0 +1,98 @@
+{
+    "polarCoords": {
+        "rho": 5.0,
+        "phi": 80.0
+    },
+    "fleeConfig": {
+        "fleeSpeed": 3.0,
+        "shrinkTime": 3.0
+    },
+    "planetConfigList": [
+        {
+            "radius": 0.7,
+            "moonKeyList": [
+                "BIG_PINK",
+                "BIG_PINK",
+                "BIG_PINK",
+                "BIG_PINK",
+                "BIG_PINK"
+            ],
+            "swingConfig": {
+                "enabled": true,
+                "minRadius": 1.0,
+                "maxRadius": 3.0,
+                "swingingSpeed": 1.0,
+                "swingDuration": 6.0,
+                "pauseDuration": 4.0
+            },
+            "speedConfig": {
+                "initialSpeed": 1.0,
+                "clockwise": false,
+                "accelerationConfig": {
+                    "enabled": true,
+                    "maxSpeed": 1.8,
+                    "acceleration": 0.2,
+                    "bounce": true
+                }
+            }
+        },
+        {
+            "radius": 0.7,
+            "moonKeyList": [
+                "BIG_YELLOW",
+                "BIG_YELLOW",
+                "BIG_YELLOW",
+                "BIG_YELLOW",
+                "BIG_YELLOW"
+            ],
+            "swingConfig": {
+                "enabled": true,
+                "minRadius": 1.0,
+                "maxRadius": 3.0,
+                "swingingSpeed": 1.0,
+                "swingDuration": 6.0,
+                "pauseDuration": 4.0
+            },
+            "speedConfig": {
+                "initialSpeed": 1.0,
+                "clockwise": true,
+                "accelerationConfig": {
+                    "enabled": true,
+                    "maxSpeed": 1.8,
+                    "acceleration": 0.2,
+                    "bounce": true
+                }
+            }
+        },
+        {
+            "radius": 1.8,
+            "moonKeyList": [
+                "BIG_BLUE",
+                "BIG_BLUE",
+                "BIG_GAP",
+                "BIG_GAP",
+                "BIG_GAP",
+                "BIG_BLUE",
+                "BIG_BLUE"
+            ],
+            "swingConfig": {
+                "enabled": true,
+                "minRadius": 1.0,
+                "maxRadius": 3.0,
+                "swingingSpeed": 0.5,
+                "swingDuration": 0.0,
+                "pauseDuration": 0.0
+            },
+            "speedConfig": {
+                "initialSpeed": 1.0,
+                "clockwise": false,
+                "accelerationConfig": {
+                    "enabled": true,
+                    "maxSpeed": 1.8,
+                    "acceleration": 0.2,
+                    "bounce": true
+                }
+            }
+        }
+    ]
+}

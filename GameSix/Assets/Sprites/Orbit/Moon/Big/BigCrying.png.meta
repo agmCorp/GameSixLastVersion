@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: b4a8f7b1ec2212f479df73b6d74a0be3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9142585976814407905
+    second: BigCrying_0
+  - first:
+      213: 7500178892980397531
+    second: BigCrying_1
+  - first:
+      213: -7037562578439238985
+    second: BigCrying_2
+  - first:
+      213: 2831990610150842737
+    second: BigCrying_3
+  - first:
+      213: -7995261429662014884
+    second: BigCrying_4
+  - first:
+      213: 4162827453220361628
+    second: BigCrying_5
+  - first:
+      213: 6560929380351950384
+    second: BigCrying_6
+  - first:
+      213: -5383634612188424044
+    second: BigCrying_7
+  - first:
+      213: 1458158189753729529
+    second: BigCrying_8
+  - first:
+      213: 5785355358836749992
+    second: BigCrying_9
+  - first:
+      213: 8847513349350576028
+    second: BigCrying_10
+  - first:
+      213: -6674788248962542578
+    second: BigCrying_11
+  - first:
+      213: -3087300354075061719
+    second: BigCrying_12
+  - first:
+      213: 1673795444470484912
+    second: BigCrying_13
+  - first:
+      213: 7443323987772415051
+    second: BigCrying_14
+  - first:
+      213: -1264508011315787674
+    second: BigCrying_15
+  - first:
+      213: 621069120692720916
+    second: BigCrying_16
+  - first:
+      213: 8771974841958235416
+    second: BigCrying_17
+  - first:
+      213: 5289314520499823612
+    second: BigCrying_0
+  - first:
+      213: 3264764681863261815
+    second: BigCrying_1
+  - first:
+      213: -3554906459150229434
+    second: BigCrying_2
+  - first:
+      213: -8880257021756329775
+    second: BigCrying_3
+  - first:
+      213: 1615703014610176867
+    second: BigCrying_4
+  - first:
+      213: -5458896356585383476
+    second: BigCrying_5
+  - first:
+      213: 1658174500545838901
+    second: BigCrying_6
+  - first:
+      213: -149369575645627614
+    second: BigCrying_7
+  - first:
+      213: -5244482213707564164
+    second: BigCrying_8
+  - first:
+      213: -5606633870026047641
+    second: BigCrying_9
+  - first:
+      213: 2870696301729429958
+    second: BigCrying_10
+  - first:
+      213: 3405030390844626181
+    second: BigCrying_11
+  - first:
+      213: 120055096894737776
+    second: BigCrying_12
+  - first:
+      213: 6876779628059785171
+    second: BigCrying_13
+  - first:
+      213: -5796006293422876029
+    second: BigCrying_14
+  - first:
+      213: 6796400800696851137
+    second: BigCrying_15
+  - first:
+      213: -6476551842509864524
+    second: BigCrying_16
+  - first:
+      213: 3068734128903474056
+    second: BigCrying_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigCrying_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 544
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf325bb488b676940800000000000000
+      internalID: 5289314520499823612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 544
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e63b14e26ce4d20800000000000000
+      internalID: 3264764681863261815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 544
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640eb9cf86f6aaec0800000000000000
+      internalID: -3554906459150229434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 440
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0bb00d94df2c480800000000000000
+      internalID: -8880257021756329775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 440
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b0e58d4512c6610800000000000000
+      internalID: 1615703014610176867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 440
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9dd08afaa1e34b0800000000000000
+      internalID: -5458896356585383476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 329
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f35a04ce4030710800000000000000
+      internalID: 1658174500545838901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 329
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b346f89255dedf0800000000000000
+      internalID: -149369575645627614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 329
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3b1d863bd737b0800000000000000
+      internalID: -5244482213707564164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 222
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f7c6f433c3132b0800000000000000
+      internalID: -5606633870026047641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 222
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c93c9aa313c6d720800000000000000
+      internalID: 2870696301729429958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 222
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50514bf8919114f20800000000000000
+      internalID: 3405030390844626181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc2eb79758aa100800000000000000
+      internalID: 120055096894737776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 118
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7752113aa3f6f50800000000000000
+      internalID: 6876779628059785171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 118
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad9941cf2709fa0800000000000000
+      internalID: -5796006293422876029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca57b4f48aa15e50800000000000000
+      internalID: 6796400800696851137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b14cc9d96aae16a0800000000000000
+      internalID: -6476551842509864524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCrying_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bc86f6e65569a20800000000000000
+      internalID: 3068734128903474056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

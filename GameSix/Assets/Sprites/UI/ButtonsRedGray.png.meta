@@ -1,0 +1,2540 @@
+fileFormatVersion: 2
+guid: 9cd68c268849d594a94c8dcb97af7cc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5887565829154673496
+    second: ButtonsRedGray_0
+  - first:
+      213: 4939356288828675726
+    second: ButtonsRedGray_1
+  - first:
+      213: -5239788710642764105
+    second: ButtonsRedGray_2
+  - first:
+      213: 3280065658553583874
+    second: ButtonsRedGray_3
+  - first:
+      213: 8587447190206374920
+    second: ButtonsRedGray_4
+  - first:
+      213: 1392834811755743363
+    second: ButtonsRedGray_5
+  - first:
+      213: 8999504170707351795
+    second: ButtonsRedGray_6
+  - first:
+      213: 2803950697028902976
+    second: ButtonsRedGray_7
+  - first:
+      213: -9219986574588301932
+    second: ButtonsRedGray_8
+  - first:
+      213: 8164502371729031864
+    second: ButtonsRedGray_9
+  - first:
+      213: 8903768172955299063
+    second: ButtonsRedGray_10
+  - first:
+      213: -9038431603768672321
+    second: ButtonsRedGray_11
+  - first:
+      213: -4389553967735636024
+    second: ButtonsRedGray_12
+  - first:
+      213: 2557296121502313396
+    second: ButtonsRedGray_13
+  - first:
+      213: 2110997803926897342
+    second: ButtonsRedGray_14
+  - first:
+      213: -2723893048787639064
+    second: ButtonsRedGray_15
+  - first:
+      213: -8101869364904517904
+    second: ButtonsRedGray_16
+  - first:
+      213: -4392526960362778919
+    second: ButtonsRedGray_17
+  - first:
+      213: 2006739717447246749
+    second: ButtonsRedGray_18
+  - first:
+      213: 6396826402284362126
+    second: ButtonsRedGray_19
+  - first:
+      213: 87833156594489313
+    second: ButtonsRedGray_20
+  - first:
+      213: -6001900551280144388
+    second: ButtonsRedGray_21
+  - first:
+      213: -7396395950802503874
+    second: ButtonsRedGray_22
+  - first:
+      213: -363534662295469747
+    second: ButtonsRedGray_23
+  - first:
+      213: 5343111704945514171
+    second: ButtonsRedGray_24
+  - first:
+      213: 7695520293209776352
+    second: ButtonsRedGray_25
+  - first:
+      213: -2009211811155832993
+    second: ButtonsRedGray_26
+  - first:
+      213: -3862896427239738195
+    second: ButtonsRedGray_27
+  - first:
+      213: -3787693037694965213
+    second: ButtonsRedGray_28
+  - first:
+      213: -5051895716326762593
+    second: ButtonsRedGray_29
+  - first:
+      213: 927416519651449213
+    second: ButtonsRedGray_30
+  - first:
+      213: -2459758396276004719
+    second: ButtonsRedGray_31
+  - first:
+      213: -6183601098220752877
+    second: ButtonsRedGray_32
+  - first:
+      213: 4531803558726199945
+    second: ButtonsRedGray_33
+  - first:
+      213: -2536683101507476301
+    second: ButtonsRedGray_34
+  - first:
+      213: 7110371361766958158
+    second: ButtonsRedGray_35
+  - first:
+      213: -2712294199219493765
+    second: ButtonsRedGray_36
+  - first:
+      213: -1891574246549756685
+    second: ButtonsRedGray_37
+  - first:
+      213: 4351710101652181366
+    second: ButtonsRedGray_38
+  - first:
+      213: 8254216328755404275
+    second: ButtonsRedGray_39
+  - first:
+      213: -1722021727646190968
+    second: ButtonsRedGray_40
+  - first:
+      213: -6610041187715586308
+    second: ButtonsRedGray_41
+  - first:
+      213: -1692686278289577504
+    second: ButtonsRedGray_42
+  - first:
+      213: -1042729101778427327
+    second: ButtonsRedGray_43
+  - first:
+      213: -6353701454252428085
+    second: ButtonsRedGray_44
+  - first:
+      213: -5231597894107847558
+    second: ButtonsRedGray_45
+  - first:
+      213: 1578233668386163874
+    second: ButtonsRedGray_46
+  - first:
+      213: 1201695276899987641
+    second: ButtonsRedGray_47
+  - first:
+      213: 7213618489371444118
+    second: ButtonsRedGray_48
+  - first:
+      213: -5009874434549702811
+    second: ButtonsRedGray_49
+  - first:
+      213: -4026852809694102142
+    second: ButtonsRedGray_50
+  - first:
+      213: -272871196570670872
+    second: ButtonsRedGray_51
+  - first:
+      213: 3007280865984361274
+    second: ButtonsRedGray_52
+  - first:
+      213: 5205776817866787795
+    second: ButtonsRedGray_53
+  - first:
+      213: -3548394267075848286
+    second: ButtonsRedGray_54
+  - first:
+      213: -3257152978149571325
+    second: ButtonsRedGray_55
+  - first:
+      213: -3101319906375512105
+    second: ButtonsRedGray_56
+  - first:
+      213: -1489133321471196317
+    second: ButtonsRedGray_57
+  - first:
+      213: -8901782729084358854
+    second: ButtonsRedGray_58
+  - first:
+      213: 1166141527262580942
+    second: ButtonsRedGray_59
+  - first:
+      213: -2350427058151048163
+    second: ButtonsRedGray_60
+  - first:
+      213: -6240241215564816660
+    second: ButtonsRedGray_61
+  - first:
+      213: -4369257146752617067
+    second: ButtonsRedGray_62
+  - first:
+      213: 51827449935527707
+    second: ButtonsRedGray_63
+  - first:
+      213: 1201605361333020793
+    second: ButtonsRedGray_64
+  - first:
+      213: 7898219086389177062
+    second: ButtonsRedGray_65
+  - first:
+      213: 6172265088587888448
+    second: ButtonsRedGray_66
+  - first:
+      213: -1805074857176108413
+    second: ButtonsRedGray_67
+  - first:
+      213: 4319465945498868038
+    second: ButtonsRedGray_68
+  - first:
+      213: -7496413203335169876
+    second: ButtonsRedGray_69
+  - first:
+      213: 4278097442441288895
+    second: ButtonsRedGray_70
+  - first:
+      213: -4653633482672874354
+    second: ButtonsRedGray_71
+  - first:
+      213: -93418188316147764
+    second: ButtonsRedGray_72
+  - first:
+      213: -6567866828483234455
+    second: ButtonsRedGray_73
+  - first:
+      213: -8282877563030777283
+    second: ButtonsRedGray_74
+  - first:
+      213: -6509076157258602797
+    second: ButtonsRedGray_75
+  - first:
+      213: -4035641916708543641
+    second: ButtonsRedGray_76
+  - first:
+      213: 3583963740122640742
+    second: ButtonsRedGray_77
+  - first:
+      213: -4699841397892842005
+    second: ButtonsRedGray_78
+  - first:
+      213: -2332926942531740475
+    second: ButtonsRedGray_79
+  - first:
+      213: -8366842581198714730
+    second: ButtonsRedGray_80
+  - first:
+      213: 309814736395742850
+    second: ButtonsRedGray_81
+  - first:
+      213: 1335019568948477785
+    second: ButtonsRedGray_82
+  - first:
+      213: 426382187448433510
+    second: ButtonsRedGray_83
+  - first:
+      213: -6217048789209506183
+    second: ButtonsRedGray_84
+  - first:
+      213: 318327588664772018
+    second: ButtonsRedGray_85
+  - first:
+      213: -8497929526373086388
+    second: ButtonsRedGray_86
+  - first:
+      213: -6499823911753523026
+    second: ButtonsRedGray_87
+  - first:
+      213: 4487040720555626263
+    second: ButtonsRedGray_88
+  - first:
+      213: 2714321823206523711
+    second: ButtonsRedGray_89
+  - first:
+      213: -8812114002270508389
+    second: ButtonsRedGray_90
+  - first:
+      213: 1876560186664618477
+    second: ButtonsRedGray_91
+  - first:
+      213: 8600084659401425772
+    second: ButtonsRedGray_92
+  - first:
+      213: 3889550493192283466
+    second: ButtonsRedGray_93
+  - first:
+      213: -4559254729102840288
+    second: ButtonsRedGray_94
+  - first:
+      213: 6817266950735005952
+    second: ButtonsRedGray_95
+  - first:
+      213: 1647473228028961075
+    second: ButtonsRedGray_96
+  - first:
+      213: 6500180786064644094
+    second: ButtonsRedGray_97
+  - first:
+      213: -1004884868471477776
+    second: ButtonsRedGray_98
+  - first:
+      213: 6103311856523460607
+    second: ButtonsRedGray_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonsRedGray_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1103
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8531e7e8de5d4b150800000000000000
+      internalID: 5887565829154673496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1103
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8699b6ff5e1c8440800000000000000
+      internalID: 4939356288828675726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1103
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b63904ede78847b0800000000000000
+      internalID: -5239788710642764105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1103
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2094b028652258d20800000000000000
+      internalID: 3280065658553583874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1103
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8046da3a8bdbc2770800000000000000
+      internalID: 8587447190206374920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1103
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388cf79b1e7545310800000000000000
+      internalID: 1392834811755743363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_6
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1103
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f878a1ac59a4ec70800000000000000
+      internalID: 8999504170707351795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1103
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040ed109d42a9e620800000000000000
+      internalID: 2803950697028902976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_8
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1103
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d2bcb5f070c0080800000000000000
+      internalID: -9219986574588301932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_9
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1103
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b24eb256a32e4170800000000000000
+      internalID: 8164502371729031864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 981
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fced67aaf9809b70800000000000000
+      internalID: 8903768172955299063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 981
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf34b2185a019280800000000000000
+      internalID: -9038431603768672321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 981
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff5b65ceb2513c0800000000000000
+      internalID: -4389553967735636024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 981
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb21abf5475d7320800000000000000
+      internalID: 2557296121502313396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 980
+        width: 235
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb241b07155cb4d10800000000000000
+      internalID: 2110997803926897342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_15
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 981
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e46bd434b9c23ad0800000000000000
+      internalID: -2723893048787639064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_16
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 981
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe1f38fcb0609f80800000000000000
+      internalID: -8101869364904517904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_17
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 981
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de004d800c9a03c0800000000000000
+      internalID: -4392526960362778919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_18
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 981
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d936c1f042f59db10800000000000000
+      internalID: 2006739717447246749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_19
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 980
+        width: 235
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89dff598b716c850800000000000000
+      internalID: 6396826402284362126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 858
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d0526acb083100800000000000000
+      internalID: 87833156594489313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 858
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffc9bf7f37f4bca0800000000000000
+      internalID: -6001900551280144388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 858
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37774e0219ba5990800000000000000
+      internalID: -7396395950802503874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 858
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d414656962774faf0800000000000000
+      internalID: -363534662295469747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_24
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 858
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6528069cb862a40800000000000000
+      internalID: 5343111704945514171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_25
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 858
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0249e1feafbca60800000000000000
+      internalID: 7695520293209776352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_26
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 858
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8985c088dd14e0800000000000000
+      internalID: -2009211811155832993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_27
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 858
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4ff3a7a2c346ac0800000000000000
+      internalID: -3862896427239738195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_28
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 858
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aa8f110496f6bc0800000000000000
+      internalID: -3787693037694965213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_29
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 858
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979602bc9f04e9b0800000000000000
+      internalID: -5051895716326762593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 736
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7957a43968dedc00800000000000000
+      internalID: 927416519651449213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 736
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1982fac55ce2dddd0800000000000000
+      internalID: -2459758396276004719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 736
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31036d3309f6f2aa0800000000000000
+      internalID: -6183601098220752877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 736
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ae9bd735334ee30800000000000000
+      internalID: 4531803558726199945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 736
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b429eab824ebccd0800000000000000
+      internalID: -2536683101507476301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_35
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 736
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ea37c41d1da260800000000000000
+      internalID: 7110371361766958158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_36
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 736
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b746b21dbcefb5ad0800000000000000
+      internalID: -2712294199219493765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_37
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 736
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4ef18ae37cfb5e0800000000000000
+      internalID: -1891574246549756685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_38
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 736
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6711576f741646c30800000000000000
+      internalID: 4351710101652181366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_39
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 736
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd1bea40edc8270800000000000000
+      internalID: 8254216328755404275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 614
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f424cc562a18e0800000000000000
+      internalID: -1722021727646190968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 614
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e28faf8a6444a0800000000000000
+      internalID: -6610041187715586308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_42
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 614
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92f525cce5288e0800000000000000
+      internalID: -1692686278289577504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 614
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e883186b7781f0800000000000000
+      internalID: -1042729101778427327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_44
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 613
+        width: 235
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b662d03e13d7a0800000000000000
+      internalID: -6353701454252428085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_45
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 614
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74250afe61a567b0800000000000000
+      internalID: -5231597894107847558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_46
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 614
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac08b8d82307e510800000000000000
+      internalID: 1578233668386163874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_47
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 614
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b073ebcc774da010800000000000000
+      internalID: 1201695276899987641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_48
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 614
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693cc24fbcbeb1460800000000000000
+      internalID: 7213618489371444118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_49
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 613
+        width: 235
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9a57ceb9597ab0800000000000000
+      internalID: -5009874434549702811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 491
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d366b64bebd18c0800000000000000
+      internalID: -4026852809694102142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_51
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 491
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e828faa711963cf0800000000000000
+      internalID: -272871196570670872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 491
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33b3dca3020cb920800000000000000
+      internalID: 3007280865984361274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_53
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 491
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbc9e83f62ae3840800000000000000
+      internalID: 5205776817866787795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_54
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 491
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a759ebd63291cec0800000000000000
+      internalID: -3548394267075848286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_55
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 491
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3050a4e9f944cc2d0800000000000000
+      internalID: -3257152978149571325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_56
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 491
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc3a50af5e5f4d0800000000000000
+      internalID: -3101319906375512105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_57
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 491
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36303864229855be0800000000000000
+      internalID: -1489133321471196317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_58
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 491
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f283585c3867480800000000000000
+      internalID: -8901782729084358854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_59
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 491
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec051526a87fe2010800000000000000
+      internalID: 1166141527262580942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 369
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb0703b0b916fd0800000000000000
+      internalID: -2350427058151048163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_61
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 369
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed1893da53669a0800000000000000
+      internalID: -6240241215564816660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_62
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 369
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595397b36c74d53c0800000000000000
+      internalID: -4369257146752617067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_63
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 369
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f75078ac028b000800000000000000
+      internalID: 51827449935527707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 369
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a572b5b5fca010800000000000000
+      internalID: 1201605361333020793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_65
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 369
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaef6a996c1c9d60800000000000000
+      internalID: 7898219086389177062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_66
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 369
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04773d0656a48a550800000000000000
+      internalID: 6172265088587888448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_67
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 369
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38277092bf513f6e0800000000000000
+      internalID: -1805074857176108413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_68
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 369
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6495bd45463d1fb30800000000000000
+      internalID: 4319465945498868038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_69
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 369
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b8a5c8e367f790800000000000000
+      internalID: -7496413203335169876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 247
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc583325fade5b30800000000000000
+      internalID: 4278097442441288895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 247
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c5b66e009fa6fb0800000000000000
+      internalID: -4653633482672874354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 247
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccffad517ac14bef0800000000000000
+      internalID: -93418188316147764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_73
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 247
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9657f24eaef3ad4a0800000000000000
+      internalID: -6567866828483234455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_74
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 246
+        width: 235
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325f71bdbe4d0d80800000000000000
+      internalID: -8282877563030777283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_75
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 247
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e2a6b8bd1ba5a0800000000000000
+      internalID: -6509076157258602797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_76
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 247
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76329e9fe058ef7c0800000000000000
+      internalID: -4035641916708543641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_77
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 247
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f3e1780cccb130800000000000000
+      internalID: 3583963740122640742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_78
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 247
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedfbe1462fc6ceb0800000000000000
+      internalID: -4699841397892842005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_79
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 246
+        width: 235
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc157f5e47cf9fd0800000000000000
+      internalID: -2332926942531740475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698c908700103eb80800000000000000
+      internalID: -8366842581198714730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 124
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eac0d7cdeac4400800000000000000
+      internalID: 309814736395742850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_82
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 124
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f7e578931f68210800000000000000
+      internalID: 1335019568948477785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_83
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 124
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bfa652750dae500800000000000000
+      internalID: 426382187448433510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_84
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 124
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e15e7c01b98b9a0800000000000000
+      internalID: -6217048789209506183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_85
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 124
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5029c514dea6400800000000000000
+      internalID: 318327588664772018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_86
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 124
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8a36ae1a411a80800000000000000
+      internalID: -8497929526373086388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_87
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 124
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0675df69cfbc5a0800000000000000
+      internalID: -6499823911753523026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_88
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 124
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4e6113cb254e30800000000000000
+      internalID: 4487040720555626263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_89
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 124
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33c05e21553ba520800000000000000
+      internalID: 2714321823206523711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aab66e00515b580800000000000000
+      internalID: -8812114002270508389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_91
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de909cd1c81ea0a10800000000000000
+      internalID: 1876560186664618477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_92
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6388e9be63a95770800000000000000
+      internalID: 8600084659401425772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_93
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45ebaad0957af530800000000000000
+      internalID: 3889550493192283466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_94
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2e47daf54ab0c0800000000000000
+      internalID: -4559254729102840288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_95
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00902991c2ccb9e50800000000000000
+      internalID: 6817266950735005952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_96
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331e1a51c200dd610800000000000000
+      internalID: 1647473228028961075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_97
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7d3394cf7453a50800000000000000
+      internalID: 6500180786064644094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_98
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9a796498eed02f0800000000000000
+      internalID: -1004884868471477776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsRedGray_99
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2
+        width: 235
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffb289fbc153b450800000000000000
+      internalID: 6103311856523460607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

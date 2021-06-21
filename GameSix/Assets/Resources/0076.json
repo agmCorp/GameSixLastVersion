@@ -1,0 +1,73 @@
+{
+	"polarCoords": {
+		"rho": 5,
+		"phi": 140.0
+	},
+	"fleeConfig": {
+		"fleeSpeed": 3.0,
+		"shrinkTime": 3.0
+	},
+	"planetConfigList": [
+		{
+			"radius": 1.0,
+			"moonKeyList": [
+				"SMALL_ORANGE",
+				"BIG_GAP",
+				"SMALL_ORANGE",
+				"BIG_GAP",
+				"SMALL_ORANGE",
+				"BIG_GAP",
+				"SMALL_ORANGE"
+			],
+			"swingConfig": {
+				"enabled": false,
+				"minRadius": 0.0,
+				"maxRadius": 0.0,
+				"swingingSpeed": 0,
+				"swingDuration": 0.0,
+				"pauseDuration": 0.0
+			},
+			"speedConfig": {
+				"initialSpeed": 1.0,
+				"clockwise": true,
+				"accelerationConfig": {
+					"enabled": false,
+					"maxSpeed": 0.0,
+					"acceleration": 0.0,
+					"bounce": false
+				}
+			}
+		},
+		{
+			"radius": 1.5,
+			"moonKeyList": [
+				"BIG_GAP",
+				"BIG_GAP",
+				"SMALL_BLUE",
+				"BIG_GAP",
+				"BIG_GAP",
+				"SMALL_YELLOW",
+				"BIG_GAP",
+				"BIG_GAP"
+			],
+			"swingConfig": {
+				"enabled": false,
+				"minRadius": 0.0,
+				"maxRadius": 0.0,
+				"swingingSpeed": 0,
+				"swingDuration": 0.0,
+				"pauseDuration": 0.0
+			},
+			"speedConfig": {
+				"initialSpeed": 2.0,
+				"clockwise": true,
+				"accelerationConfig": {
+					"enabled": false,
+					"maxSpeed": 0.0,
+					"acceleration": 0.0,
+					"bounce": false
+				}
+			}
+		}
+	]
+}
