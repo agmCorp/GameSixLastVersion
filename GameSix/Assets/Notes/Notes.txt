@@ -36,6 +36,7 @@
 	- Crear en la carpeta del proyecto un archivo README.md. 
 	Ese archivo tiene descripcion y links a imagenes creadas en el issue del proyecto. Ver otros README.md de otros repositorios mios.
 	- Luego ejecutar:
+
 	git init
 	git add .
 	git commit -m "Initial commit"
@@ -47,7 +48,19 @@
 
 	Luego de esto, el proyecto de mi disco duro quedo desconectado de GitHub y puedo incluso volver a hacer "git init" si quiero y repetir el proceso.
 	Sino, mi proyecto queda enganchado a GitHub y puedo hacer push y pull por linea de comando. Para el caso de Unity no me parece buena idea.
+
+	ATENCION:
+	Si al ejecutar la linea de comandos anterior me da un error diciendo "Please tell me who you are", desconectar mi proyecto (rmdir /s .git) y ejecutar esta linea 
+	de comandos:
 	
+	git init
+	git config --global user.name "agmCorp"
+	git config --global user.email "alvaro.gabriel.morales@gmail.com"	
+	git add .
+	git commit -m "Initial commit"
+	git remote add origin https://github.com/agmCorp/REPOSITORIO_NUEVO.git
+	git push -u origin master
+
 	OBSERVACION:
 	Si no borro todas las carpetas excepto Assets, Packages, ProjectSettings, al subir el proyecto a GitHub obtengo errores como este.
 	
@@ -344,7 +357,7 @@
 	con la mia alcanza: http://wiki.unity3d.com/index.php/Singleton
 
 18) Awake vs Start:
-	One approach is to use Awake to initialise an object’s own references and variables, (e.g. creating the connections between the object and its own components) 
+	One approach is to use Awake to initialise an objectÂ’s own references and variables, (e.g. creating the connections between the object and its own components) 
 	while then using Start to use or create references to other objects and their components.
 	https://gamedevbeginner.com/start-vs-awake-in-unity/
 
@@ -455,7 +468,7 @@
 	Hice lo mismo para todos los Blend Style porque mi Global Light Actors usa Blend Style 1.
 	OBSERVACION: Al final quite la global light Actors porque vi que no afecta nada.
 	Tambien deshabilite la propiedad Use Depth/Stencil Buffer: This option is enabled by default. Clear this option to disable the Depth/Stencil Buffer. 
-	Doing so might improve your project’s performance, especially on mobile platforms. You should clear this option if you are not using any features 
+	Doing so might improve your projectÂ’s performance, especially on mobile platforms. You should clear this option if you are not using any features 
 	that require the Depth/Stencil Buffer (such as Sprite Mask).
 
 	Fui a Main Camera, Seccion rendering, Render shadows lo destilde.
@@ -586,7 +599,7 @@ Menos mal que son pocos.
 	- Se invoca cuando el GameObject es activado. Por lo tanto, se puede llegar a invocar muchas veces durante el ciclo de vida del GameObject (si lo activo, 
 	  desactivo, activo, etc.). Puede o no haberse ejecutado el Start antes. Dependiendo de si el objeto fue solo activado (Awake-OnEnable-Start) o 
 	  activado-desactivado-activado (Awake-OnEnable-Start-OnEnable), asi que ojo. Yo lo uso para objetos pooleados, pero en ese caso hay UNA SITUACION QUE ME FAVORECE
-	  y que esta explicado mas abajo (ver ¿Que criterio segui yo?). Sino, no lo uso para nada.
+	  y que esta explicado mas abajo (ver Â¿Que criterio segui yo?). Sino, no lo uso para nada.
 
 	Start:
 	- Se invoca UNA UNICA vez en el ciclo de vida del GameObject.
@@ -625,7 +638,7 @@ Menos mal que son pocos.
 
 	POR ESO A MIS SCRIPTS DE OBJETOS POOLEADOS NO LES PROGRAMO START. NO SE NECESITA.
 
-	¿Que criterio segui yo?
+	Â¿Que criterio segui yo?
 
 	Awake lo uso para:
 	- Inicializar variables que apuntan a mis componentes o componentes de otros GameObjects.
